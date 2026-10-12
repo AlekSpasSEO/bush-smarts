@@ -2,6 +2,8 @@
 
 A practical editorial site for yard, workshop, home, village, and city life. Built as static HTML, CSS, and JavaScript so it can be hosted directly with GitHub Pages.
 
+**Live site:** [alekspasseo.github.io/bush-smarts](https://alekspasseo.github.io/bush-smarts/)
+
 ## Pages
 
 - `index.html` — homepage and guide index
@@ -21,7 +23,7 @@ Then open the local address printed by the server. There is no build step or pac
 
 ## Publishing
 
-Enable GitHub Pages with **Deploy from a branch**, the `main` branch, and the repository root. Relative paths let the site work under a project URL such as `https://USERNAME.github.io/bush-smarts/`.
+GitHub Pages is configured to deploy from the `main` branch at the repository root. Relative paths let the site work under its project URL.
 
 ## Editorial note
 
