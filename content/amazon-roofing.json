@@ -1,0 +1,191 @@
+[
+  {
+    "id": "henry-887-tropi-cool",
+    "asin": "B00OMRF05W",
+    "expectedBrands": [
+      "Henry"
+    ],
+    "identity": {
+      "model": [
+        "HE887HS073"
+      ],
+      "titleIncludes": [
+        "HE887HS073",
+        "Tropicool",
+        "5 Gallon"
+      ]
+    },
+    "matchNote": "HE887HS073 identifies the white 887 silicone product; this mapping selects the nominal five-gallon package. Do not replace it with a different Henry coating or repair sealant."
+  },
+  {
+    "id": "eternabond-roofseal",
+    "asin": "B002RSIK4G",
+    "expectedBrands": [
+      "EternaBond"
+    ],
+    "identity": {
+      "model": [
+        "RSW-4-50",
+        "RSW-4-50R"
+      ],
+      "titleIncludes": [
+        "RoofSeal",
+        "White",
+        "EB-RW040-50R"
+      ]
+    },
+    "matchNote": "White RoofSeal, four-inch by fifty-foot roll, matching the reviewed size. API model and part number use RSW aliases; the title identifies EB-RW040-50R."
+  },
+  {
+    "id": "dicor-501lsw",
+    "asin": "B000BRF7QE",
+    "expectedBrands": [
+      "Dicor"
+    ],
+    "identity": {
+      "model": [
+        "501LSW-1"
+      ],
+      "titleIncludes": [
+        "501LSW-1",
+        "Self-Leveling",
+        "White",
+        "10.3"
+      ]
+    },
+    "matchNote": "Single white 10.3-ounce 501LSW-1 self-leveling tube. Excludes dove-white 501LSD, Ultra 610SASLW and non-sag variants."
+  },
+  {
+    "id": "geocel-2300",
+    "asin": "B09LP14QZX",
+    "expectedBrands": [
+      "Geocel"
+    ],
+    "identity": {
+      "model": [
+        "GC66900"
+      ],
+      "titleIncludes": [
+        "2300",
+        "TRIPOLYMER",
+        "10.3",
+        "Plastic"
+      ]
+    },
+    "matchNote": "Selects the current manufacturer's listed GC66900 crystal-clear 10.3-ounce plastic-cartridge variant. The clear SKU has no X suffix on the current manufacturer table; do not infer the formula of colored legacy stock from this match."
+  },
+  {
+    "id": "sashco-through-the-roof",
+    "asin": "B082FN8GZV",
+    "expectedBrands": [
+      "Sashco"
+    ],
+    "identity": {
+      "model": [
+        "14010 10.5oz"
+      ],
+      "titleIncludes": [
+        "Through The Roof",
+        "10.5",
+        "Cartridge",
+        "Clear",
+        "Pack of 3"
+      ]
+    },
+    "matchNote": "Clear cartridge grade in a three-pack of 10.5-ounce tubes. API part number identifies 14010; the API model field contains a less useful numeric value, so identity requires the part number plus grade, size, color and package tokens."
+  },
+  {
+    "id": "grace-ice-water-shield",
+    "asin": "B0CK9P7PJT",
+    "expectedBrands": [
+      "Grace"
+    ],
+    "identity": {
+      "model": [
+        "44556",
+        "628"
+      ],
+      "titleIncludes": [
+        "Ice and Water Shield",
+        "36 Inch",
+        "66.6",
+        "200",
+        "Single Roll"
+      ]
+    },
+    "matchNote": "Original GRACE membrane in the manufacturer-documented 36-inch by 66.6-foot, 200-square-foot single-roll format, matching the review's selected roll. Excludes GRACE Select and HT; avoids the bulk listing with conflicting thickness metadata."
+  },
+  {
+    "id": "palram-suntuf-diy",
+    "asin": "B000M2VC6C",
+    "expectedBrands": [
+      "Suntuf"
+    ],
+    "identity": {
+      "model": [
+        "101697"
+      ],
+      "titleIncludes": [
+        "Suntuf",
+        "8 ft.",
+        "Clear",
+        "Roofing Panel"
+      ]
+    },
+    "matchNote": "Clear eight-foot SUNTUF panel, model 101697. This is the panel itself rather than a closure strip or another brand's compatible accessory. API availability currently says unavailable; preserve that status and do not show an in-stock purchase promise."
+  },
+  {
+    "id": "lomanco-bib-12",
+    "asin": "B000BPB4J0",
+    "expectedBrands": [
+      "Lomanco"
+    ],
+    "identity": {
+      "model": [
+        "BIB12"
+      ],
+      "titleIncludes": [
+        "BIB-12",
+        "Mill",
+        "Whirlybird"
+      ]
+    },
+    "matchNote": "Complete twelve-inch internally braced BIB12 in mill finish; excludes head-only, fourteen-inch, externally braced and tile-roof versions."
+  },
+  {
+    "id": "dupont-tyvek-protec-200",
+    "asin": "B01LXHFPA0",
+    "expectedBrands": [
+      "Tyvek"
+    ],
+    "identity": {
+      "model": [
+        "40362"
+      ],
+      "titleIncludes": [
+        "Tyvek",
+        "Protec 200",
+        "4' x 250'",
+        "1 Roll"
+      ]
+    },
+    "matchNote": "DuPont's roofing Protec 200 in the manufacturer-documented four-foot by two-hundred-fifty-foot single-roll format. Excludes wall wrap, Roof Protector and other Protec grades."
+  },
+  {
+    "id": "titanium-udl25",
+    "asin": "B00EFL20PS",
+    "expectedBrands": [
+      "INTERWRAP"
+    ],
+    "identity": {
+      "model": [
+        "UDL25"
+      ],
+      "titleIncludes": [
+        "Roof Underlayment",
+        "48inx250ft"
+      ]
+    },
+    "matchNote": "Exact UDL25 model under the original InterWrap manufacturer name, documented by Owens Corning's acquisition announcement. Generic catalog title is accepted only with the exact original manufacturer and UDL25 model/part number; excludes UDL30, UDL50 and PSU30."
+  }
+]

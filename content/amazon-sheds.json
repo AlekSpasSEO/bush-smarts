@@ -1,0 +1,193 @@
+[
+  {
+    "id": "keter-cortina-9x7",
+    "asin": "B0FCQBZG99",
+    "expectedBrands": [
+      "Keter"
+    ],
+    "identity": {
+      "model": [
+        "250950"
+      ],
+      "titleIncludes": [
+        "Cortina",
+        "9x7",
+        "Graphite"
+      ]
+    },
+    "matchNote": "Exact manufacturer item number, Cortina family, 9x7 size and graphite variant confirmed in API identity fields. Excludes green item 260978 and Signature 9x7."
+  },
+  {
+    "id": "lifetime-6402",
+    "asin": "B0041115M6",
+    "expectedBrands": [
+      "LIFETIME"
+    ],
+    "identity": {
+      "model": [
+        "6402"
+      ],
+      "titleIncludes": [
+        "6402",
+        "8 by 12.5"
+      ]
+    },
+    "matchNote": "Exact model and part number 6402, exact 8 by 12.5 size. Does not match same-size 60395 or other Lifetime sheds."
+  },
+  {
+    "id": "suncast-bms5700",
+    "asin": "B00DTLE3AA",
+    "expectedBrands": [
+      "Suncast"
+    ],
+    "identity": {
+      "model": [
+        "BMS5700"
+      ],
+      "titleIncludes": [
+        "Vertical",
+        "54 cu. ft."
+      ]
+    },
+    "matchNote": "Exact part number BMS5700; API model BMS5700D is the catalog suffix, while the exact part number establishes the reviewed identity. Excludes Stoney BMS5700SB and other vertical models."
+  },
+  {
+    "id": "keter-premier-tall",
+    "asin": "B083PKMZFZ",
+    "expectedBrands": [
+      "Keter"
+    ],
+    "identity": {
+      "model": [
+        "246295"
+      ],
+      "titleIncludes": [
+        "Premier Tall",
+        "Grey & Black",
+        "Shelving Brackets"
+      ]
+    },
+    "matchNote": "Exact model and part number 246295. Catalog physical dimensions agree with the manufacturer cabinet. Catalog title footprint and capacity wording contradict manufacturer documentation; use manufacturer specifications for editorial copy. Excludes deck-box bundle with no matching item number."
+  },
+  {
+    "id": "arrow-yardsaver-4x10",
+    "asin": "B00097IDJE",
+    "expectedBrands": [
+      "Arrow"
+    ],
+    "identity": {
+      "model": [
+        "YS410"
+      ],
+      "titleIncludes": [
+        "Yardsaver",
+        "4' x 10'",
+        "Pent Roof"
+      ]
+    },
+    "matchNote": "Exact YS410 part number, Yardsaver family and 4 by 10 pent-roof size. Manufacturer manual explicitly lists YS410 and related YS410-A identifiers. API features identify the eggshell finish. Excludes YS47-A 4x7."
+  },
+  {
+    "id": "keter-factor-8x6",
+    "asin": "B00DH8J24C",
+    "expectedBrands": [
+      "Keter"
+    ],
+    "identity": {
+      "model": [
+        "213039"
+      ],
+      "titleIncludes": [
+        "Factor",
+        "8x6"
+      ]
+    },
+    "matchNote": "Exact manufacturer item213039 and8x6 Factor family. Manufacturer calls finish Brown; catalog Taupe describes the same exact item. Not a6x8 Factor."
+  },
+  {
+    "id": "suncast-tremont-bms8100",
+    "asin": "B00GNFIP08",
+    "expectedBrands": [
+      "Suncast"
+    ],
+    "identity": {
+      "model": [
+        "BMS8100"
+      ],
+      "titleIncludes": [
+        "8x10",
+        "Tremont"
+      ]
+    },
+    "matchNote": "Exact BMS8100 model and part,8x10 Tremont family. Full review revised from8125 to current reviewed8100 documentation; earlier8125 identity is not accepted."
+  },
+  {
+    "id": "lifetime-60489",
+    "asin": "B0DXXDJGDK",
+    "expectedBrands": [
+      "LIFETIME"
+    ],
+    "identity": {
+      "model": [
+        "60489"
+      ],
+      "titleIncludes": [
+        "Horizontal",
+        "Storage Shed"
+      ]
+    },
+    "matchNote": "Exact model and part60489. Review now uses60489 manufacturer documentation; older60212 accessory and airflow claims were removed."
+  },
+  {
+    "id": "handy-home-rookwood-10x12",
+    "asin": "B091RM6MQX",
+    "expectedBrands": [
+      "Handy Home Products"
+    ],
+    "identity": {
+      "model": [
+        "19431-3"
+      ],
+      "titleIncludes": [
+        "Rookwood",
+        "10x12",
+        "with Floor Kit"
+      ]
+    },
+    "matchNote": "Exact19431-3,10x12 Rookwood floor-inclusive package. Full review revised to correct footprint, kit inclusions and finishing requirements. Excludes floorless19429-0."
+  },
+  {
+    "id": "best-barns-springfield-12x16",
+    "asin": "B00L4HX57I",
+    "expectedBrands": [
+      "Best Barns Inc."
+    ],
+    "identity": {
+      "model": [],
+      "titleIncludes": [
+        "Springfield",
+        "12 ft. x 16 ft.",
+        "without Floor"
+      ]
+    },
+    "matchNote": "Blank model/part fields, so exact brand plus distinct family, size and explicit floorless package establish identity. Springfield manufacturer construction/manual sources support review. Does not map Millcreek or a floor-inclusive Springfield."
+  },
+  {
+    "id": "handy-home-windemere-10x12",
+    "asin": "B09P47M7D4",
+    "expectedBrands": [
+      "Handy Home Products"
+    ],
+    "identity": {
+      "model": [
+        "19481-8"
+      ],
+      "titleIncludes": [
+        "Windemere",
+        "10x12",
+        "with Floor"
+      ]
+    },
+    "matchNote": "Direct GetItems exact manufacturer model and part19481-8, Windemere10x12 with floor. Research review already covers the floor-inclusive package."
+  }
+]

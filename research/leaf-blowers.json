@@ -1,0 +1,1492 @@
+{
+  "category": {
+    "id": "leaf-blowers",
+    "name": "Leaf blowers",
+    "labels": [
+      {
+        "id": "cordless-handheld",
+        "name": "Cordless handheld"
+      },
+      {
+        "id": "corded-electric",
+        "name": "Corded electric"
+      },
+      {
+        "id": "gas-handheld",
+        "name": "Gas handheld"
+      },
+      {
+        "id": "backpack",
+        "name": "Backpack blowers"
+      },
+      {
+        "id": "blower-vacuums",
+        "name": "Blower-vacuums"
+      }
+    ]
+  },
+  "checkedAt": "2026-10-13",
+  "methodology": "Manufacturer-led product research with identifiable community accounts where available. No hands-on testing, Amazon customer-review-text analysis or representative consensus is claimed.",
+  "products": [
+    {
+      "id": "ego-lb7654",
+      "name": "EGO POWER+ LB7654",
+      "brand": "EGO",
+      "model": "LB7654 (5.0 Ah kit)",
+      "labels": [
+        "cordless-handheld"
+      ],
+      "summary": "A high-output cordless kit for owners who want substantial clearing power without adding a fuel routine. The useful comparison is the complete kit and its working runtime.",
+      "verdict": "A strong shortlist for general yard cleanup when the battery system and loaded weight suit you.",
+      "fit": "Homeowners with regular leaf clearing and room to charge an EGO battery.",
+      "skip": "Anyone expecting continuous maximum-output work across a heavily wooded property on one charge.",
+      "pros": [
+        "Battery and charger included",
+        "Variable output plus turbo",
+        "EGO battery compatibility",
+        "No extension cord"
+      ],
+      "cons": [
+        "Turbo increases battery demand",
+        "Battery adds handheld weight",
+        "Blower only; no collection bag"
+      ],
+      "sections": [
+        {
+          "heading": "Choose the complete kit",
+          "body": "The LB7654 pairs the 765 CFM blower with a 5.0 Ah battery and charger. EGO's maximum airspeed figure is 200 MPH with the tapered nozzle. That is useful specification context, but it is not a timed yard-clearing result. The practical attraction is having a ready cordless setup, with adjustable output for the patio and a stronger setting for leaf piles."
+        },
+        {
+          "heading": "Spend the battery where it helps",
+          "body": "A leaf that moves easily does not need the same setting as a damp pile caught against a fence. Start with enough air to make progress and reserve the highest output for stubborn patches. Think about your longest cleanup session, then price a spare battery if needed. A tempting bare-tool price is less useful when you still need the battery, charger and a place to store them."
+        },
+        {
+          "heading": "Owner feedback makes runtime personal",
+          "body": "In the inspected EGO discussion, a 765-family owner described handling a large yard with a much larger 12 Ah battery. That is evidence of their setup, not a promise for the kit's 5 Ah pack. Other comments discuss different EGO models. Treat the thread as practical buying context and compare your expected leaf load, working setting and battery budget before deciding this kit is enough."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Maximum airflow",
+          "value": "765 CFM, turbo",
+          "sourceUrl": "https://egopowerplus.com/blower-765cfm-lb7650/"
+        },
+        {
+          "label": "Maximum airspeed",
+          "value": "200 MPH with tapered nozzle",
+          "sourceUrl": "https://egopowerplus.com/blower-765cfm-lb7650/"
+        },
+        {
+          "label": "Kit battery",
+          "value": "One 56V 5.0 Ah battery and charger",
+          "sourceUrl": "https://egopowerplus.com/media/contentmanager/content/26-0123_EGO_ProductCatalog2026_NJ_LowRes.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://egopowerplus.com/blower-765cfm-lb7650/",
+          "title": "EGO 765 blower specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://egopowerplus.com/media/contentmanager/content/26-0123_EGO_ProductCatalog2026_NJ_LowRes.pdf",
+          "title": "2026 EGO catalog kit configurations",
+          "type": "manufacturer-catalog",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/egopowerplus/comments/1h0fifz/are_ego_leafblowers_really_good/",
+          "title": "EGO blower owner discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A 765-family owner describes large-yard work using a 12 Ah battery; that battery differs substantially from this kit.",
+        "limitations": "Individual account and family-level model identification. Does not establish runtime with the included 5 Ah battery.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/egopowerplus/comments/1h0fifz/are_ego_leafblowers_really_good/"
+        ]
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "ego-lb6504",
+      "name": "EGO POWER+ LB6504",
+      "brand": "EGO",
+      "model": "LB6504 (5.0 Ah kit)",
+      "labels": [
+        "cordless-handheld"
+      ],
+      "summary": "The 650 CFM kit remains worth comparing when its package and price make sense. It offers a complete entry into EGO's battery system without chasing the highest output.",
+      "verdict": "A practical all-round kit if the current deal is meaningfully better than a larger EGO option.",
+      "fit": "Routine lawn, driveway and patio cleanup with a preference for a complete battery kit.",
+      "skip": "Buyers needing collection or expecting an older model number to guarantee a bargain.",
+      "pros": [
+        "5.0 Ah battery kit",
+        "Adjustable airflow",
+        "Shared EGO battery platform",
+        "Handheld cordless layout"
+      ],
+      "cons": [
+        "Lower maximum airflow than LB7654",
+        "Battery cost matters beyond the first pack",
+        "No vacuum or bag"
+      ],
+      "sections": [
+        {
+          "heading": "The middle option needs a good reason",
+          "body": "The LB6504 bundles EGO's 650 CFM blower with a 5.0 Ah battery and standard charger. Its maximum stated airspeed is 180 MPH. The important distinction from a bare tool is the usable package you receive. Compare the current installed cost of batteries and charging rather than assume an older model is automatically the cheapest way to get started."
+        },
+        {
+          "heading": "Think about everyday clearing",
+          "body": "For frequent short cleanup jobs, convenience can be more useful than the largest advertised number. Keep a charged pack ready and use a setting that moves the material without scattering it across the yard again. Plan where the leaves will end up before starting. A blower saves little effort if it simply rearranges a pile you will have to collect later."
+        },
+        {
+          "heading": "Useful owner context stays model-specific",
+          "body": "The inspected EGO comparison discussion includes a 650 owner who reported adequate power around their yard and buying the LB6504 for its battery bundle. That supports its role as a sensible package, without establishing a universal clearing result. Battery size, leaf moisture and how long you use maximum output change the experience. Handle the loaded tool if possible and judge the whole job you need it to do."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Maximum airflow",
+          "value": "650 CFM",
+          "sourceUrl": "https://egopowerplus.com/blower-650cfm/"
+        },
+        {
+          "label": "Maximum airspeed",
+          "value": "180 MPH",
+          "sourceUrl": "https://egopowerplus.com/blower-650cfm/"
+        },
+        {
+          "label": "Kit",
+          "value": "One 56V 5.0 Ah battery and standard charger",
+          "sourceUrl": "https://egopowerplus.com/blower-650cfm/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://egopowerplus.com/blower-650cfm/",
+          "title": "EGO 650 blower and LB6504 configuration",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/egopowerplus/comments/1458078/how_is_the_530cfm_blower_vs_650_765/",
+          "title": "EGO 650 owner comparison",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "An owner reports adequate yard-clearing power and buying the LB6504 to obtain the 5 Ah battery bundle.",
+        "limitations": "Anecdotal, with other family models discussed in the same thread; no measured comparative clearing test.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/egopowerplus/comments/1458078/how_is_the_530cfm_blower_vs_650_765/"
+        ]
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "dewalt-dcbl772b",
+      "name": "DEWALT DCBL772B FLEXVOLT",
+      "brand": "DEWALT",
+      "model": "DCBL772B (tool only)",
+      "labels": [
+        "cordless-handheld"
+      ],
+      "summary": "A higher-output cordless option for owners already using FLEXVOLT batteries. It is best bought for substantial leaf work, with the weight and cost of a suitable battery included in the decision.",
+      "verdict": "A practical choice for an existing FLEXVOLT owner who needs more airflow than a small cleanup blower, provided battery changes suit the job.",
+      "fit": "Substantial yard cleanup using existing 60V MAX FLEXVOLT batteries.",
+      "skip": "Owners with only ordinary 20V MAX packs, or anyone wanting the lightest tool for a tiny patio.",
+      "pros": [
+        "Manufacturer-rated 600 CFM airflow",
+        "Variable trigger and speed lock",
+        "Uses the FLEXVOLT outdoor-tool platform"
+      ],
+      "cons": [
+        "Battery and charger excluded",
+        "Suitable larger batteries add cost and weight",
+        "No vacuum or collection bag"
+      ],
+      "sections": [
+        {
+          "heading": "Size the whole setup",
+          "body": "DEWALT lists up to 600 CFM and 125 MPH for this brushless axial blower. The B suffix identifies the bare tool. You need an appropriate FLEXVOLT battery and charger before the purchase is useful; an ordinary 20V MAX drill pack is not a substitute. Compare the full setup with competing battery kits. A low bare-tool price means little when the battery purchase dominates the bill."
+        },
+        {
+          "heading": "Where we would put it to work",
+          "body": "This makes most sense for someone already using the larger DEWALT outdoor tools and wanting one charging system. The variable trigger and speed lock let you choose an output for the surface instead of running flat out everywhere. Plan the route so you are moving leaves toward a collection area. This blower does not turn a pile into mulch or carry it away, so the rake, mower bagger, or pickup tool still has a job."
+        },
+        {
+          "heading": "The ownership decision",
+          "body": "We would choose it for the heavier cleanup, then compare a lighter blower for quick daily use. A larger battery increases the energy available but also changes what hangs from your arm. Neither an advertised maximum nor a forum runtime is a promise for your own leaves and throttle setting. Check current kit pricing and compare the newer DCBL777 as well; the 772 is an established model, rather than the latest member of the range."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Maximum airflow",
+          "value": "600 CFM",
+          "sourceUrl": "https://www.dewalt.com/en-us/product/dcbl772b/60v-max-brushless-cordless-handheld-axial-blower-tool-only"
+        },
+        {
+          "label": "Maximum airspeed",
+          "value": "125 MPH",
+          "sourceUrl": "https://www.dewalt.com/en-us/product/dcbl772b/60v-max-brushless-cordless-handheld-axial-blower-tool-only"
+        },
+        {
+          "label": "Power platform",
+          "value": "60V MAX FLEXVOLT",
+          "sourceUrl": "https://www.dewalt.com/en-us/product/dcbl772b/60v-max-brushless-cordless-handheld-axial-blower-tool-only"
+        },
+        {
+          "label": "Package",
+          "value": "Tool only; battery and charger sold separately",
+          "sourceUrl": "https://www.dewalt.com/en-us/product/dcbl772b/60v-max-brushless-cordless-handheld-axial-blower-tool-only"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dewalt.com/en-us/product/dcbl772b/60v-max-brushless-cordless-handheld-axial-blower-tool-only",
+          "title": "DCBL772B official product specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Dewalt/comments/12sx3pv/dewalt_leaf_blowers_20v_dcbl722_vs_60v_dcbl772/",
+          "title": "DCBL722 versus DCBL772 owner comparison",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Dewalt/comments/1jjxb4e/is_the_60v_blower_that_much_better_than_the_20v/",
+          "title": "60V and 20V blower comparison discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "One owner of both models describes the 772 as heavier and battery hungry, and reaches for the smaller 722 for quick deck and shop work. Other owners in the linked comparison value the larger blower for wet leaves. That points to choosing by workload rather than treating more power as an automatic upgrade.",
+        "limitations": "Individual comparisons use different packs and conditions. They do not establish a typical runtime, a measured airflow advantage, or a representative reliability rate.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Dewalt/comments/12sx3pv/dewalt_leaf_blowers_20v_dcbl722_vs_60v_dcbl772/",
+          "https://www.reddit.com/r/Dewalt/comments/1jjxb4e/is_the_60v_blower_that_much_better_than_the_20v/"
+        ]
+      }
+    },
+    {
+      "id": "milwaukee-3017-20",
+      "name": "Milwaukee M18 FUEL 3017-20",
+      "brand": "Milwaukee",
+      "model": "3017-20 (single-battery bare tool)",
+      "labels": [
+        "cordless-handheld"
+      ],
+      "summary": "A straightforward M18 cleanup tool with sensible appeal for existing battery owners. Its strongest case is quick work around the house and workshop.",
+      "verdict": "A good platform-based shortlist for driveway, deck and patio cleanup.",
+      "fit": "M18 owners wanting one handheld blower for frequent short outdoor chores.",
+      "skip": "Buyers seeking a pickup bag or sustained clearing of large wet leaf banks.",
+      "pros": [
+        "Shares M18 batteries",
+        "Variable-speed control",
+        "Single-battery layout",
+        "Manufacturer publishes blow-force figure"
+      ],
+      "cons": [
+        "Battery and charger extra",
+        "Leaf collection needs another tool",
+        "Output below larger models on some owners' jobs"
+      ],
+      "sections": [
+        {
+          "heading": "Know which Milwaukee you are buying",
+          "body": "The 3017-20 is the single-battery M18 FUEL blower, with published figures of 500 CFM, 120 MPH and 12.2 newtons. It must not be confused with Milwaukee's larger dual-battery blower or older generations. The exact model number matters more than a listing that simply says M18. Compare a complete battery setup and keep spare-pack weight in mind if the cleanup session will be long."
+        },
+        {
+          "heading": "Match it to routine cleanup",
+          "body": "This is easy to justify for clearing the deck, driveway and patio when compatible packs are already available. Consider whether those are your actual jobs or merely the easy portion of a much bigger autumn leaf problem. A handheld tool that is convenient enough to use often can be valuable, but it should not be bought on the assumption that it removes the need for a collection plan."
+        },
+        {
+          "heading": "Owner comparisons give it a sensible role",
+          "body": "In two inspected discussions identifying the current model, owners compared its output unfavourably with an EGO 765 while finding it useful for house-side cleanup. One appreciated the single-battery layout compared with the dual-battery alternative. Those accounts support a convenience-first purchase for the right workload. They do not establish a formal noise or power ranking across brands, batteries or nozzle configurations."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published output",
+          "value": "500 CFM; 120 MPH; 12.2 N",
+          "sourceUrl": "https://www.milwaukeetool.com/products/details/m18-fuel-blower/3017-20"
+        },
+        {
+          "label": "Power platform",
+          "value": "M18, single battery",
+          "sourceUrl": "https://www.milwaukeetool.com/products/details/m18-fuel-blower/3017-20"
+        },
+        {
+          "label": "Package",
+          "value": "Bare tool, model 3017-20",
+          "sourceUrl": "https://www.milwaukeetool.com/products/details/m18-fuel-blower/3017-20"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.milwaukeetool.com/products/details/m18-fuel-blower/3017-20",
+          "title": "3017-20 official output and package",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/MilwaukeeTool/comments/1i6pth2/",
+          "title": "Gen3 blower, exact 3017-20 discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/MilwaukeeTool/comments/1dakljf/",
+          "title": "New M18 blower, current-model owner comparison",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Exact-model owners describe useful short cleanup despite preferring the EGO 765 for power; one likes the single-battery handling.",
+        "limitations": "Individual comparisons; no controlled battery, nozzle or sound measurements. Findings from inspected team research extracts.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/MilwaukeeTool/comments/1i6pth2/",
+          "https://www.reddit.com/r/MilwaukeeTool/comments/1dakljf/"
+        ]
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "makita-xbu02pt",
+      "name": "Makita XBU02PT",
+      "brand": "Makita",
+      "model": "XBU02PT (two 5.0 Ah batteries)",
+      "labels": [
+        "cordless-handheld"
+      ],
+      "summary": "A complete twin-battery LXT kit for owners who want outdoor cleanup to share their existing tools' battery family. Remember that both packs work together.",
+      "verdict": "A sensible LXT-platform purchase when its two-battery layout fits your charging routine.",
+      "fit": "Makita LXT owners and homeowners happy to maintain matched charged battery pairs.",
+      "skip": "Buyers assuming two supplied packs mean a ready spare battery for this blower.",
+      "pros": [
+        "Two 5.0 Ah packs included",
+        "Dual-port charger",
+        "Existing LXT battery platform",
+        "Brushless motor"
+      ],
+      "cons": [
+        "Consumes two batteries together",
+        "Loaded weight matters",
+        "No vacuum or collection bag",
+        "Sparse exact-model owner evidence"
+      ],
+      "sections": [
+        {
+          "heading": "Two packs make one operating set",
+          "body": "The XBU02PT uses two 18V LXT batteries together and includes two 5.0 Ah packs plus a dual-port charger. Makita states 473 CFM and 120 MPH. The useful kit distinction is that you get an operating pair, not one working battery and one spare. The similarly named PT1 package includes a different battery count, so read the complete suffix before comparing prices."
+        },
+        {
+          "heading": "Consider the whole tool cupboard",
+          "body": "Sharing batteries is helpful when your drill, saw and garden tools already live in the same system. It can also leave you short of charged packs when several jobs happen on the same afternoon. Price a second usable pair if long cleanup is part of the plan. Handle the loaded tool and consider the direction of the air reaction over a full session, rather than judging comfort from an empty display unit."
+        },
+        {
+          "heading": "Keep thin owner evidence thin",
+          "body": "The inspected Makita discussions contain a brief preference for the double-battery XBU02 and a battery-life conversation spanning several blower models. That is insufficient to claim typical XBU02 runtime or a broad owner consensus. We use it as a prompt to ask about charging and handling. The reason to shortlist this kit remains its verified package and compatibility with a battery system you may already own."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Maximum output",
+          "value": "473 CFM; 120 MPH",
+          "sourceUrl": "https://makitatools.com/products/details/XBU02PT"
+        },
+        {
+          "label": "Operating batteries",
+          "value": "Two 18V LXT packs together",
+          "sourceUrl": "https://makitatools.com/products/details/XBU02PT"
+        },
+        {
+          "label": "Kit contents",
+          "value": "Two 5.0 Ah batteries and dual-port charger",
+          "sourceUrl": "https://makitatools.com/products/details/XBU02PT"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makitatools.com/products/details/XBU02PT",
+          "title": "Makita XBU02PT official kit specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Makita/comments/13rvl2w/",
+          "title": "Battery Life, multiple Makita blower models",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Makita/comments/wu8ctd/",
+          "title": "Brief XBU02 twin-battery comment",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A brief commenter preference identifies the twin-battery XBU02; the other discussion mixes several models.",
+        "limitations": "Very sparse evidence. No exact-model runtime estimate or consensus claimed; inspected team research extracts.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Makita/comments/13rvl2w/",
+          "https://www.reddit.com/r/Makita/comments/wu8ctd/"
+        ]
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "greenworks-bl80l414",
+      "name": "Greenworks 80V 770 CFM BL80L414",
+      "brand": "Greenworks",
+      "model": "BL80L414 (4.0 Ah kit)",
+      "labels": [
+        "cordless-handheld"
+      ],
+      "summary": "A high-output Greenworks kit worth comparing when the 80V battery family fits your garden tools. The kit's maximum figures and longest-runtime claim describe different conditions.",
+      "verdict": "A useful shortlist for stronger cordless clearing, with exact-model ownership evidence still limited.",
+      "fit": "Homeowners seeking a complete blower kit or already invested in Greenworks 80V equipment.",
+      "skip": "Buyers expecting advertised maximum airflow throughout the longest stated runtime.",
+      "pros": [
+        "4.0 Ah battery and charger kit",
+        "Variable trigger and turbo",
+        "80V battery compatibility",
+        "High published airflow"
+      ],
+      "cons": [
+        "Battery adds handheld weight",
+        "Runtime depends on setting",
+        "No pickup bag",
+        "Sparse independent exact-model feedback"
+      ],
+      "sections": [
+        {
+          "heading": "A complete outdoor battery option",
+          "body": "Greenworks identifies this 80V kit as BL80L414 and publishes up to 770 CFM and 180 MPH. A 4.0 Ah battery and charger are included. It is worth comparing with other complete high-output kits, especially if its battery can also serve the garden tools you actually use. Check the model and pack size; a similar-looking blower sold bare or with a smaller pack is a different proposition."
+        },
+        {
+          "heading": "Separate power from duration",
+          "body": "Do not combine the highest airflow number with the longest advertised runtime into one promised session. Think about how much of your cleanup needs the strongest setting and whether swapping packs would interrupt progress. If you have several large leaf drops, work out where the gathered leaves will go. The biggest air number still leaves collection, disposal and the corners around planting beds to be handled."
+        },
+        {
+          "heading": "The evidence is a shortlist, not an owner verdict",
+          "body": "We did not find enough independent exact-BL80L414 community accounts to describe a reliable pattern of praise or failures. Comments about other Greenworks voltages and models were not assigned to this kit. Its place here rests on the verified package and intended role. Use a seller with clear support terms, evaluate the loaded handling, and compare replacement-battery cost before committing to a new battery family."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Maximum output",
+          "value": "770 CFM; 180 MPH",
+          "sourceUrl": "https://www.greenworkstools.com/products/80v-770cfm-cordless-battery-blower-w-4ah-battery-charger"
+        },
+        {
+          "label": "Kit battery",
+          "value": "80V 4.0 Ah with charger",
+          "sourceUrl": "https://www.greenworkstools.com/products/80v-770cfm-cordless-battery-blower-w-4ah-battery-charger"
+        },
+        {
+          "label": "Model",
+          "value": "BL80L414 / SKU 2438102",
+          "sourceUrl": "https://www.greenworkstools.com/products/80v-770cfm-cordless-battery-blower-w-4ah-battery-charger"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.greenworkstools.com/products/80v-770cfm-cordless-battery-blower-w-4ah-battery-charger",
+          "title": "Greenworks official BL80L414 kit specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "No sufficiently detailed independent exact-model community pattern established in this research pass.",
+        "limitations": "Different Greenworks voltages and blower models were excluded from model-specific ownership claims.",
+        "sourceUrls": []
+      },
+      "evidenceGap": "Independent exact-model owner feedback is sparse. Advertised maximum runtime must not be described as runtime at maximum output.",
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "worx-wg583",
+      "name": "Worx WG583",
+      "brand": "Worx",
+      "model": "WG583 (two 4.0 Ah batteries)",
+      "labels": [
+        "cordless-handheld",
+        "blower-vacuums"
+      ],
+      "summary": "A cordless blower, vacuum and mulcher kit for buyers who want a pickup bag without dragging a cable. Its collection convenience comes with battery and conversion chores.",
+      "verdict": "Shortlist for manageable leaf collection where a cord would be the main nuisance.",
+      "fit": "Dry-leaf cleanup with a preference for cordless collection and the Power Share battery system.",
+      "skip": "Large saturated leaf banks, gravel pickup, or buyers wanting the strongest blowing-only tool.",
+      "pros": [
+        "Blows and collects",
+        "Two batteries and charger included",
+        "Wheeled vacuum tube",
+        "No extension cord"
+      ],
+      "cons": [
+        "Both packs are needed together",
+        "Collection bag requires emptying",
+        "Mode conversion adds steps",
+        "Sparse exact-model community evidence"
+      ],
+      "sections": [
+        {
+          "heading": "The bag is the reason to consider it",
+          "body": "The WG583 combines blowing, vacuuming and mulching on two 20V batteries. The kit includes two 4.0 Ah packs, a charger and a one-bushel bag. Worx's 340 CFM figure is specified without the blower tube, so it should not be ranked directly against a competitor's nozzle measurement. The wheeled vacuum tube offers a different handling arrangement from a normal handheld blower."
+        },
+        {
+          "heading": "Plan a collection routine",
+          "body": "Gather manageable amounts before vacuuming, keep stones and solid debris out of the intake, and leave room to empty the bag into your chosen container. Wet, tightly packed material is a different task from scattered dry leaves. Allow time to change the configuration rather than imagining instant switching during every pass. Removing the cord is useful, but it does not remove bag handling or the need to recharge both batteries."
+        },
+        {
+          "heading": "Be honest about the ownership gap",
+          "body": "Independent exact-WG583 feedback was too sparse in this pass to support a claim about typical jams, battery life or durability. Generic Worx vacuum comments concern different machines and were not treated as tests of this cordless kit. Judge it by the function you need and the included package, then verify the return terms. A dedicated blower may be simpler if you never intend to collect leaves through the tool."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Maximum airflow",
+          "value": "340 CFM, specified without blower tube",
+          "sourceUrl": "https://www.worx.com/leafjet/40v-cordless-blower-vac-mulcher-wg583.html"
+        },
+        {
+          "label": "Maximum airspeed",
+          "value": "210 MPH",
+          "sourceUrl": "https://www.worx.com/leafjet/40v-cordless-blower-vac-mulcher-wg583.html"
+        },
+        {
+          "label": "Kit",
+          "value": "Two 20V 4.0 Ah packs, dual charger, collection bag",
+          "sourceUrl": "https://www.worx.com/leafjet/40v-cordless-blower-vac-mulcher-wg583.html"
+        },
+        {
+          "label": "Bag and claimed reduction",
+          "value": "1.0 bushel; manufacturer claims 12:1 mulching",
+          "sourceUrl": "https://www.worx.com/leafjet/40v-cordless-blower-vac-mulcher-wg583.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.worx.com/leafjet/40v-cordless-blower-vac-mulcher-wg583.html",
+          "title": "WG583 official specifications and kit",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.worx.com/media/wysiwyg/pdp-pages/manuals/WG583M.pdf",
+          "title": "WG583 operating manual",
+          "type": "manual",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Insufficient independent exact-model evidence to describe typical ownership results.",
+        "limitations": "Worx family comments were not converted into WG583-specific claims.",
+        "sourceUrls": []
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "worx-wg509",
+      "name": "Worx TRIVAC WG509",
+      "brand": "Worx",
+      "model": "WG509",
+      "labels": [
+        "corded-electric",
+        "blower-vacuums"
+      ],
+      "summary": "A corded collection option with a large enough bag for a deliberate blow-then-vacuum routine. It suits controlled cleanup better than indiscriminate suction around stone beds.",
+      "verdict": "Worth comparing for dry leaves near an outdoor power source.",
+      "fit": "Owners collecting dry leaves from reachable lawns and hard surfaces with a suitable cord.",
+      "skip": "Stone-covered planting beds, long roaming jobs, or expectations of effortless wet-leaf collection.",
+      "pros": [
+        "Blower, vacuum and mulcher",
+        "No battery swapping",
+        "Mode-switching design",
+        "1.2-bushel bag"
+      ],
+      "cons": [
+        "Extension cord limits reach",
+        "Bag fills and adds weight",
+        "Stone pickup is a concern",
+        "Reduction ratio is a conditional claim"
+      ],
+      "sections": [
+        {
+          "heading": "A collection tool with a clear tradeoff",
+          "body": "Worx publishes 350 CFM and up to 210 MPH for the WG509, with a 1.2-bushel bag and an advertised 18:1 mulching ratio. The value is the combined collection setup, not a promise to shrink every pile by the same amount. Leaf type and condition change the material entering the bag. Compare the supplied configuration and bag arrangement rather than the maximum airspeed alone."
+        },
+        {
+          "heading": "Keep the intake out of trouble",
+          "body": "Treat vacuuming as a deliberate pass through appropriate leaves, after removing things the tool should not ingest. Stone mulch and scattered twigs turn a simple leaf job into careful sorting. Think about the route of the extension cord and where the bag will be emptied. A corded machine can avoid charging pauses while still leaving plenty of interruptions for collection handling and material checks."
+        },
+        {
+          "heading": "An exact owner describes the limitation",
+          "body": "The inspected WG509 owner account found the tool most useful with dry, smaller leaves and described frustration around flower beds with stone mulch. That is an individual garden's result, but it is directly relevant to a common buying mistake. If much of your leaf load lands among gravel and decorative stone, a rake or controlled blowing routine may be more practical than sending everything through a vacuum."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Published output",
+          "value": "350 CFM; up to 210 MPH",
+          "sourceUrl": "https://www.worx.com/trivac-blower-mulcher-vacuum-wg509.html"
+        },
+        {
+          "label": "Collection bag",
+          "value": "1.2 bushels",
+          "sourceUrl": "https://www.worx.com/trivac-blower-mulcher-vacuum-wg509.html"
+        },
+        {
+          "label": "Claimed mulching ratio",
+          "value": "Up to 18:1; material-dependent",
+          "sourceUrl": "https://www.worx.com/trivac-blower-mulcher-vacuum-wg509.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.worx.com/trivac-blower-mulcher-vacuum-wg509.html",
+          "title": "Worx WG509 official specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.worx.com/media/wysiwyg/pdp-pages/manuals/WG509M.pdf",
+          "title": "WG509 manual",
+          "type": "manual",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/lawncare/comments/1b6iylw/",
+          "title": "Who makes the best leaf mulcher-vacuum combo? Exact WG509 account",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A WG509 owner describes better results with dry smaller leaves and frustration around stone-mulched beds.",
+        "limitations": "One owner and one garden; no comparative test or general durability conclusion. Team-inspected evidence.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/lawncare/comments/1b6iylw/"
+        ]
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "toro-51621",
+      "name": "Toro UltraPlus 51621",
+      "brand": "Toro",
+      "model": "51621 UltraPlus corded blower/vacuum",
+      "labels": [
+        "corded-electric",
+        "blower-vacuums"
+      ],
+      "summary": "A corded blow-and-collect machine with a dedicated shredding ring. The current official specification differs from many older shop titles, so match the model carefully.",
+      "verdict": "A useful shortlist for reachable leaf collection and a clear, complete bagging setup.",
+      "fit": "Small to medium cleanup areas within safe extension-cord reach, especially with dry leaves.",
+      "skip": "Large wandering jobs, stone pickup or buyers treating a shredding claim as a guaranteed ratio.",
+      "pros": [
+        "Blower and vacuum functions",
+        "Shredz-All ring",
+        "Variable control",
+        "Model-specific parts documentation"
+      ],
+      "cons": [
+        "Cord management",
+        "Repeated bag emptying",
+        "Older listings use different figures",
+        "Limited independent exact-model feedback in this pass"
+      ],
+      "sections": [
+        {
+          "heading": "Read the current figures separately",
+          "body": "Toro's current 51621 page states 340 CFM in blow mode, 405 CFM in vacuum mode and maximum airspeed of 260 MPH. Older listings often advertise different figures. Keep those measures separate rather than silently selecting the biggest number. The machine's reason for being here is its blow, vacuum and shredding setup, including the Shredz-All ring, rather than a claimed win on a speed chart."
+        },
+        {
+          "heading": "Collection handling decides the experience",
+          "body": "The best vacuum specification means little if the full bag is awkward to carry or empty into your yard-waste container. Consider the whole process: gathering leaves, changing configuration, guiding the intake and unloading. Work within the manual's cord requirements and leave room to move around the collection area. For some yards, the cord is a manageable nuisance; for long routes around trees, it may become the main limitation."
+        },
+        {
+          "heading": "Avoid turning family praise into a product test",
+          "body": "Independent exact-51621 community evidence was limited in this research pass. Discussions about other Toro blowers and promotional copies were excluded from a model-specific verdict. Its shortlist position rests on the documented equipment and collection role. Check the model-specific manual and available replacement bag, then compare that usable package with the other vacuums. A shredding accessory cannot make stones or other unsuitable debris safe to ingest."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Current blowing airflow",
+          "value": "340 CFM",
+          "sourceUrl": "https://www.toro.com/en/product/51621"
+        },
+        {
+          "label": "Current vacuum airflow",
+          "value": "405 CFM",
+          "sourceUrl": "https://www.toro.com/en/product/51621"
+        },
+        {
+          "label": "Current maximum airspeed",
+          "value": "260 MPH",
+          "sourceUrl": "https://www.toro.com/en/product/51621"
+        },
+        {
+          "label": "Accessory",
+          "value": "Shredz-All ring and oscillating nozzle",
+          "sourceUrl": "https://www.toro.com/en/product/51621"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.toro.com/en/product/51621",
+          "title": "Toro current 51621 specification page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.toro.com/getpub/247925",
+          "title": "Toro 51621 operating manual",
+          "type": "manual",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.toro.com/en/parts/partdetails?id=56088",
+          "title": "51621 parts and serial-specific manuals",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "No sufficient independent exact-model ownership pattern established in this pass.",
+        "limitations": "Other Toro models and promotional reposts were excluded; no representative community consensus claimed.",
+        "sourceUrls": []
+      },
+      "evidenceGap": "Current official figures are 260 MPH,340 CFM blowing,405 CFM vacuuming; older retailer titles may say250/350/410. Preserve discrepancy.",
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "blackdecker-bebl7000",
+      "name": "BLACK+DECKER BEBL7000 VACPACK",
+      "brand": "BLACK+DECKER",
+      "model": "BEBL7000",
+      "labels": [
+        "corded-electric",
+        "blower-vacuums"
+      ],
+      "summary": "A corded blower-vac with its collection bag worn on the back. It makes sense when carrying gathered leaves is the awkward part of the job.",
+      "verdict": "Consider for manageable bagging jobs when the backpack collection layout suits you.",
+      "fit": "Dry-leaf collection near an outlet, with preference for a wearable bag and flexible hose.",
+      "skip": "Buyers wanting a gas backpack blower, cordless freedom or stone and gravel collection.",
+      "pros": [
+        "Backpack collection bag",
+        "Flexible vacuum hose",
+        "Roll-and-clip bag opening",
+        "Blower, vacuum and mulcher"
+      ],
+      "cons": [
+        "Still a corded tool",
+        "Full bag adds carried weight",
+        "Bag and hose need handling",
+        "Sparse independent exact-model Reddit evidence"
+      ],
+      "sections": [
+        {
+          "heading": "A backpack bag is a different feature",
+          "body": "The BEBL7000 is a 12-amp corded blower, vacuum and mulcher with a wearable collection bag. BLACK+DECKER advertises up to 400 CFM and 250 MPH. This is not the same type of machine as a gas backpack blower: the bag carries gathered leaves rather than replacing the handheld blower's working head. The flexible hose and wide bag opening are the practical features to examine."
+        },
+        {
+          "heading": "Imagine the full collection cycle",
+          "body": "Try to picture reaching the leaves, managing the power cord and then emptying a loaded bag into your chosen container. A wearable bag may help with one part of that routine while adding straps and hose to another. Plan smaller batches if carrying a full load would be uncomfortable. Keep unsuitable debris out of the intake and do not judge collecting performance from a blowing-only airflow figure."
+        },
+        {
+          "heading": "Choose on verified function, with evidence limits",
+          "body": "We did not find enough independent exact-model Reddit ownership accounts to publish a pattern of satisfaction or failures. Promotional deal posts were excluded rather than treated as real community research. The product belongs on a bagging shortlist because its package addresses carrying and unloading leaves. Check replacement-bag and hose availability, follow the manual for conversion and compare the complete arrangement with conventional shoulder-bag machines before choosing."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Power",
+          "value": "12-amp corded electric",
+          "sourceUrl": "https://www.blackanddecker.com/products/bebl7000"
+        },
+        {
+          "label": "Maximum published output",
+          "value": "400 CFM; 250 MPH",
+          "sourceUrl": "https://www.blackanddecker.com/products/bebl7000"
+        },
+        {
+          "label": "Collection design",
+          "value": "Backpack reusable roll-and-clip bag with flexible hose",
+          "sourceUrl": "https://www.blackanddecker.com/products/bebl7000"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.blackanddecker.com/products/bebl7000",
+          "title": "BEBL7000 official functions and collection design",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Insufficient independent exact-model community evidence to establish an ownership pattern.",
+        "limitations": "Promotional reposts were excluded; generic BLACK+DECKER blower comments were not assigned to this model.",
+        "sourceUrls": []
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "craftsman-cmebl7000",
+      "name": "CRAFTSMAN CMEBL7000",
+      "brand": "CRAFTSMAN",
+      "model": "CMEBL7000 (not CMEBL700)",
+      "labels": [
+        "corded-electric",
+        "blower-vacuums"
+      ],
+      "summary": "The newer Craftsman corded blower-vac has a 55-litre backpack bag. Match the extra zero in its model number before comparing specifications or buying.",
+      "verdict": "A reasonable bagging shortlist when a large wearable collection bag and corded use fit the job.",
+      "fit": "Reachable yard cleanup with a preference for a backpack bag and no charging pauses.",
+      "skip": "Anyone buying the older CMEBL700 expecting this model's output and collection specification.",
+      "pros": [
+        "55-litre backpack bag",
+        "Blower-vac-mulcher functions",
+        "Wide-mouth emptying",
+        "Tool-free conversion design"
+      ],
+      "cons": [
+        "Cord limits working range",
+        "Loaded bag weight",
+        "Conversion still takes attention",
+        "Very similar older model number"
+      ],
+      "sections": [
+        {
+          "heading": "That final zero matters",
+          "body": "The CMEBL7000 is the model with a 12-amp motor, advertised 450 CFM and 260 MPH, and a 55-litre backpack collection bag. The CMEBL700 is a different machine with different figures. Confirm the full number on the listing and box. A photograph or a generic Craftsman three-in-one title is not enough to establish that you are receiving the newer model."
+        },
+        {
+          "heading": "The bag can become the limiting factor",
+          "body": "A larger collection container reduces some unloading trips but increases the amount you can end up carrying. Decide where and how you will empty it before the first big leaf day. Think about stairs, tight corners and the power cord alongside the hose. For a small reachable yard, those chores may be manageable; for a broad property, cord routing can consume the convenience you hoped to gain."
+        },
+        {
+          "heading": "Owner conversion feedback is worth checking",
+          "body": "The inspected Craftsman discussion describes a tight fan-cover conversion step. That is a useful handling question, not permission to force a cover or bypass the machine's assembly checks. Test conversion according to the manual before tackling a large pile. The thread does not establish failure rates or a general reliability verdict, and you should confirm that any account you read concerns the CMEBL7000 rather than the older near-identical name."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Power",
+          "value": "12-amp corded motor",
+          "sourceUrl": "https://www.craftsman.com/en-us/product/cmebl7000/12-amp-3-1-electric-blowervacuummulcher"
+        },
+        {
+          "label": "Maximum output claims",
+          "value": "450 CFM; 260 MPH",
+          "sourceUrl": "https://www.craftsman.com/en-us/product/cmebl7000/12-amp-3-1-electric-blowervacuummulcher"
+        },
+        {
+          "label": "Collection bag",
+          "value": "55 litres, backpack design",
+          "sourceUrl": "https://www.craftsman.com/en-us/product/cmebl7000/12-amp-3-1-electric-blowervacuummulcher"
+        },
+        {
+          "label": "Identity",
+          "value": "CMEBL7000; different from CMEBL700",
+          "sourceUrl": "https://www.craftsman.com/en-us/product/cmebl7000/12-amp-3-1-electric-blowervacuummulcher"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.craftsman.com/en-us/product/cmebl7000/12-amp-3-1-electric-blowervacuummulcher",
+          "title": "Current CMEBL7000 functions and specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.craftsman.com/en-us/products/home-outdoor/leaf-blowers/corded-leaf-blowers",
+          "title": "Official comparison distinguishes CMEBL700 and CMEBL7000",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Craftsman/comments/1cc5a50/",
+          "title": "Craftsman blower-vac conversion discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A Craftsman collection-tool discussion describes a difficult fan-cover conversion step.",
+        "limitations": "Limited account; model identity must be checked against near-identical CMEBL700 naming. No unsafe forum workarounds reproduced.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Craftsman/comments/1cc5a50/"
+        ]
+      },
+      "evidenceGap": "Product page erroneously lists Integrated Batteries in one structured field while explicitly identifying a corded12-amp tool. Corded classification retained.",
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "echo-pb580t",
+      "name": "ECHO PB-580T",
+      "brand": "ECHO",
+      "model": "PB-580T (tube throttle)",
+      "labels": [
+        "backpack"
+      ],
+      "summary": "A gas backpack option for longer autumn cleanup, especially when repeated refilling is preferable to managing battery rotations. Collection remains a separate job.",
+      "verdict": "A sensible shortlist for substantial leaf movement with a workable fuel and service routine.",
+      "fit": "Leaf-heavy yards and owners comfortable with gas-tool maintenance and backpack handling.",
+      "skip": "Quick patio sweeps, buyers wanting vacuum collection, or unwillingness to manage fuel and storage.",
+      "pros": [
+        "Backpack carrying layout",
+        "Tube-mounted throttle",
+        "Continuous work with refuelling",
+        "Documented nozzle airflow"
+      ],
+      "cons": [
+        "Gas maintenance and storage",
+        "No leaf collection function",
+        "Harness fit matters",
+        "Sound and exhaust accompany use"
+      ],
+      "sections": [
+        {
+          "heading": "A longer-job tool with a clear role",
+          "body": "ECHO's official support specifications list a 58.2 cc engine, 517 CFM and 216 MPH with the pipes installed. The T model places the throttle on the tube; the H version is a different control arrangement. Compare nozzle figures with other nozzle figures, then handle the harness and controls. A backpack is worthwhile when the job lasts long enough for carrying arrangement to matter."
+        },
+        {
+          "heading": "Price the routine around the machine",
+          "body": "Think through fuel storage, the manual's maintenance schedule and where repairs will be handled. Refuelling can suit a long leaf day, but it adds an ownership routine that a battery tool does not share. Decide whether this is your main autumn machine or a tool you will reach for every week. For brief hard-surface cleanup, taking out a backpack may be more procedure than the job needs."
+        },
+        {
+          "heading": "Owners support the workload, not a universal verdict",
+          "body": "In the inspected gas-versus-battery discussion, a PB-580T owner with an acre and many leaves reported useful wet-leaf pushing after other tools struggled. Another Echo 580 owner described year-round utility. Those are individual accounts, with different comparison tools and conditions. They support this model's place on a heavy-cleanup shortlist, while leaving your leaf moisture, distances and acceptable working hours to decide whether it fits."
+        },
+        {
+          "heading": "Check the listing generation",
+          "body": "The current ECHO documentation and some older PB-580T retail titles use different airflow and speed figures. The linked Amazon listing identifies the correct model but retains older numbers in its title. Confirm the exact supplied machine with the seller before buying; do not read those title figures as the specifications reviewed here."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Engine displacement",
+          "value": "58.2 cc",
+          "sourceUrl": "https://support.echo-usa.com/en/Blowers/Specifications-9283"
+        },
+        {
+          "label": "Airflow with pipes",
+          "value": "517 CFM",
+          "sourceUrl": "https://support.echo-usa.com/en/Blowers/Specifications-9283"
+        },
+        {
+          "label": "Maximum airspeed with pipes",
+          "value": "216 MPH",
+          "sourceUrl": "https://support.echo-usa.com/en/Blowers/Specifications-9283"
+        },
+        {
+          "label": "Control",
+          "value": "T model: tube throttle",
+          "sourceUrl": "https://www.echo-usa.com/blowers/pb-580t"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.echo-usa.com/blowers/pb-580t",
+          "title": "PB-580T manufacturer product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://support.echo-usa.com/en/Blowers/Specifications-9283",
+          "title": "Official PB-580H/PB-580T specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/lawncare/comments/17wt0is/",
+          "title": "Gas versus battery leaf-blower discussion; exact PB-580T owner",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "An exact PB-580T owner reports useful wet-leaf movement on an acre; another 580-family owner describes broad utility.",
+        "limitations": "Anecdotal tool comparisons, not controlled output tests or reliability data; team-inspected extracts.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/lawncare/comments/17wt0is/"
+        ]
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "husqvarna-350bt",
+      "name": "Husqvarna 350BT",
+      "brand": "Husqvarna",
+      "model": "350BT / 965877502",
+      "labels": [
+        "backpack"
+      ],
+      "summary": "A gas backpack with documented nozzle output and an established residential cleanup role. Deep wet leaf cover over a broad property may justify looking beyond it.",
+      "verdict": "Consider for substantial household cleanup after assessing the heaviest part of the leaf job.",
+      "fit": "Owners with longer leaf-clearing sessions, a suitable harness fit and local gas-tool service.",
+      "skip": "Very deep wet cover across several acres or buyers needing a pickup bag.",
+      "pros": [
+        "Backpack harness",
+        "Variable throttle and cruise control",
+        "Nozzle airflow identified",
+        "Manufacturer vibration-reduction design"
+      ],
+      "cons": [
+        "Fuel and maintenance routine",
+        "Larger workload may need more output",
+        "No collection capability",
+        "Carried weight before fuel"
+      ],
+      "sections": [
+        {
+          "heading": "Use the right airflow figure",
+          "body": "Husqvarna's current table lists 494.41 CFM and about 180 MPH at the round nozzle, plus a 50.2 cc engine and 21-newton blowing force. It also lists higher housing airflow, which is a different measurement. Those distinctions matter when comparing it with another backpack. The carrying harness, handle position and throttle are equally worth examining before making a machine part of your autumn routine."
+        },
+        {
+          "heading": "Size it for the difficult day",
+          "body": "A light dusting on the driveway tells you little about leaves soaked into grass along a fence. Think about the deepest recurring pile and the longest distance you must move it. Work out where the material will be gathered and how it will be collected afterward. A backpack can make sustained movement more manageable, but it does not bag the leaves or eliminate the awkward corners around beds."
+        },
+        {
+          "heading": "A large-yard owner wanted more",
+          "body": "The inspected 350BT account concerned about two acres with deep wet leaves, and the owner was looking for stronger clearing. That is a useful warning against buying solely on yard acreage. It does not mean the machine is inadequate for every household. Match the actual leaf load and working pattern, then ask a local service dealer how the options compare for that specific problem."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Engine",
+          "value": "50.2 cc",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/350bt/"
+        },
+        {
+          "label": "Round-nozzle output",
+          "value": "494.41 CFM;180.01 MPH",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/350bt/"
+        },
+        {
+          "label": "Published blow force",
+          "value": "21 N",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/350bt/"
+        },
+        {
+          "label": "Listed weight",
+          "value": "22.5 lb",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/350bt/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.husqvarna.com/us/leaf-blowers/350bt/",
+          "title": "350BT current nozzle, engine and weight specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/lawncare/comments/1jf10di/",
+          "title": "350BT owner seeking more output for deep wet leaves",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "An owner clearing deep wet leaves over about two acres wanted a stronger machine.",
+        "limitations": "One demanding workload, not a conclusion about normal residential suitability. Team-inspected source extract.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/lawncare/comments/1jf10di/"
+        ]
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "husqvarna-125b",
+      "name": "Husqvarna 125B",
+      "brand": "Husqvarna",
+      "model": "125B / 952711925",
+      "labels": [
+        "gas-handheld"
+      ],
+      "summary": "A gas handheld for buyers who prefer refuelling to battery charging and have a maintenance plan. It is simpler to carry out for short work than a backpack.",
+      "verdict": "A conditional small-yard option for owners who deliberately want a gas handheld.",
+      "fit": "Manageable yard clearing with access to gas-tool service and proper seasonal storage.",
+      "skip": "Buyers seeking vacuum collection or an appliance with no fuel upkeep.",
+      "pros": [
+        "Handheld gas format",
+        "Variable throttle and cruise control",
+        "No charging wait",
+        "Separate nozzle output specification"
+      ],
+      "cons": [
+        "Fuel and carburetor upkeep",
+        "Handheld carried weight",
+        "Noise and exhaust",
+        "Does not include a pickup function"
+      ],
+      "sections": [
+        {
+          "heading": "Compare the nozzle, not the largest number",
+          "body": "The current US 125B table lists 425 CFM and 130 MPH with the round nozzle, plus a 12.5-newton blowing force and 9.4-pound listed weight. Other advertising may use a different nozzle or housing figure. Keeping the configuration visible is more useful than presenting every maximum as interchangeable. The model's role is a gas handheld for direct clearing, with collection handled elsewhere."
+        },
+        {
+          "heading": "Choose gas as an ownership decision",
+          "body": "A quick refill can be useful when you do several outdoor jobs away from power. It also means following the fuel and maintenance instructions, caring for the tool between seasons and finding someone to service it if starting becomes difficult. Count those tasks when comparing a cordless kit. If you own no gas equipment and mainly clear a small patio, decide whether adding that routine is worth it."
+        },
+        {
+          "heading": "Keep the buying case specific",
+          "body": "A gas handheld makes sense when it suits your preferred working method. Consider loaded handling, vibration, how far the leaves must move and the nearest repair option. Independent exact-model feedback was too thin in this pass for a community verdict. The documented configuration and your maintenance preferences are the useful basis for choosing. Buy with the exact manual and a practical storage plan, and compare the complete ownership cost with a battery kit."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Round-nozzle output",
+          "value": "425 CFM;130 MPH",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/125b/"
+        },
+        {
+          "label": "Published blow force",
+          "value": "12.5 N",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/125b/"
+        },
+        {
+          "label": "Listed weight",
+          "value": "9.4 lb",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/125b/"
+        },
+        {
+          "label": "Engine displacement",
+          "value": "28 cc",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/125b/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.husqvarna.com/us/leaf-blowers/125b/",
+          "title": "125B current US specification table",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Independent exact-model ownership evidence is thin in this research pass.",
+        "limitations": "A carburetor-related search snippet was insufficient to establish an owner outcome and was excluded.",
+        "sourceUrls": []
+      },
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    },
+    {
+      "id": "husqvarna-150bt",
+      "name": "Husqvarna 150BT",
+      "brand": "Husqvarna",
+      "model": "150BT current 51.7 cc / 970466901",
+      "labels": [
+        "backpack"
+      ],
+      "summary": "The current 51.7 cc backpack deserves a careful specification comparison: its promoted housing airflow is not the airflow measured at the round nozzle.",
+      "verdict": "A useful residential backpack shortlist when harness fit, service and exact-generation identity are clear.",
+      "fit": "Longer household leaf-clearing jobs with a workable gas-tool maintenance routine.",
+      "skip": "Buyers assuming the promoted 765 CFM is directly comparable with competitors' nozzle airflow.",
+      "pros": [
+        "Backpack layout",
+        "Published22N blow force",
+        "Variable throttle with cruise control",
+        "Refuelling suits longer sessions"
+      ],
+      "cons": [
+        "No collection bag",
+        "Fuel upkeep",
+        "Generation and airflow-label confusion",
+        "Local service should be checked"
+      ],
+      "sections": [
+        {
+          "heading": "Keep the published measurements honest",
+          "body": "The current 150BT uses a 51.7 cc engine and lists 22 newtons of blowing force. Husqvarna promotes 765 CFM, but the specification table identifies that as housing airflow and lists 452.03 CFM at the round nozzle, with 270 MPH. Those figures should not be combined into a misleading comparison. The machine belongs here as a residential backpack candidate, not as an assumed winner based on its largest number."
+        },
+        {
+          "heading": "Check the exact machine and support",
+          "body": "The 150BT name has covered different generations, so match the current engine and article number before buying or borrowing an owner's verdict. Try the harness adjustment and make sure the controls suit your reach. Ask who will service an out-of-warranty tool locally. A gas blower that moves leaves well can still become inconvenient if the only practical repair option requires distant shipping during autumn."
+        },
+        {
+          "heading": "An older starting problem has a useful lesson",
+          "body": "An inspected owner describes an unresolved no-start problem on a 2022 150BT after replacing several fuel-system parts, plus difficulty finding local repair. The engine generation was not confirmed, so we do not apply the fault to this current version or guess the diagnosis. The transferable buying lesson is to establish service access before purchase. One repair thread does not supply a reliability rate."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Current engine",
+          "value": "51.7 cc;article970466901",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/150bt/"
+        },
+        {
+          "label": "Airflow at round nozzle",
+          "value": "452.03 CFM",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/150bt/"
+        },
+        {
+          "label": "Housing airflow",
+          "value": "765 CFM",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/150bt/"
+        },
+        {
+          "label": "Round-nozzle speed / blow force",
+          "value": "270 MPH /22 N",
+          "sourceUrl": "https://www.husqvarna.com/us/leaf-blowers/150bt/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.husqvarna.com/us/leaf-blowers/150bt/",
+          "title": "150BT current engine and nozzle/housing specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/lawncare/comments/1wibz77/leaf_blower_wont_start_need_advice/",
+          "title": "2022 150BT unresolved no-start owner account",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A 2022-model owner reports an unresolved starting problem and difficulty locating out-of-warranty service.",
+        "limitations": "Generation not confirmed; no failure diagnosis or implication that the current 51.7 cc version has the same fault.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/lawncare/comments/1wibz77/leaf_blower_wont_start_need_advice/"
+        ]
+      },
+      "evidenceGap": "Marketing 765 CFM is housing airflow; current official nozzle value 452.03 CFM. Older 150BT reviews may concern a different engine.",
+      "checkedAt": "2026-10-13",
+      "reviewMethod": "Research review based on manufacturer documents and identifiable owner discussions where available. Bush Smarts has not hands-on tested this product."
+    }
+  ],
+  "guides": [
+    {
+      "id": "best-cordless-leaf-blowers",
+      "title": "Best cordless leaf blowers",
+      "description": "Six researched choices, compared by complete battery setup, intended workload and practical ownership tradeoffs.",
+      "label": "cordless-handheld",
+      "productIds": [
+        "ego-lb7654",
+        "greenworks-bl80l414",
+        "ego-lb6504",
+        "milwaukee-3017-20",
+        "makita-xbu02pt",
+        "dewalt-dcbl772b"
+      ],
+      "intro": "The best cordless blower is the one that finishes your actual cleanup without turning battery management into a second chore. Begin with the leaves, the working time and any compatible packs you already own. Our shortlist includes complete outdoor-tool kits and bare tools for established battery owners. A larger airflow figure can help narrow the choices, but it cannot tell you how long a charge lasts at that setting or how the loaded machine feels after a full session.",
+      "selectionMethod": "We compared inspected manufacturer specifications and kit contents, then read identifiable owners' discussions for battery and workload questions. Maximum airspeed and airflow figures may use different nozzles or conditions. This is a research shortlist, not a hands-on timing or noise test. Community experiences remain attributed individual reports; sparse exact-model evidence is disclosed rather than filled with generic brand praise.",
+      "sections": [
+        {
+          "heading": "Choose a complete kit or a platform purchase",
+          "body": "The EGO LB7654 and Greenworks BL80L414 are strong-output kit candidates. The LB6504 is worth comparing when its complete package makes better financial sense. Milwaukee's 3017-20 and DEWALT's DCBL772B are especially relevant to owners with suitable batteries already available. Makita's XBU02PT supplies two packs and a dual charger, but it uses those packs together. A kit with two batteries does not always leave a spare ready to swap."
+        },
+        {
+          "heading": "Ask what happens at the working setting",
+          "body": "Do not pair a maximum-power figure with a longest-runtime headline and assume both describe the same session. Consider how much of your yard needs the strongest setting, how often you can recharge and whether a second pack would be affordable. Handle the tool with its actual battery. A compact bare tool can feel quite different once a large pack is installed, and that matters on a long leaf day."
+        },
+        {
+          "heading": "Build a cleanup plan around the blower",
+          "body": "These picks move leaves; gathering and disposal still need a plan. Identify a collection point that will not send the same leaves back across the garden. Use controlled output around delicate borders and work in manageable sections. If your main requirement is suction into a bag, read our collection guide instead: a blower-vac is a different purchase, with a fuller bag, conversion steps and material limits to consider."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Should I buy the same brand as my drill?",
+          "answer": "Existing compatible batteries can make a bare blower good value. Check capacity, condition and the manufacturer's compatibility requirements. Compare the complete setup rather than assume every pack that fits will provide useful runtime for your job."
+        },
+        {
+          "question": "Are higher CFM figures always better?",
+          "answer": "They describe airflow under the manufacturer's stated conditions. Nozzle, measurement location, airspeed and working control also matter. Use them to narrow a shortlist, then evaluate the intended workload and battery setup."
+        },
+        {
+          "question": "Which kits contain a usable spare?",
+          "answer": "Check how many batteries the tool uses at once. Makita XBU02PT operates on both supplied packs together. EGO LB7654 and Greenworks BL80L414 each include one operating battery, so a spare needs budgeting separately."
+        }
+      ],
+      "pickReasons": {
+        "ego-lb7654": "For stronger cordless clearing in a complete kit",
+        "greenworks-bl80l414": "For the Greenworks 80V system",
+        "ego-lb6504": "For a worthwhile complete-kit deal",
+        "milwaukee-3017-20": "For existing M18 owners",
+        "makita-xbu02pt": "For an LXT twin-battery setup",
+        "dewalt-dcbl772b": "For existing FLEXVOLT owners and larger cleanup"
+      }
+    },
+    {
+      "id": "best-leaf-blowers-with-pickup-bags",
+      "title": "Best leaf blowers with pickup bags",
+      "description": "Five blower-vacuums that collect leaves, with the cord, battery and bag-handling tradeoffs kept visible.",
+      "label": "blower-vacuums",
+      "productIds": [
+        "worx-wg583",
+        "worx-wg509",
+        "toro-51621",
+        "blackdecker-bebl7000",
+        "craftsman-cmebl7000"
+      ],
+      "intro": "A pickup bag changes the job from moving leaves to collecting them. Look for a blower-vacuum with the correct intake equipment and bag, then consider how you will carry and empty the load. Our shortlist includes a cordless option, conventional corded collection machines and wearable bag designs. The right one should suit your leaves and working area. A vacuum is useful on appropriate dry material, but sending stones, solid debris or a saturated packed pile through it can create a different problem.",
+      "selectionMethod": "We inspected manufacturer pages and manuals for collection capability, supplied equipment and package identity. We separate blowing and vacuum airflow where the manufacturer does, and treat mulching ratios as conditional claims. Owner feedback is used where the exact model can be identified. We have not timed collection, measured bag capacity or hands-on tested clog resistance.",
+      "sections": [
+        {
+          "heading": "Choose the carrying arrangement",
+          "body": "The WG583 removes the extension cord and offers a wheeled vacuum tube, while using both kit batteries together. The WG509 and Toro 51621 suit buyers comfortable with corded collection. BLACK+DECKER's BEBL7000 and Craftsman's CMEBL7000 place the collection bag on your back. A larger or wearable bag can reduce some handling but still gets heavier as it fills. Picture unloading it into your actual compost or yard-waste container."
+        },
+        {
+          "heading": "Keep model names and specifications exact",
+          "body": "Craftsman's CMEBL7000 is distinct from the older CMEBL700. Toro's current 51621 figures differ from older shop titles and distinguish blow mode from vacuum mode. Worx specifies the WG583's maximum airflow without its blower tube. Those details make a simple CFM ranking misleading. Compare the supplied vacuum equipment, bag arrangement, reachable area and complete battery or cord setup before deciding which package solves your job."
+        },
+        {
+          "heading": "Make the material suitable before vacuuming",
+          "body": "An exact WG509 account describes better results with dry smaller leaves and frustration around stone-mulched beds. It is a useful reminder to inspect the pickup area first. Collect appropriate leaves in manageable batches, keep the intake clear of unsuitable debris and follow the manual during conversion. A mulching claim does not guarantee every pile becomes the same size, and collection convenience still depends on bag emptying and access."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does every leaf blower accept a pickup bag?",
+          "answer": "No. These picks have a vacuum configuration that draws suitable leaves into a collection system. A conventional blowing-only handheld or gas backpack cannot be assumed to collect simply by adding a bag."
+        },
+        {
+          "question": "Which option avoids a power cord?",
+          "answer": "The Worx WG583 uses two batteries and includes a collection bag. Check the exact kit rather than the WG583.9 bare-tool identity, and budget charging time for both packs."
+        },
+        {
+          "question": "Does a backpack bag make it a backpack blower?",
+          "answer": "The BEBL7000 and CMEBL7000 carry gathered material in a wearable bag while using a corded working head. Gas backpack blowers carry the engine on your back and generally move rather than collect leaves."
+        }
+      ],
+      "pickReasons": {
+        "worx-wg583": "For cordless collection",
+        "worx-wg509": "For deliberate corded dry-leaf cleanup",
+        "toro-51621": "For the documented shredding and collection setup",
+        "blackdecker-bebl7000": "For a wearable roll-and-clip bag",
+        "craftsman-cmebl7000": "For the newer 55-litre collection package"
+      }
+    },
+    {
+      "id": "best-backpack-blowers-heavy-fall-cleanup",
+      "title": "Best backpack blowers for heavy fall cleanup",
+      "description": "Three gas backpacks for substantial leaf movement, compared with honest nozzle and housing measurements.",
+      "label": "backpack",
+      "productIds": [
+        "echo-pb580t",
+        "husqvarna-350bt",
+        "husqvarna-150bt"
+      ],
+      "intro": "A long autumn cleanup is where a backpack blower becomes worth considering. It changes how the machine is carried and lets refuelling suit a longer working session, but leaves fuel care, maintenance and disposal in your routine. These three are residential gas-backpack candidates rather than a claim that one model clears every wooded property. Think about the deepest wet leaf pile, the distance it must move and the working time you are prepared to spend.",
+      "selectionMethod": "We compared current manufacturer engine, control and output information, then read identifiable owner discussions for workload and service concerns. Airflow in a housing differs from airflow at a nozzle. We preserve the measurement location and do not present marketing maxima as a controlled comparison. No Bush Smarts hands-on clearing or sound test was performed.",
+      "sections": [
+        {
+          "heading": "Compare the output at the same place",
+          "body": "ECHO's official PB-580T support figures identify output with its pipes installed. Husqvarna's tables distinguish nozzle and housing airflow. The current 150BT's advertised 765 CFM is listed as housing airflow, with a much lower round-nozzle figure in the specification table. The 350BT also has separate figures. That is why we do not rank these machines by selecting the largest CFM number from each advertisement."
+        },
+        {
+          "heading": "Fit and service are purchase criteria",
+          "body": "Try the harness and controls with the carrying arrangement adjusted properly. Consider how you will put the machine on, how long you expect to work and whether a tube-mounted control fits your preference. Ask a local dealer about service and common consumables. Refuelling can be convenient during a long job, while seasonal storage and a hard-to-find repair option can remove that convenience later."
+        },
+        {
+          "heading": "Let the heaviest recurring job decide",
+          "body": "An inspected PB-580T owner reported useful wet-leaf pushing on an acre. A 350BT owner working roughly two acres with deep wet cover wanted more power. Those accounts describe different situations, not a head-to-head winner. The current 150BT also shares its name with older versions, so owner repair threads need generation checks. Survey your actual leaf load and discuss the demanding area with a dealer before sizing the purchase."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Which of these collects leaves?",
+          "answer": "These gas backpacks are shortlisted for moving leaves. Collection into a bag is a separate job and requires suitable collection equipment. Read the blower-vac guide if suction and bagging are the priority."
+        },
+        {
+          "question": "Why not choose the largest advertised CFM?",
+          "answer": "Measurement location and configuration differ. Housing airflow cannot be treated as interchangeable with nozzle airflow. Keep each source's conditions visible rather than creating a false power ranking."
+        },
+        {
+          "question": "Does yard acreage decide the size?",
+          "answer": "Acreage helps, but leaf depth, moisture, tree cover and the distance material must move are often more useful. A small area of soaked leaves can demand more work than a broad driveway with a light dry covering."
+        }
+      ],
+      "pickReasons": {
+        "echo-pb580t": "For longer gas-backpack work with tube control",
+        "husqvarna-350bt": "For a documented residential backpack setup",
+        "husqvarna-150bt": "For the current 51.7 cc generation after exact-spec comparison"
+      }
+    },
+    {
+      "id": "best-leaf-blowers-small-yards",
+      "title": "Best leaf blowers for small yards",
+      "description": "Six options for manageable gardens, patios and driveways, including cordless, collection and gas choices.",
+      "label": null,
+      "productIds": [
+        "milwaukee-3017-20",
+        "ego-lb6504",
+        "worx-wg509",
+        "toro-51621",
+        "husqvarna-125b"
+      ],
+      "intro": "For a small yard, convenience often decides whether the blower gets used. Choose the tool you can put to work for ten minutes without much preparation, while making sure it suits the leaves and collection job. Existing batteries can make a bare tool sensible. An outdoor outlet can make a corded collection machine workable. A gas handheld belongs here only when you deliberately want its fuel routine and have a service plan.",
+      "selectionMethod": "We selected products for different small-yard working methods rather than inventing a universal acreage rating. Manufacturer package and configuration details were checked, with identifiable owner comments used to inform battery and collection questions. The shortlist is research-based. We have not hands-on measured clearing time, comfort or sound, and the model reviews disclose community evidence gaps.",
+      "sections": [
+        {
+          "heading": "Use what your setup already supports",
+          "body": "The 3017-20 is worth examining if suitable M18 batteries are ready. The EGO LB6504 offers a complete kit when you want an outdoor-tool platform. The 125B is a gas-handheld candidate for owners who prefer that working method. Compare the usable setup rather than the tool price alone; a bare blower is less attractive when charging and batteries need to be bought from scratch."
+        },
+        {
+          "heading": "Decide whether you want movement or collection",
+          "body": "If the job ends by blowing leaves into a manageable pile, a simple handheld can be enough. If you want material collected through the tool, the WG509 and Toro 51621 provide a different approach. They add an intake, bag and conversion routine while requiring cord management. Make sure your outlet and working route are suitable. A collection feature is valuable only if you intend to use it."
+        },
+        {
+          "heading": "Keep control around the garden",
+          "body": "A small yard often has delicate borders, neighbours close by and little room to send debris. Plan a collection point and use only the output needed for progress. Inspect stone beds before considering vacuuming. Handle the loaded machine, check reach beneath furniture and think through emptying the bag. A comfortable, manageable routine is more useful here than a large maximum number you rarely need."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is gas necessary for a small yard?",
+          "answer": "It is a working preference, not an acreage requirement. Consider fuel care and local service alongside refuelling convenience. Cordless or reachable corded alternatives may suit short chores well."
+        },
+        {
+          "question": "Can a corded blower reach the whole garden?",
+          "answer": "Assess the actual route and follow the model's manual for a suitable outdoor extension cord and electrical setup. Do not assume any cable length or gauge is acceptable."
+        },
+        {
+          "question": "Should I buy a vacuum if I mainly clear a patio?",
+          "answer": "Buy collection equipment when its bagging routine solves a real task. If you only want to move scattered debris to a gathering point, a simpler blowing tool may be easier to use and store."
+        }
+      ],
+      "pickReasons": {
+        "milwaukee-3017-20": "For existing M18 batteries",
+        "ego-lb6504": "For a complete cordless kit",
+        "worx-wg509": "For reachable dry-leaf collection",
+        "toro-51621": "For a corded shredding and bagging routine",
+        "husqvarna-125b": "For a deliberate gas-handheld choice"
+      }
+    }
+  ],
+  "researchLimitations": [
+    "Independent exact-model feedback is sparse for Greenworks BL80L414,Worx WG583,BLACK+DECKER BEBL7000,Toro51621 and Husqvarna125B; those reviews avoid invented owner patterns.",
+    "Some community evidence was inspected by the owning research agent and provided as model-specific source extracts; their links are preserved.",
+    "Manufacturer airflow, airspeed and noise figures use different configurations and conditions; the articles do not invent a controlled comparison.",
+    "Current Toro and Husqvarna specifications differ from commonly repeated older shop-title figures; differences are explicit."
+  ]
+}

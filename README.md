@@ -1,30 +1,48 @@
 # Bush Smarts
 
-A practical editorial site for yard, workshop, home, village, and city life. Built as static HTML, CSS, and JavaScript so it can be hosted directly with GitHub Pages.
+Plainspoken product research for the home and yard.
 
-**Live site:** [alekspasseo.github.io/bush-smarts](https://alekspasseo.github.io/bush-smarts/)
+**[Live website](https://alekspasseo.github.io/bush-smarts/)**
 
-## Pages
+## Catalog
 
-- `index.html` — homepage and guide index
-- `guides/leaf-blowers-with-bags.html` — specification-based buying guide
-- `guides/robot-mowers-big-yards.html` — specification-based buying guide
-- `about.html` — editorial approach and disclosure
+- Four categories: leaf blowers, robot mowers, DIY sheds, roofing products.
+- Five product labels per category, twenty in total.
+- Fifteen distinct research reviews per category, sixty in total.
+- Four buying guides per category, sixteen in total. Every listed product links to its complete review.
+- Search, category filters, product label hubs, comparison tables, source links, and responsive navigation.
 
-## Run locally
+## Development
 
-From the repository root, start any static server. For example:
+Requires Node.js 22 or later. The site itself has no package dependencies.
 
 ```sh
-npx serve .
+npm run build
+npm run check
+npm run preview
 ```
 
-Then open the local address printed by the server. There is no build step or package install.
+Open http://127.0.0.1:4320/bush-smarts/. scripts/build.mjs creates dist/ from the four research/*.json files and shared CSS, JavaScript, and assets. Generated output is ignored by Git. Original guide URLs redirect to their expanded replacements.
+
+## Amazon US integration
+
+The Amazon Creators API supplies exact-matched product listings, linked image URLs, availability, and offers. content/amazon-matches.json contains editorial ASIN mappings with brand and model checks. Similar accessories, conflicting brands, and uncertain variants are rejected. Unmatched reviews keep their manufacturer links.
+
+Use environment variables AMAZON_CREATORS_CREDENTIAL_ID, AMAZON_CREATORS_CREDENTIAL_SECRET, and AMAZON_CREATORS_CREDENTIAL_VERSION, or a local credential CSV:
+
+```sh
+node scripts/refresh-amazon.mjs --credentials /absolute/path/to/credentials.csv
+npm run build
+```
+
+The existing US associate tag is coffeedant03-20; override it with AMAZON_ASSOCIATE_TAG. Credentials and transient API responses are never committed. Images are linked directly from Amazon rather than downloaded. The browser hides retail content when its snapshot reaches twenty-four hours old, including while a page remains open. A missing API price or rating is not invented.
+
+The API response tested for this account did not supply customer review text or star ratings. Research reviews therefore summarize attributed community discussions with their limitations; they do not claim an analysis of unavailable Amazon customer reviews. Amazon rating fields are requested and shown only if genuinely returned.
 
 ## Publishing
 
-GitHub Pages is configured to deploy from the `main` branch at the repository root. Relative paths let the site work under its project URL.
+.github/workflows/publish.yml fetches a fresh Amazon snapshot, builds and validates the site, then deploys the dist/ artifact to GitHub Pages. It runs on pushes to main, manual dispatch, and every six hours. Repository secrets use the three credential environment variable names above. Set Pages publishing source to GitHub Actions.
 
-## Editorial note
+## Editorial approach
 
-The buying guides use linked manufacturer specifications. They do not claim hands-on testing. Product images on the site are original generated editorial illustrations of unbranded equipment, not images of the listed models. Review current maker information before updating a recommendation.
+Reviews distinguish manufacturer specifications from anecdotal owner feedback and editorial judgment. Sources are linked on every review. We do not claim physical testing, invent ratings, or equate a handful of owner comments with a measured failure rate. Original generated category illustrations are identified as editorial illustrations; exact product pictures come from Amazon. Affiliate disclosures appear in the footer and editorial policy.

@@ -1,0 +1,231 @@
+[
+  {
+    "id": "ego-lb7654",
+    "asin": "B09RNDQCV3",
+    "expectedBrands": [
+      "EGO Power+"
+    ],
+    "identity": {
+      "model": [
+        "LB7654"
+      ],
+      "titleIncludes": [
+        "LB7654"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "ego-lb6504",
+    "asin": "B087RRLLQ3",
+    "expectedBrands": [
+      "EGO Power+"
+    ],
+    "identity": {
+      "model": [
+        "LB6504"
+      ],
+      "titleIncludes": [
+        "LB6504"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "dewalt-dcbl772b",
+    "asin": "B086K53W7K",
+    "expectedBrands": [
+      "DEWALT"
+    ],
+    "identity": {
+      "model": [
+        "DCBL772B"
+      ],
+      "titleIncludes": [
+        "DCBL772B"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "milwaukee-3017-20",
+    "asin": "B0DJB18PZX",
+    "expectedBrands": [
+      "Milwaukee"
+    ],
+    "identity": {
+      "model": [
+        "3017-20"
+      ],
+      "titleIncludes": [
+        "M18",
+        "Blower"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "makita-xbu02pt",
+    "asin": "B01N7MX7YG",
+    "expectedBrands": [
+      "Makita"
+    ],
+    "identity": {
+      "model": [
+        "XBU02PT"
+      ],
+      "titleIncludes": [
+        "XBU02PT"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "greenworks-bl80l414",
+    "asin": "B0CLSF9WK3",
+    "expectedBrands": [
+      "Greenworks"
+    ],
+    "identity": {
+      "model": [
+        "BL80L414"
+      ],
+      "titleIncludes": [
+        "80V",
+        "770",
+        "4.0",
+        "charger"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "worx-wg583",
+    "asin": "B0921Q62XJ",
+    "expectedBrands": [
+      "WORX"
+    ],
+    "identity": {
+      "model": [
+        "WG583"
+      ],
+      "titleIncludes": [
+        "WG583"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "worx-wg509",
+    "asin": "B00MN4YCKK",
+    "expectedBrands": [
+      "WORX"
+    ],
+    "identity": {
+      "model": [
+        "WG509"
+      ],
+      "titleIncludes": [
+        "WG509"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "blackdecker-bebl7000",
+    "asin": "B07253C39S",
+    "expectedBrands": [
+      "BLACK+DECKER"
+    ],
+    "identity": {
+      "model": [
+        "BEBL7000"
+      ],
+      "titleIncludes": [
+        "BEBL7000"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "craftsman-cmebl7000",
+    "asin": "B083WQCX8H",
+    "expectedBrands": [
+      "CRAFTSMAN"
+    ],
+    "identity": {
+      "model": [
+        "CMEBL7000"
+      ],
+      "titleIncludes": [
+        "CMEBL7000"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "echo-pb580t",
+    "asin": "B014C2MLQW",
+    "expectedBrands": [
+      "ECHO"
+    ],
+    "identity": {
+      "model": [
+        "PB-580T"
+      ],
+      "titleIncludes": [
+        "Backpack",
+        "Gas"
+      ]
+    },
+    "matchNote": "Exact PB-580T part number and ECHO brand. Retail title uses older airflow figures; current manufacturer specifications remain separately qualified in the review."
+  },
+  {
+    "id": "husqvarna-350bt",
+    "asin": "B002FU5SKU",
+    "expectedBrands": [
+      "Husqvarna"
+    ],
+    "identity": {
+      "model": [
+        "965877502"
+      ],
+      "titleIncludes": [
+        "350BT"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "husqvarna-125b",
+    "asin": "B002P2ZVQ4",
+    "expectedBrands": [
+      "Husqvarna"
+    ],
+    "identity": {
+      "model": [
+        "952711925"
+      ],
+      "titleIncludes": [
+        "125B"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "husqvarna-150bt",
+    "asin": "B09TT5ZMPR",
+    "expectedBrands": [
+      "Husqvarna"
+    ],
+    "identity": {
+      "model": [
+        "970466901"
+      ],
+      "titleIncludes": [
+        "150BT"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  }
+]

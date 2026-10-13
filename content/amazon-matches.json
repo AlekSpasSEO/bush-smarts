@@ -1,0 +1,822 @@
+[
+  {
+    "id": "ego-lb7654",
+    "asin": "B09RNDQCV3",
+    "expectedBrands": [
+      "EGO Power+"
+    ],
+    "identity": {
+      "model": [
+        "LB7654"
+      ],
+      "titleIncludes": [
+        "LB7654"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "ego-lb6504",
+    "asin": "B087RRLLQ3",
+    "expectedBrands": [
+      "EGO Power+"
+    ],
+    "identity": {
+      "model": [
+        "LB6504"
+      ],
+      "titleIncludes": [
+        "LB6504"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "dewalt-dcbl772b",
+    "asin": "B086K53W7K",
+    "expectedBrands": [
+      "DEWALT"
+    ],
+    "identity": {
+      "model": [
+        "DCBL772B"
+      ],
+      "titleIncludes": [
+        "DCBL772B"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "milwaukee-3017-20",
+    "asin": "B0DJB18PZX",
+    "expectedBrands": [
+      "Milwaukee"
+    ],
+    "identity": {
+      "model": [
+        "3017-20"
+      ],
+      "titleIncludes": [
+        "M18",
+        "Blower"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "makita-xbu02pt",
+    "asin": "B01N7MX7YG",
+    "expectedBrands": [
+      "Makita"
+    ],
+    "identity": {
+      "model": [
+        "XBU02PT"
+      ],
+      "titleIncludes": [
+        "XBU02PT"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "greenworks-bl80l414",
+    "asin": "B0CLSF9WK3",
+    "expectedBrands": [
+      "Greenworks"
+    ],
+    "identity": {
+      "model": [
+        "BL80L414"
+      ],
+      "titleIncludes": [
+        "80V",
+        "770",
+        "4.0",
+        "charger"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "worx-wg583",
+    "asin": "B0921Q62XJ",
+    "expectedBrands": [
+      "WORX"
+    ],
+    "identity": {
+      "model": [
+        "WG583"
+      ],
+      "titleIncludes": [
+        "WG583"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "worx-wg509",
+    "asin": "B00MN4YCKK",
+    "expectedBrands": [
+      "WORX"
+    ],
+    "identity": {
+      "model": [
+        "WG509"
+      ],
+      "titleIncludes": [
+        "WG509"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "blackdecker-bebl7000",
+    "asin": "B07253C39S",
+    "expectedBrands": [
+      "BLACK+DECKER"
+    ],
+    "identity": {
+      "model": [
+        "BEBL7000"
+      ],
+      "titleIncludes": [
+        "BEBL7000"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "craftsman-cmebl7000",
+    "asin": "B083WQCX8H",
+    "expectedBrands": [
+      "CRAFTSMAN"
+    ],
+    "identity": {
+      "model": [
+        "CMEBL7000"
+      ],
+      "titleIncludes": [
+        "CMEBL7000"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "echo-pb580t",
+    "asin": "B014C2MLQW",
+    "expectedBrands": [
+      "ECHO"
+    ],
+    "identity": {
+      "model": [
+        "PB-580T"
+      ],
+      "titleIncludes": [
+        "Backpack",
+        "Gas"
+      ]
+    },
+    "matchNote": "Exact PB-580T part number and ECHO brand. Retail title uses older airflow figures; current manufacturer specifications remain separately qualified in the review."
+  },
+  {
+    "id": "husqvarna-350bt",
+    "asin": "B002FU5SKU",
+    "expectedBrands": [
+      "Husqvarna"
+    ],
+    "identity": {
+      "model": [
+        "965877502"
+      ],
+      "titleIncludes": [
+        "350BT"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "husqvarna-125b",
+    "asin": "B002P2ZVQ4",
+    "expectedBrands": [
+      "Husqvarna"
+    ],
+    "identity": {
+      "model": [
+        "952711925"
+      ],
+      "titleIncludes": [
+        "125B"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "husqvarna-150bt",
+    "asin": "B09TT5ZMPR",
+    "expectedBrands": [
+      "Husqvarna"
+    ],
+    "identity": {
+      "model": [
+        "970466901"
+      ],
+      "titleIncludes": [
+        "150BT"
+      ]
+    },
+    "matchNote": "Brand and exact model/part number verified through Amazon Creators API; title tokens distinguish the reviewed kit."
+  },
+  {
+    "id": "mammotion-luba-3-awd-5000",
+    "asin": "B0GWLG3D39",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "LUBA 3 5000",
+        "LUBA 3 5000-US"
+      ],
+      "titleIncludes": [
+        "LUBA 3",
+        "5000",
+        "Robot Lawn Mower"
+      ]
+    },
+    "matchNote": "Exact standard5000 model,not5000H. Review rebuilt with manufacturer's1–2.7in standard deck."
+  },
+  {
+    "id": "mammotion-luba-3-awd-3000",
+    "asin": "B0GK116TR5",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "LUBA 3 3000S"
+      ],
+      "titleIncludes": [
+        "LUBA 3",
+        "3000",
+        "1.0",
+        "2.7"
+      ]
+    },
+    "matchNote": "API model explicitly3000S and title confirms1.0–2.7in;review rebuilt for standard deck."
+  },
+  {
+    "id": "mammotion-luba-mini-2-awd-1500h",
+    "asin": "B0FCYJB4ZR",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "LUBA mini 2 1500H-1"
+      ],
+      "titleIncludes": [
+        "LUBA mini 2",
+        "1500H",
+        "LiDAR"
+      ]
+    },
+    "matchNote": "Exact US2026LiDAR1500H model,not standard1500 or earlier mini."
+  },
+  {
+    "id": "mammotion-yuka-mini-2-1000h",
+    "asin": "B0GK1PKLCD",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "YUKA mini 2 1000H"
+      ],
+      "titleIncludes": [
+        "YUKA mini 2",
+        "1000H"
+      ]
+    },
+    "matchNote": "Direct GetItems confirms exact1000H in model and part metadata."
+  },
+  {
+    "id": "segway-navimow-i105n",
+    "asin": "B0CX8LL2PC",
+    "expectedBrands": [
+      "NAVIMOW"
+    ],
+    "identity": {
+      "model": [
+        "i105N"
+      ],
+      "titleIncludes": [
+        "i105N",
+        "Robot Lawn Mower"
+      ]
+    },
+    "matchNote": "Exact US i105N;other i1/i2 or regional variants excluded."
+  },
+  {
+    "id": "segway-navimow-i210-awd",
+    "asin": "B0G8173C6Y",
+    "expectedBrands": [
+      "NAVIMOW"
+    ],
+    "identity": {
+      "model": [
+        "Segway Navimow i2 AWD",
+        "RIV001"
+      ],
+      "titleIncludes": [
+        "i210",
+        "AWD",
+        "0.25 Acre"
+      ]
+    },
+    "matchNote": "Family model metadata is generic,so mandatory title tokens distinguish i210 from i206 and LiDAR variants."
+  },
+  {
+    "id": "segway-navimow-i215-lidar",
+    "asin": "B0G8DDG35Z",
+    "expectedBrands": [
+      "NAVIMOW"
+    ],
+    "identity": {
+      "model": [],
+      "titleIncludes": [
+        "i215 LiDAR",
+        "0.37 Acre"
+      ]
+    },
+    "matchNote": "API omits model metadata;exact i215LiDAR US title,brand and0.37acre identity reviewed. No i210 substitution."
+  },
+  {
+    "id": "husqvarna-automower-410-iq",
+    "asin": "B0DTV7TR6W",
+    "expectedBrands": [
+      "Husqvarna"
+    ],
+    "identity": {
+      "model": [
+        "970727401"
+      ],
+      "titleIncludes": [
+        "410iQ",
+        "Robot Lawn Mower"
+      ]
+    },
+    "matchNote": "Exact410iQ manufacturer article970727401;not420/440."
+  },
+  {
+    "id": "mammotion-luba-2-awd-5000hx",
+    "asin": "B0DWRKVXD7",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "LUBA 2 AWD 5000HX"
+      ],
+      "titleIncludes": [
+        "LUBA 2",
+        "5000HX",
+        "2.2",
+        "4.0"
+      ]
+    },
+    "matchNote": "Entire review rewritten for older X-generation5000HX;notLUBA3 or standard5000X. Seller map-capacity claims notused as work area."
+  },
+  {
+    "id": "ecovacs-goat-a3000-lidar",
+    "asin": "B0DRFY1BDV",
+    "expectedBrands": [
+      "ECOVACS"
+    ],
+    "identity": {
+      "model": [
+        "GOAT A3000 LiDAR"
+      ],
+      "titleIncludes": [
+        "A3000 LiDAR",
+        "45min"
+      ]
+    },
+    "matchNote": "Exact originalA3000LiDAR;notPRO. Charging/title and model identify original generation."
+  },
+  {
+    "id": "ecovacs-goat-a3000-lidar-pro",
+    "asin": "B0GGYYQLXL",
+    "expectedBrands": [
+      "ECOVACS"
+    ],
+    "identity": {
+      "model": [
+        "GOAT A3000 LiDAR PRO"
+      ],
+      "titleIncludes": [
+        "A3000 LiDAR PRO"
+      ]
+    },
+    "matchNote": "Exact2026PRO model;not originalA3000 orA2000."
+  },
+  {
+    "id": "worx-landroid-vision-cloud-wr320",
+    "asin": "B0GN8KK8XW",
+    "expectedBrands": [
+      "WORX"
+    ],
+    "identity": {
+      "model": [
+        "WR320"
+      ],
+      "titleIncludes": [
+        "WR320",
+        "1/2 Acre",
+        "Robot Lawn Mower"
+      ]
+    },
+    "matchNote": "Entire review rewritten for wirelessVisionCloudWR320;notwire-basedWR155,WR320.1 or mower accessory."
+  },
+  {
+    "id": "keter-cortina-9x7",
+    "asin": "B0FCQBZG99",
+    "expectedBrands": [
+      "Keter"
+    ],
+    "identity": {
+      "model": [
+        "250950"
+      ],
+      "titleIncludes": [
+        "Cortina",
+        "9x7",
+        "Graphite"
+      ]
+    },
+    "matchNote": "Exact manufacturer item number, Cortina family, 9x7 size and graphite variant confirmed in API identity fields. Excludes green item 260978 and Signature 9x7."
+  },
+  {
+    "id": "lifetime-6402",
+    "asin": "B0041115M6",
+    "expectedBrands": [
+      "LIFETIME"
+    ],
+    "identity": {
+      "model": [
+        "6402"
+      ],
+      "titleIncludes": [
+        "6402",
+        "8 by 12.5"
+      ]
+    },
+    "matchNote": "Exact model and part number 6402, exact 8 by 12.5 size. Does not match same-size 60395 or other Lifetime sheds."
+  },
+  {
+    "id": "suncast-bms5700",
+    "asin": "B00DTLE3AA",
+    "expectedBrands": [
+      "Suncast"
+    ],
+    "identity": {
+      "model": [
+        "BMS5700"
+      ],
+      "titleIncludes": [
+        "Vertical",
+        "54 cu. ft."
+      ]
+    },
+    "matchNote": "Exact part number BMS5700; API model BMS5700D is the catalog suffix, while the exact part number establishes the reviewed identity. Excludes Stoney BMS5700SB and other vertical models."
+  },
+  {
+    "id": "keter-premier-tall",
+    "asin": "B083PKMZFZ",
+    "expectedBrands": [
+      "Keter"
+    ],
+    "identity": {
+      "model": [
+        "246295"
+      ],
+      "titleIncludes": [
+        "Premier Tall",
+        "Grey & Black",
+        "Shelving Brackets"
+      ]
+    },
+    "matchNote": "Exact model and part number 246295. Catalog physical dimensions agree with the manufacturer cabinet. Catalog title footprint and capacity wording contradict manufacturer documentation; use manufacturer specifications for editorial copy. Excludes deck-box bundle with no matching item number."
+  },
+  {
+    "id": "arrow-yardsaver-4x10",
+    "asin": "B00097IDJE",
+    "expectedBrands": [
+      "Arrow"
+    ],
+    "identity": {
+      "model": [
+        "YS410"
+      ],
+      "titleIncludes": [
+        "Yardsaver",
+        "4' x 10'",
+        "Pent Roof"
+      ]
+    },
+    "matchNote": "Exact YS410 part number, Yardsaver family and 4 by 10 pent-roof size. Manufacturer manual explicitly lists YS410 and related YS410-A identifiers. API features identify the eggshell finish. Excludes YS47-A 4x7."
+  },
+  {
+    "id": "keter-factor-8x6",
+    "asin": "B00DH8J24C",
+    "expectedBrands": [
+      "Keter"
+    ],
+    "identity": {
+      "model": [
+        "213039"
+      ],
+      "titleIncludes": [
+        "Factor",
+        "8x6"
+      ]
+    },
+    "matchNote": "Exact manufacturer item213039 and8x6 Factor family. Manufacturer calls finish Brown; catalog Taupe describes the same exact item. Not a6x8 Factor."
+  },
+  {
+    "id": "suncast-tremont-bms8100",
+    "asin": "B00GNFIP08",
+    "expectedBrands": [
+      "Suncast"
+    ],
+    "identity": {
+      "model": [
+        "BMS8100"
+      ],
+      "titleIncludes": [
+        "8x10",
+        "Tremont"
+      ]
+    },
+    "matchNote": "Exact BMS8100 model and part,8x10 Tremont family. Full review revised from8125 to current reviewed8100 documentation; earlier8125 identity is not accepted."
+  },
+  {
+    "id": "lifetime-60489",
+    "asin": "B0DXXDJGDK",
+    "expectedBrands": [
+      "LIFETIME"
+    ],
+    "identity": {
+      "model": [
+        "60489"
+      ],
+      "titleIncludes": [
+        "Horizontal",
+        "Storage Shed"
+      ]
+    },
+    "matchNote": "Exact model and part60489. Review now uses60489 manufacturer documentation; older60212 accessory and airflow claims were removed."
+  },
+  {
+    "id": "handy-home-rookwood-10x12",
+    "asin": "B091RM6MQX",
+    "expectedBrands": [
+      "Handy Home Products"
+    ],
+    "identity": {
+      "model": [
+        "19431-3"
+      ],
+      "titleIncludes": [
+        "Rookwood",
+        "10x12",
+        "with Floor Kit"
+      ]
+    },
+    "matchNote": "Exact19431-3,10x12 Rookwood floor-inclusive package. Full review revised to correct footprint, kit inclusions and finishing requirements. Excludes floorless19429-0."
+  },
+  {
+    "id": "best-barns-springfield-12x16",
+    "asin": "B00L4HX57I",
+    "expectedBrands": [
+      "Best Barns Inc."
+    ],
+    "identity": {
+      "model": [],
+      "titleIncludes": [
+        "Springfield",
+        "12 ft. x 16 ft.",
+        "without Floor"
+      ]
+    },
+    "matchNote": "Blank model/part fields, so exact brand plus distinct family, size and explicit floorless package establish identity. Springfield manufacturer construction/manual sources support review. Does not map Millcreek or a floor-inclusive Springfield."
+  },
+  {
+    "id": "handy-home-windemere-10x12",
+    "asin": "B09P47M7D4",
+    "expectedBrands": [
+      "Handy Home Products"
+    ],
+    "identity": {
+      "model": [
+        "19481-8"
+      ],
+      "titleIncludes": [
+        "Windemere",
+        "10x12",
+        "with Floor"
+      ]
+    },
+    "matchNote": "Direct GetItems exact manufacturer model and part19481-8, Windemere10x12 with floor. Research review already covers the floor-inclusive package."
+  },
+  {
+    "id": "henry-887-tropi-cool",
+    "asin": "B00OMRF05W",
+    "expectedBrands": [
+      "Henry"
+    ],
+    "identity": {
+      "model": [
+        "HE887HS073"
+      ],
+      "titleIncludes": [
+        "HE887HS073",
+        "Tropicool",
+        "5 Gallon"
+      ]
+    },
+    "matchNote": "HE887HS073 identifies the white 887 silicone product; this mapping selects the nominal five-gallon package. Do not replace it with a different Henry coating or repair sealant."
+  },
+  {
+    "id": "eternabond-roofseal",
+    "asin": "B002RSIK4G",
+    "expectedBrands": [
+      "EternaBond"
+    ],
+    "identity": {
+      "model": [
+        "RSW-4-50",
+        "RSW-4-50R"
+      ],
+      "titleIncludes": [
+        "RoofSeal",
+        "White",
+        "EB-RW040-50R"
+      ]
+    },
+    "matchNote": "White RoofSeal, four-inch by fifty-foot roll, matching the reviewed size. API model and part number use RSW aliases; the title identifies EB-RW040-50R."
+  },
+  {
+    "id": "dicor-501lsw",
+    "asin": "B000BRF7QE",
+    "expectedBrands": [
+      "Dicor"
+    ],
+    "identity": {
+      "model": [
+        "501LSW-1"
+      ],
+      "titleIncludes": [
+        "501LSW-1",
+        "Self-Leveling",
+        "White",
+        "10.3"
+      ]
+    },
+    "matchNote": "Single white 10.3-ounce 501LSW-1 self-leveling tube. Excludes dove-white 501LSD, Ultra 610SASLW and non-sag variants."
+  },
+  {
+    "id": "geocel-2300",
+    "asin": "B09LP14QZX",
+    "expectedBrands": [
+      "Geocel"
+    ],
+    "identity": {
+      "model": [
+        "GC66900"
+      ],
+      "titleIncludes": [
+        "2300",
+        "TRIPOLYMER",
+        "10.3",
+        "Plastic"
+      ]
+    },
+    "matchNote": "Selects the current manufacturer's listed GC66900 crystal-clear 10.3-ounce plastic-cartridge variant. The clear SKU has no X suffix on the current manufacturer table; do not infer the formula of colored legacy stock from this match."
+  },
+  {
+    "id": "sashco-through-the-roof",
+    "asin": "B082FN8GZV",
+    "expectedBrands": [
+      "Sashco"
+    ],
+    "identity": {
+      "model": [
+        "14010 10.5oz"
+      ],
+      "titleIncludes": [
+        "Through The Roof",
+        "10.5",
+        "Cartridge",
+        "Clear",
+        "Pack of 3"
+      ]
+    },
+    "matchNote": "Clear cartridge grade in a three-pack of 10.5-ounce tubes. API part number identifies 14010; the API model field contains a less useful numeric value, so identity requires the part number plus grade, size, color and package tokens."
+  },
+  {
+    "id": "grace-ice-water-shield",
+    "asin": "B0CK9P7PJT",
+    "expectedBrands": [
+      "Grace"
+    ],
+    "identity": {
+      "model": [
+        "44556",
+        "628"
+      ],
+      "titleIncludes": [
+        "Ice and Water Shield",
+        "36 Inch",
+        "66.6",
+        "200",
+        "Single Roll"
+      ]
+    },
+    "matchNote": "Original GRACE membrane in the manufacturer-documented 36-inch by 66.6-foot, 200-square-foot single-roll format, matching the review's selected roll. Excludes GRACE Select and HT; avoids the bulk listing with conflicting thickness metadata."
+  },
+  {
+    "id": "palram-suntuf-diy",
+    "asin": "B000M2VC6C",
+    "expectedBrands": [
+      "Suntuf"
+    ],
+    "identity": {
+      "model": [
+        "101697"
+      ],
+      "titleIncludes": [
+        "Suntuf",
+        "8 ft.",
+        "Clear",
+        "Roofing Panel"
+      ]
+    },
+    "matchNote": "Clear eight-foot SUNTUF panel, model 101697. This is the panel itself rather than a closure strip or another brand's compatible accessory. API availability currently says unavailable; preserve that status and do not show an in-stock purchase promise."
+  },
+  {
+    "id": "lomanco-bib-12",
+    "asin": "B000BPB4J0",
+    "expectedBrands": [
+      "Lomanco"
+    ],
+    "identity": {
+      "model": [
+        "BIB12"
+      ],
+      "titleIncludes": [
+        "BIB-12",
+        "Mill",
+        "Whirlybird"
+      ]
+    },
+    "matchNote": "Complete twelve-inch internally braced BIB12 in mill finish; excludes head-only, fourteen-inch, externally braced and tile-roof versions."
+  },
+  {
+    "id": "dupont-tyvek-protec-200",
+    "asin": "B01LXHFPA0",
+    "expectedBrands": [
+      "Tyvek"
+    ],
+    "identity": {
+      "model": [
+        "40362"
+      ],
+      "titleIncludes": [
+        "Tyvek",
+        "Protec 200",
+        "4' x 250'",
+        "1 Roll"
+      ]
+    },
+    "matchNote": "DuPont's roofing Protec 200 in the manufacturer-documented four-foot by two-hundred-fifty-foot single-roll format. Excludes wall wrap, Roof Protector and other Protec grades."
+  },
+  {
+    "id": "titanium-udl25",
+    "asin": "B00EFL20PS",
+    "expectedBrands": [
+      "INTERWRAP"
+    ],
+    "identity": {
+      "model": [
+        "UDL25"
+      ],
+      "titleIncludes": [
+        "Roof Underlayment",
+        "48inx250ft"
+      ]
+    },
+    "matchNote": "Exact UDL25 model under the original InterWrap manufacturer name, documented by Owens Corning's acquisition announcement. Generic catalog title is accepted only with the exact original manufacturer and UDL25 model/part number; excludes UDL30, UDL50 and PSU30."
+  }
+]

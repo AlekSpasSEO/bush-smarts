@@ -1,0 +1,1619 @@
+{
+  "category": {
+    "id": "robot-mowers",
+    "name": "Robot mowers",
+    "labels": [
+      {
+        "id": "small-yards",
+        "name": "Small yards"
+      },
+      {
+        "id": "over-one-acre",
+        "name": "Yards over 1 acre"
+      },
+      {
+        "id": "wire-free",
+        "name": "Wire-free"
+      },
+      {
+        "id": "slopes",
+        "name": "Slopes and rough terrain"
+      },
+      {
+        "id": "complex-lawns",
+        "name": "Complex and shaded lawns"
+      }
+    ]
+  },
+  "checkedAt": "2026-10-13",
+  "methodology": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+  "products": [
+    {
+      "id": "mammotion-luba-3-awd-5000",
+      "name": "Mammotion LUBA 3 AWD 5000",
+      "brand": "Mammotion",
+      "model": "LUBA 3 AWD 5000",
+      "labels": [
+        "over-one-acre",
+        "wire-free",
+        "slopes",
+        "complex-lawns"
+      ],
+      "summary": "A serious candidate for a large, uneven lawn maintained at a shorter height. Its combination of traction and several navigation systems is the reason to consider it.",
+      "verdict": "Shortlist it for difficult ground, with a clear plan for support and a backup mower.",
+      "fit": "Owners maintaining roughly an acre of shorter turf on mixed terrain.",
+      "skip": "Tall lawns needing a cut above 2.7 inches, unattended pasture work, or owners unwilling to troubleshoot an app.",
+      "pros": [
+        "All-wheel drive",
+        "Standard deck for shorter grass",
+        "Several navigation systems",
+        "Capacity above one acre"
+      ],
+      "cons": [
+        "Standard deck cannot provide a four-inch cut",
+        "Support and firmware concerns in owner reports",
+        "Some edges still need a trimmer"
+      ],
+      "sections": [
+        {
+          "heading": "What earns its place",
+          "body": "Mammotion rates this standard-deck version for 1.25 acres and pairs all-wheel drive with LiDAR, cameras and satellite correction. Its 1–2.7-inch cutting range suits a different lawn from the 5000H, which reaches taller heights. Confirm the complete variant before buying. Getting the traction you need is useful, but a mower whose maximum deck height is below your intended mowing height has missed the central requirement."
+        },
+        {
+          "heading": "The work it still leaves you",
+          "body": "The purchase makes sense when the machine can maintain grass frequently and you can clear the things that should never meet a blade. Budget time for mapping boundaries, checking narrow routes and dealing with the occasional rescue. Measure actual grass rather than the acreage on the deed. A house, driveway and vegetable beds make that difference surprisingly large."
+        },
+        {
+          "heading": "The ownership tradeoff",
+          "body": "In the linked discussion, a LUBA 3 5000 owner reported several good months on a property with elevation changes, but said flowers and growing hedges caused avoided patches. That is a useful warning for untidy borders. It is one account, not a reliability survey, and it does not establish how the US standard-deck version will perform on your grass."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Rated mowing area",
+          "value": "1.25 acres / 5,000 m²",
+          "sourceUrl": "https://us.mammotion.com/products/luba-3-awd-robot-lawn-mower"
+        },
+        {
+          "label": "Cutting height",
+          "value": "Standard version: 1.0–2.7 inches",
+          "sourceUrl": "https://us.mammotion.com/products/luba-3-awd-robot-lawn-mower"
+        },
+        {
+          "label": "Rated interior slope",
+          "value": "80% / 38.6° manufacturer maximum",
+          "sourceUrl": "https://us.mammotion.com/products/luba-3-awd-robot-lawn-mower"
+        },
+        {
+          "label": "Navigation",
+          "value": "LiDAR + AI vision + RTK/NetRTK; check local iNavi coverage",
+          "sourceUrl": "https://us.mammotion.com/blogs/news/mammotion-inavi-service"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://us.mammotion.com/products/luba-3-awd-robot-lawn-mower",
+          "title": "LUBA 3 AWD US product and configuration page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://us.mammotion.com/blogs/news/mammotion-inavi-service",
+          "title": "Mammotion iNavi availability and service terms",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/mammotion/comments/1uurwlf/mammotion_luba_3_robot_lawn_mower_my_full_review/",
+          "title": "LUBA 3 owner discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "An identifiable 5000 owner described dependable mowing over several months and nuisance avoidance around clover and hedges.",
+        "limitations": "Anecdotal; commenter did not specify the deck suffix. Regional service and firmware vary.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/mammotion/comments/1uurwlf/mammotion_luba_3_robot_lawn_mower_my_full_review/"
+        ]
+      },
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "mammotion-luba-3-awd-3000",
+      "name": "Mammotion LUBA 3 AWD 3000",
+      "brand": "Mammotion",
+      "model": "LUBA 3 AWD 3000",
+      "labels": [
+        "wire-free",
+        "slopes",
+        "complex-lawns"
+      ],
+      "summary": "The smaller-capacity standard-deck LUBA 3 makes sense below an acre when rough ground still makes AWD valuable. Check the shorter deck range before choosing.",
+      "verdict": "A terrain-first choice for a medium lawn, with mixed ownership reports worth reading before purchase.",
+      "fit": "A medium lawn with shorter turf, awkward corners and changes in elevation.",
+      "skip": "Tall lawns needing a cut above 2.7 inches, unattended pasture work, or owners unwilling to troubleshoot an app.",
+      "pros": [
+        "AWD without buying the largest capacity",
+        "Standard short-cut deck",
+        "LiDAR and camera navigation",
+        "Editable mowing areas"
+      ],
+      "cons": [
+        "Below-one-acre area rating",
+        "Standard deck ceiling is 2.7 inches",
+        "Owners report both strong results and software frustration"
+      ],
+      "sections": [
+        {
+          "heading": "Buy the terrain capability you need",
+          "body": "The standard 3000 is the sensible middle capacity in this family when its deck suits your grass. Its published mowing area is 0.75 acre, with a 1–2.7-inch cutting range. Choose it because the lawn needs its traction and navigation approach. If the garden is a flat rectangle, decide whether that extra machinery solves a problem you actually have before paying for capability that will spend its life unused."
+        },
+        {
+          "heading": "Allow room in the schedule",
+          "body": "Leave spare mowing time for wet weather, charging, obstacle detours and growth spurts. A rating describes an intended workload, not a promise that every messy lawn finishes in the same number of hours. The practical question is whether the mower can keep the grass short in the time you are happy to let it run, including the times the garden is busy."
+        },
+        {
+          "heading": "Read both sides of ownership",
+          "body": "One 3000 owner reported about 100 mowing hours with only two stoppages, including a wet ditch. Another said turning damaged the edges and support disappointed them. Those reports describe different lawns and do not settle the question for everyone. They do justify checking your return terms, watching turns closely during the first weeks and keeping a way to mow if repairs take time."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Rated mowing area",
+          "value": "0.75 acre / 3,000 m²",
+          "sourceUrl": "https://us.mammotion.com/products/luba-3-awd-robot-lawn-mower"
+        },
+        {
+          "label": "Cutting height",
+          "value": "Standard version: 1.0–2.7 inches",
+          "sourceUrl": "https://us.mammotion.com/products/luba-3-awd-robot-lawn-mower"
+        },
+        {
+          "label": "Drive",
+          "value": "All-wheel drive",
+          "sourceUrl": "https://us.mammotion.com/products/luba-3-awd-robot-lawn-mower"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://us.mammotion.com/products/luba-3-awd-robot-lawn-mower",
+          "title": "LUBA 3 AWD US model options",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/MammotionTechnology/comments/1uyycg8/im_so_happy_with_my_robot/",
+          "title": "LUBA 3 3000 positive owner account",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/MammotionTechnology/comments/1uax5s8/any_luba_3_owners_would_you_buy_it_again/",
+          "title": "LUBA 3 ownership tradeoffs",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Inspected 3000 reports include a largely successful 100-hour experience and complaints about lawn damage during turns and slow support.",
+        "limitations": "The owner posts identify 3000 capacity but do not consistently specify the deck suffix. They are individual accounts with different firmware and terrain.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/MammotionTechnology/comments/1uyycg8/im_so_happy_with_my_robot/",
+          "https://www.reddit.com/r/MammotionTechnology/comments/1uax5s8/any_luba_3_owners_would_you_buy_it_again/"
+        ]
+      },
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "mammotion-luba-mini-2-awd-1500h",
+      "name": "Mammotion LUBA mini 2 AWD 1500H",
+      "brand": "Mammotion",
+      "model": "LUBA mini 2 AWD 1500H (US LiDAR)",
+      "labels": [
+        "small-yards",
+        "wire-free",
+        "slopes",
+        "complex-lawns"
+      ],
+      "summary": "A compact AWD machine for smaller lawns where traction and a tall cut matter more than huge acreage. The US LiDAR version must not be confused with European variants.",
+      "verdict": "Worth considering for a small, difficult yard; connectivity and software deserve a close look.",
+      "fit": "Smaller yards with slopes and a preferred grass height above roughly two inches.",
+      "skip": "One-acre lawns, short-cut grass, or buyers expecting edge trimming to disappear entirely.",
+      "pros": [
+        "AWD in a smaller machine",
+        "No RTK antenna on this US version",
+        "Separate edge cutting disc",
+        "H deck reaches four inches"
+      ],
+      "cons": [
+        "Fixed edge disc has limitations",
+        "Connectivity complaints in exact-model reports",
+        "Model names differ by region"
+      ],
+      "sections": [
+        {
+          "heading": "A small mower with a useful job",
+          "body": "The US 1500H combines LiDAR and cameras with all-wheel drive. Its 0.37-acre rating puts it in suburban garden territory, while the 2.2–4-inch main-deck range accommodates a taller lawn. The separate edge disc is a reason to inspect the machine closely, but the advertised distance to a wall still leaves room for a manual trimmer."
+        },
+        {
+          "heading": "Check your garden at ground level",
+          "body": "Before buying, walk the routes between mowing areas as if you were a small machine. Gate thresholds, roots, loose gravel and a steep turn beside a flower bed matter more than a neat overhead map. A compact chassis will not fix a closed gate. Plan a reachable charging position and watch the first few scheduled runs rather than assuming the setup wizard finishes the job."
+        },
+        {
+          "heading": "A capable machine with software questions",
+          "body": "An exact 1500H owner praised traction and mowing options, then described poor Wi-Fi, short Bluetooth reach and unwanted obstacle avoidance. Another owner in a separate thread said the same model worked properly after updating. Those conflicting accounts support a cautious trial on your own property. Ask the seller how problems are handled and verify that the machine in the box is the US LiDAR version."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Rated mowing area",
+          "value": "0.37 acre / 1,500 m²",
+          "sourceUrl": "https://us.mammotion.com/products/luba-mini-2-awd-robot-lawn-mower?variant=51222244819242"
+        },
+        {
+          "label": "Main cutting height",
+          "value": "H version: 2.2–4.0 inches",
+          "sourceUrl": "https://us.mammotion.com/products/luba-mini-2-awd-robot-lawn-mower?variant=51222244819242"
+        },
+        {
+          "label": "Navigation",
+          "value": "US version: 360° LiDAR + dual-camera AI vision; no antenna",
+          "sourceUrl": "https://us.mammotion.com/products/luba-mini-2-awd-robot-lawn-mower?variant=51222244819242"
+        },
+        {
+          "label": "Rated interior slope",
+          "value": "80% / 38.6°",
+          "sourceUrl": "https://us.mammotion.com/products/luba-mini-2-awd-robot-lawn-mower?variant=51222244819242"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://us.mammotion.com/products/luba-mini-2-awd-robot-lawn-mower?variant=51222244819242",
+          "title": "US LUBA mini 2 AWD 1500/1500H product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/MammotionTechnology/comments/1ubybnz/is_there_any1_with_positive_impressions/",
+          "title": "Exact 1500H owner pros and problems",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/MammotionTechnology/comments/1u7jxpx/sudden_wifi_issues_luba_mini_2/",
+          "title": "1500H Wi-Fi reports",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Exact 1500H accounts praise AWD but include Wi-Fi, Bluetooth and obstacle-detection complaints; another owner reported normal operation.",
+        "limitations": "These are self-reported cases, not failure-rate data. US and EU mini 2 models use different navigation configurations.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/MammotionTechnology/comments/1ubybnz/is_there_any1_with_positive_impressions/",
+          "https://www.reddit.com/r/MammotionTechnology/comments/1u7jxpx/sudden_wifi_issues_luba_mini_2/"
+        ]
+      },
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "mammotion-yuka-mini-2-1000h",
+      "name": "Mammotion YUKA mini 2 1000H",
+      "brand": "Mammotion",
+      "model": "YUKA mini 2 1000H (US LiDAR)",
+      "labels": [
+        "small-yards",
+        "wire-free",
+        "complex-lawns"
+      ],
+      "summary": "A useful small-yard LiDAR option when you want to avoid an antenna and keep taller grass. It trades AWD for a simpler rear-drive layout.",
+      "verdict": "A sensible shortlist for an enclosed small lawn, subject to local availability.",
+      "fit": "Mostly manageable terrain, multiple small areas and owners comfortable using an app.",
+      "skip": "Large properties, extreme slopes or lawns maintained above 3.5 inches.",
+      "pros": [
+        "No boundary wire or RTK station",
+        "LiDAR navigation",
+        "DropMow for temporary jobs",
+        "High-cut US deck"
+      ],
+      "cons": [
+        "Rear-wheel drive",
+        "Manual edges remain",
+        "Setup may take patience",
+        "Official page showed sold out at research"
+      ],
+      "sections": [
+        {
+          "heading": "A clear purpose in a crowded range",
+          "body": "The US 1000H is rated for a quarter acre, with LiDAR navigation and a 2–3.5-inch cutting range. It avoids the antenna-placement question that complicates some satellite mowers. That makes it worth considering for an enclosed garden. Check the complete product name: older YUKA mini machines and other regional mini 2 versions are different purchases."
+        },
+        {
+          "heading": "Think in reachable mowing areas",
+          "body": "Several small patches can be harder than one open lawn. Set aside time to define safe routes and decide whether isolated areas will be carried to manually. A mower that handles the main lawn still needs a plan for the strip beyond a closed gate. Also look at the border design: a wall or raised curb limits how far any deck can reach."
+        },
+        {
+          "heading": "Early owner reports are encouraging, with limits",
+          "body": "In the inspected 1000H thread, an owner liked object detection, relocation after carrying it and DropMow, but said initial setup took several hours. A later commenter reported lost Wi-Fi connectivity. That is useful buying context rather than a verdict on every machine. The appealing part is reduced infrastructure; the remaining ownership work is mapping, cleaning, blade changes and occasional connection troubleshooting."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Rated mowing area",
+          "value": "0.25 acre / 1,000 m²",
+          "sourceUrl": "https://us.mammotion.com/products/yuka-mini-2-1000h-robot-lawn-mower?variant=49781895790890"
+        },
+        {
+          "label": "Cutting height",
+          "value": "2.0–3.5 inches",
+          "sourceUrl": "https://us.mammotion.com/products/yuka-mini-2-1000h-robot-lawn-mower?variant=49781895790890"
+        },
+        {
+          "label": "Drive and slope",
+          "value": "Rear-wheel drive; rated to 45% / 24°",
+          "sourceUrl": "https://us.mammotion.com/products/yuka-mini-2-1000h-robot-lawn-mower?variant=49781895790890"
+        },
+        {
+          "label": "Cutting width",
+          "value": "7.5 inches",
+          "sourceUrl": "https://us.mammotion.com/products/yuka-mini-2-1000h-robot-lawn-mower?variant=49781895790890"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://us.mammotion.com/products/yuka-mini-2-1000h-robot-lawn-mower?variant=49781895790890",
+          "title": "YUKA mini 2 1000H US specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/MammotionTechnology/comments/1t3xrjw/calling_all_yuka_mini_2_1000h_owners/",
+          "title": "1000H owner discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "An exact-model owner described effective detection and DropMow after a lengthy initial setup. The discussion also contains a later Wi-Fi failure report.",
+        "limitations": "Small sample, mostly early ownership. Other comments concern different variants and were not treated as 1000H evidence.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/MammotionTechnology/comments/1t3xrjw/calling_all_yuka_mini_2_1000h_owners/"
+        ]
+      },
+      "availabilityNote": "Manufacturer page showed out of stock when checked; check seller, regional variant and return terms.",
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "segway-navimow-i105n",
+      "name": "Segway Navimow i105N",
+      "brand": "Segway Navimow",
+      "model": "i105N",
+      "labels": [
+        "small-yards",
+        "wire-free"
+      ],
+      "summary": "The modest-capacity Navimow is a reasonable starting point for a genuinely small lawn. Buy it for the garden you have measured, allowing space below its limit.",
+      "verdict": "A small-yard candidate where antenna placement and modest terrain are workable.",
+      "fit": "A compact US lawn comfortably within an eighth acre of actual grass.",
+      "skip": "Quarter-acre mowing areas, steep ground or a need to cut below two inches.",
+      "pros": [
+        "Small-yard capacity avoids unnecessary oversizing",
+        "Wire-free mapping",
+        "Camera obstacle detection",
+        "US high-cut range"
+      ],
+      "cons": [
+        "Needs workable positioning coverage",
+        "Limited area headroom",
+        "Owner reports of inconsistent obstacle detection"
+      ],
+      "sections": [
+        {
+          "heading": "Keep the yard requirement honest",
+          "body": "The i105N is the US eighth-acre version of this family, with a 2–3.6-inch cutting range and a narrow deck. It is a maintenance machine for a compact garden. Draw the grass area accurately, including the side strip you always forget, and leave yourself some headroom. If the mapped lawn is close to a quarter acre, this is the wrong size."
+        },
+        {
+          "heading": "The antenna is part of the purchase",
+          "body": "Wire-free does not mean setup-free. Decide where the positioning antenna can sit and how the charging station will be reached before ordering. Think about trees and the house from the mower's perspective. The worthwhile trial is several complete runs through every mowing zone, including the awkward side passage, while you can still resolve installation problems with the seller."
+        },
+        {
+          "heading": "Keep expectations practical",
+          "body": "In an inspected i-series discussion, an i105 owner reported more collisions after software changes, while another commenter still liked the mower overall. Such accounts cannot establish that a particular firmware will behave badly on your lawn. They do reinforce the need to clear small objects, watch boundary turns and judge the finished grass rather than relying on an obstacle-detection feature name."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Rated mowing area",
+          "value": "i105N: 1/8 acre",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/54515859682713"
+        },
+        {
+          "label": "Cutting height",
+          "value": "US/Canada: 2–3.6 inches",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/54515859682713"
+        },
+        {
+          "label": "Cutting width",
+          "value": "7.1 inches / 18 cm",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/54515859682713"
+        },
+        {
+          "label": "Rated interior slope",
+          "value": "30% / 17°",
+          "sourceUrl": "https://navimow.segway.com/products/navimow-i105?variant=52466691572017"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/54515859682713",
+          "title": "Navimow i-series manual and regional specifications",
+          "type": "manual",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://navimow.segway.com/products/navimow-i105?variant=52466691572017",
+          "title": "US i105 product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/SegwayNavimow/comments/1squ3if/firmware_updates_getting_worse/",
+          "title": "i105 and i110 firmware and detection discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "The linked i105 account describes more collisions after software changes; comments include owners who remain satisfied overall.",
+        "limitations": "Family-level anecdotes; some do not specify US suffix. Not a measured collision rate or an evaluation of current firmware.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/SegwayNavimow/comments/1squ3if/firmware_updates_getting_worse/"
+        ]
+      },
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "segway-navimow-i210-awd",
+      "name": "Segway Navimow i210 AWD",
+      "brand": "Segway Navimow",
+      "model": "i210 AWD (US)",
+      "labels": [
+        "small-yards",
+        "wire-free",
+        "slopes"
+      ],
+      "summary": "The i210 AWD brings a driven three-wheel layout to quarter-acre mowing. It is a different machine from the older i110N and from regional i210 LiDAR versions.",
+      "verdict": "A small-lawn traction shortlist when positioning coverage and border design suit the property.",
+      "fit": "Quarter-acre US lawns with moderate slopes and a workable positioning installation.",
+      "skip": "One-acre jobs, very steep terrain, or lawns requiring a cut outside its deck range.",
+      "pros": [
+        "AWD for modest slopes",
+        "Network RTK where supported",
+        "Compatible MowGate option",
+        "Small-lawn capacity"
+      ],
+      "cons": [
+        "Coverage must be checked",
+        "Low curbs and transitions need careful mapping",
+        "No LiDAR on this AWD model",
+        "Edges still need attention"
+      ],
+      "sections": [
+        {
+          "heading": "Choose the actual i210 configuration",
+          "body": "The US i210 AWD is rated for a quarter acre and cuts from 2 to 3.6 inches. Its manual lists 45% maximum slopes inside the work area and at the boundary. This is not the European i210 LiDAR machine. The useful attraction is additional traction in a compact mower, with network RTK avoiding a local antenna where that service is available."
+        },
+        {
+          "heading": "Inspect the boundary as closely as the lawn",
+          "body": "An ordinary uphill run is only one part of the job. Watch where the mower turns beside paving, drops off an edge or returns through a narrow channel. Check coverage before choosing a charging position, and follow the manual's local-antenna option when network service is unavailable. A compatible automated gate may help connect lawns, but it does not make a poor transition or steep curb suitable."
+        },
+        {
+          "heading": "An exact owner supplies a useful warning",
+          "body": "An eight-week i210 owner liked the cut and MowGate but reported recalibration pauses and trouble at sloped curbside islands. The author described taller St. Augustine and a particular small garden, so those results do not establish how every i210 behaves. They do make the first complete runs important: test the difficult border within clear return terms and judge the actual cut, routes and rescue frequency."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Recommended area",
+          "value": "0.25 acre",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55022512389529?ref=T9GnSnVUEw"
+        },
+        {
+          "label": "Cutting height",
+          "value": "2–3.6 inches",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55022512389529?ref=T9GnSnVUEw"
+        },
+        {
+          "label": "Interior/boundary slope",
+          "value": "45%/45%manufacturer limits",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55022512389529?ref=T9GnSnVUEw"
+        },
+        {
+          "label": "Navigation setup",
+          "value": "Network RTK where covered; local antenna option",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55022512389529?ref=T9GnSnVUEw"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://navimow.com/products/navimow-i2-awd-robot-lawn-mower",
+          "title": "US i210 AWD product",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55022512389529?ref=T9GnSnVUEw",
+          "title": "US i2 AWD operator manual",
+          "type": "manual",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Navimow_Segway/comments/1t9sn0d/i210_8_weeks_update/",
+          "title": "i210 eight-week owner update",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Exact i210 owner praises cutting and gate use while reporting positioning pauses and difficult curbside transitions.",
+        "limitations": "One St. Augustine installation; not the regional i210 LiDAR model or a representative failure rate.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Navimow_Segway/comments/1t9sn0d/i210_8_weeks_update/"
+        ]
+      },
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "segway-navimow-x350n",
+      "name": "Segway Navimow X350N",
+      "brand": "Segway Navimow",
+      "model": "X350N",
+      "labels": [
+        "over-one-acre",
+        "wire-free"
+      ],
+      "summary": "A large-lawn option with enough published capacity for more than an acre and a tall US cutting range. It suits maintained grass better than rough paddocks.",
+      "verdict": "A strong shortlist for open lawns around an acre to an acre and a half.",
+      "fit": "Large maintained US lawns where two-wheel traction and positioning coverage are adequate.",
+      "skip": "Steep rough ground, neglected paddocks or buyers needing a cut below two inches.",
+      "pros": [
+        "1.5-acre US rating",
+        "2–4-inch US cutting range",
+        "Electronic height adjustment",
+        "Large-lawn runtime"
+      ],
+      "cons": [
+        "Two-wheel-drive terrain limits",
+        "Owner reports of missed strips in heavy growth",
+        "Regional variants have different cutting heights"
+      ],
+      "sections": [
+        {
+          "heading": "Capacity with a useful height range",
+          "body": "The X350N is rated for 1.5 acres and cuts from two to four inches in its US configuration. Those figures make it a credible contender for an acre of taller turf. Its positioning system and cameras help it maintain mapped areas, but no feature list can tell you whether your particular side yard has dependable coverage. That needs a proper installation check."
+        },
+        {
+          "heading": "Open mowing time is worth money",
+          "body": "On a large lawn, mowing windows and charging interruptions affect the purchase as much as the headline area. Keep routes between zones straightforward and avoid scheduling it into a garden full of people, equipment or closed gates. Measure the width of the tightest passage and remove low hazards. A clean, reachable lawn gives any robot less wasted travel and fewer opportunities to stop."
+        },
+        {
+          "heading": "A specific owner warning",
+          "body": "An X350 owner described good navigation across eight zones but missed strips and clumps during a rainy growth period. The discussion does not prove a current widespread fault, and other owners will have different grass. It does underline the need to watch spring workload carefully. Buy enough headroom that the mower can maintain the lawn rather than spend each week trying to catch up."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Recommended mowing area",
+          "value": "X350N: 1.5 acres",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945"
+        },
+        {
+          "label": "Cutting height",
+          "value": "US/Canada: 2–4 inches",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945"
+        },
+        {
+          "label": "Typical full-charge mowing",
+          "value": "About 200 minutes",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945"
+        },
+        {
+          "label": "Maximum interior / boundary slope",
+          "value": "50% / 25%",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://navimow.com/products/segway-navimow-x350",
+          "title": "Navimow X350 US product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945",
+          "title": "Navimow X3 manual, N region specifications",
+          "type": "manual",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/SegwayNavimow/comments/1l8a83k/thinking_about_returning_my_x350/",
+          "title": "X350 owner account of seasonal cut quality",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "An X350 owner praised navigation over eight zones but described missed grass and clumps during rainy, fast growth.",
+        "limitations": "June 2025 account; current firmware may differ. Model suffix was not specified, so use for family behavior rather than regional specifications.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/SegwayNavimow/comments/1l8a83k/thinking_about_returning_my_x350/"
+        ]
+      },
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "segway-navimow-x390n",
+      "name": "Segway Navimow X390N",
+      "brand": "Segway Navimow",
+      "model": "X390N",
+      "labels": [
+        "over-one-acre",
+        "wire-free"
+      ],
+      "summary": "The larger X3 capacity option for broad residential lawns. It is easiest to justify when the extra workload headroom will actually be used.",
+      "verdict": "Consider it for extensive maintained lawn with uncomplicated travel between zones.",
+      "fit": "Owners with roughly two acres of suitable turf who can provide regular mowing windows.",
+      "skip": "Small gardens, steep slippery land, or occasional cutting of long field grass.",
+      "pros": [
+        "2.5-acre US area rating",
+        "Longer published runtime than X350N",
+        "US height range reaches four inches",
+        "Electronic height adjustment"
+      ],
+      "cons": [
+        "Large machine and purchase",
+        "Two-wheel drive",
+        "More obstacles reduce the value of long straight-line runs"
+      ],
+      "sections": [
+        {
+          "heading": "The size upgrade has a purpose",
+          "body": "The US X390N is rated for 2.5 acres and has a longer quoted mowing runtime than the X350N. The taller US cutting range is particularly useful when grass is kept well above an ornamental close cut. The upgrade is about covering more maintained lawn. It does not automatically make the machine a better fit for every narrow route or patch of rough ground."
+        },
+        {
+          "heading": "Map the whole job before spending",
+          "body": "For a large property, make a drawing that includes every passage, isolated mowing area and charging route. Work out which parts can be reached automatically and which will require carrying or another mower. Also decide how often you will let it run. Purchasing near the maximum advertised area with very restricted operating hours leaves little room for weather or missed sessions."
+        },
+        {
+          "heading": "Useful owner context, carefully matched",
+          "body": "The linked European X390E owner reported fast mowing and reliable positioning on about 2.5 acres with trees, after repairing holes and adjusting the map. They also warned that longer grass and dandelions were harder work. That offers a practical view of the shared X3 approach. It is not evidence for the US deck's exact performance or a promise of hands-off operation on every large lawn."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Recommended mowing area",
+          "value": "X390N: 2.5 acres",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945"
+        },
+        {
+          "label": "Cutting height",
+          "value": "US/Canada: 2–4 inches",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945"
+        },
+        {
+          "label": "Typical mowing / charging",
+          "value": "About 240 / 100 minutes",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945"
+        },
+        {
+          "label": "Maximum interior / boundary slope",
+          "value": "50% / 25%",
+          "sourceUrl": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://navimow.com/collections/x3-series/products/segway-navimow-x390",
+          "title": "Navimow X390 US product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://segwaynavimow.zendesk.com/hc/en-us/article_attachments/55079391185945",
+          "title": "X3 regional specifications manual",
+          "type": "manual",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/SegwayNavimow/comments/1kj3dns/husqvarna_550_epos_vs_segway_navimow_x390/",
+          "title": "European X390E owner report",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A European X390E owner reported reliable positioning and fast mowing after fixing troublesome holes, but cautioned against longer grass.",
+        "limitations": "E version differs from N version in area and cutting-height specifications. This is family-level context from one owner.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/SegwayNavimow/comments/1kj3dns/husqvarna_550_epos_vs_segway_navimow_x390/"
+        ]
+      },
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "husqvarna-automower-410-iq",
+      "name": "Husqvarna Automower 410 iQ",
+      "brand": "Husqvarna",
+      "model": "Automower 410 iQ / 970727401",
+      "labels": [
+        "small-yards",
+        "wire-free"
+      ],
+      "summary": "A small-lawn Automower with a particularly useful one-to-four-inch deck range. Its capacity needs reading carefully: systematic and irregular mowing have different ratings.",
+      "verdict": "A worthwhile option when installation support and a wide cut-height range justify the cost.",
+      "fit": "Modest US lawns, especially where a local dealer can assess positioning coverage.",
+      "skip": "Dense shade without an installation plan, or buyers assuming half-acre capacity in every mode.",
+      "pros": [
+        "1–4-inch cutting range",
+        "Included EPOS reference station",
+        "Physical and virtual boundary support",
+        "Local dealer installation option"
+      ],
+      "cons": [
+        "Lower irregular-mode area rating",
+        "Satellite coverage still matters",
+        "Manual edging can remain"
+      ],
+      "sections": [
+        {
+          "heading": "Read the capacity table, not just the headline",
+          "body": "Husqvarna lists half an acre for systematic mowing but a quarter acre for irregular mowing. That distinction belongs in your buying decision. The broad one-to-four-inch height range is more useful than a decorative feature: it covers very different lawn preferences without changing to a different deck version. Choose the operating mode and grass height before sizing the machine."
+        },
+        {
+          "heading": "A dealer visit can earn its keep",
+          "body": "Get an assessment of the charging position, satellite view and awkward borders before paying. Ask who will handle diagnostics and what an installation visit includes. Buying a mower with nearby support is only useful if that support actually services this model. A written plan for the difficult part of your garden is worth more than a confident statement that robots work on most lawns."
+        },
+        {
+          "heading": "What an owner still had to do",
+          "body": "The linked 410 iQ owner liked the cut and app but described manual edge work and occasional positioning interruptions. The author disclosed using AI to polish their own account. We use it as a single ownership report, and do not repeat its package claims where they conflict with Husqvarna's current specifications. The practical lesson is to expect some boundary refinement and keep raised curbs out of unsafe routes."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Systematic / irregular area",
+          "value": "0.5 / 0.25 acre",
+          "sourceUrl": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-410-iq/"
+        },
+        {
+          "label": "Cutting height",
+          "value": "1–4 inches, electric adjustment",
+          "sourceUrl": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-410-iq/"
+        },
+        {
+          "label": "Interior / boundary slope",
+          "value": "45% / 15%",
+          "sourceUrl": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-410-iq/"
+        },
+        {
+          "label": "Included positioning hardware",
+          "value": "EPOS reference station and plug-in; loop wire not included",
+          "sourceUrl": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-410-iq/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-410-iq/",
+          "title": "Automower 410 iQ US specifications and included items",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/automower/comments/1u0snat/husqvarna_410_iq_review/",
+          "title": "410 iQ ownership account; author discloses AI editing",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A 410 iQ owner reports good cutting with remaining edge work and occasional signal interruptions.",
+        "limitations": "Self-reported two-month experience, AI-edited by the author. Package contents in the post conflict with current official listing, so were excluded.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/automower/comments/1u0snat/husqvarna_410_iq_review/"
+        ]
+      },
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "segway-navimow-i215-lidar",
+      "name": "Segway Navimow i215 LiDAR",
+      "brand": "Segway Navimow",
+      "model": "i215 LiDAR (US)",
+      "labels": [
+        "small-yards",
+        "wire-free",
+        "complex-lawns"
+      ],
+      "summary": "An antenna-free LiDAR and vision option for a smaller US lawn. Its navigation approach deserves attention when a satellite installation would be awkward.",
+      "verdict": "A useful compact LiDAR shortlist, with border access and regular maintenance still central.",
+      "fit": "Smaller maintained lawns where an antenna-free setup and app mapping solve real problems.",
+      "skip": "Large acreage, severe terrain, or expectations that obstacle sensing removes all manual border work.",
+      "pros": [
+        "LiDAR and vision navigation",
+        "Automatic mapping option",
+        "0.37-acre US rating",
+        "App-managed zones"
+      ],
+      "cons": [
+        "Transitions can require map refinement",
+        "Deck configuration must be checked",
+        "Owner reports vary with mowing routine",
+        "Edges need reachable borders"
+      ],
+      "sections": [
+        {
+          "heading": "A navigation purchase for a smaller lawn",
+          "body": "The US i215 is rated for 0.37 acre and combines LiDAR with vision. The manufacturer describes up to 20 mowing zones and a 45% slope capability. That puts it in a small-to-medium garden role, rather than an acreage replacement for the larger X-series. Confirm the US deck configuration and any supplied height-conversion equipment instead of borrowing cutting-height figures from a European manual."
+        },
+        {
+          "heading": "Give the whole garden a usable route",
+          "body": "Mapping only the easy central lawn tells you very little. Inspect the passage beside the house, the turn at a curb and the path back to the dock. Maintain grass frequently enough that the mower removes manageable growth, and check the underside and blades according to the manual. Sensor equipment can help location and avoidance while physical transitions still require a sensible map and a suitable surface."
+        },
+        {
+          "heading": "Owners describe different results",
+          "body": "An i215 owner reported a successful summer of frequent mowing on a relatively flat quarter-acre lawn. Another reported missed blades and grass buildup while reducing the height and mowing less often. These are individual experiences, not a controlled schedule comparison or proof of the cause. They support checking the finished lawn and your maintenance routine instead of assuming that the navigation feature alone determines cutting quality."
+        }
+      ],
+      "facts": [
+        {
+          "label": "US recommended area",
+          "value": "0.37 acre",
+          "sourceUrl": "https://navimow.com/products/navimow-i2-lidar-robot-lawn-mower"
+        },
+        {
+          "label": "Navigation",
+          "value": "LiDAR+vision; antenna-free setup",
+          "sourceUrl": "https://navimow.com/products/navimow-i2-lidar-robot-lawn-mower"
+        },
+        {
+          "label": "Mowing zones",
+          "value": "Up to 20",
+          "sourceUrl": "https://navimow.com/products/navimow-i2-lidar-robot-lawn-mower"
+        },
+        {
+          "label": "Advertised slope maximum",
+          "value": "45%/24°under manufacturer conditions",
+          "sourceUrl": "https://navimow.com/products/navimow-i2-lidar-robot-lawn-mower"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://navimow.com/products/navimow-i2-lidar-robot-lawn-mower",
+          "title": "US i215 LiDAR official description",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/SegwayNavimow/comments/1wi40b1/i215_no_disappointments/",
+          "title": "i215 owner successful summer account",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/SegwayNavimow/comments/1tko0rb/i215_issues_with_the_quality_of_the_cut/",
+          "title": "i215 cut-quality and maintenance discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "One owner reports successful frequent summer mowing; another reports missed grass and blade buildup during a different routine.",
+        "limitations": "Different lawns and schedules; no controlled test or inferred cause. Regional deck configurations differ.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/SegwayNavimow/comments/1wi40b1/i215_no_disappointments/",
+          "https://www.reddit.com/r/SegwayNavimow/comments/1tko0rb/i215_issues_with_the_quality_of_the_cut/"
+        ]
+      },
+      "evidenceGap": "Official global/manual links can lead to European cutting-height specifications. No EU height range is asserted for the US mower.",
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "husqvarna-automower-440-iq",
+      "name": "Husqvarna Automower 440 iQ",
+      "brand": "Husqvarna",
+      "model": "Automower 440 iQ / 970727601",
+      "labels": [
+        "over-one-acre",
+        "wire-free"
+      ],
+      "summary": "The large conventional iQ option pairs a two-acre systematic rating with a flexible deck. For a complicated layout, the lower irregular-mode figure matters.",
+      "verdict": "Shortlist for a large lawn after a dealer confirms the appropriate capacity and mowing mode.",
+      "fit": "Large maintained lawns suitable for systematic mowing, especially with local installation support.",
+      "skip": "Anyone treating its two-acre headline as an unconditional rating for every layout.",
+      "pros": [
+        "Two-acre systematic capacity",
+        "1–4-inch electric deck adjustment",
+        "Included positioning station",
+        "Dealer installation and service options"
+      ],
+      "cons": [
+        "One-acre irregular rating",
+        "Not the AWD option",
+        "Steep boundary rating is much lower than interior rating"
+      ],
+      "sections": [
+        {
+          "heading": "A big lawn needs a precise capacity answer",
+          "body": "The 440 iQ is rated for two acres in systematic mode and one acre in irregular mode. Both figures are official, and hiding the smaller one would make this a poor buying guide. Its one-to-four-inch deck provides useful flexibility. For a lawn above an acre, establish that systematic operation will work before calling this the right size."
+        },
+        {
+          "heading": "Service is part of the comparison",
+          "body": "An expensive robot earns its price through seasons of usable mowing, not the delivery-day unboxing. Ask your local dealer about parts, diagnostics, battery replacement and expected turnaround during the busy season. Then compare the complete installed cost. An installer who can explain the troublesome corner of your property gives you a more useful answer than a simple acreage match."
+        },
+        {
+          "heading": "Owners offer context, not a guarantee",
+          "body": "In the inspected iQ discussion, a commenter reported using a 440 iQ on a two-acre home lawn and a smaller 420 iQ at another property. That supports its place on a large-yard shortlist but supplies no controlled uptime or cutting comparison. Treat it as evidence that a real owner uses that configuration, while keeping the official operating-mode limits central to your decision."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Systematic / irregular area",
+          "value": "2.0 / 1.0 acre",
+          "sourceUrl": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-440-iq/"
+        },
+        {
+          "label": "Cutting height",
+          "value": "1–4 inches",
+          "sourceUrl": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-440-iq/"
+        },
+        {
+          "label": "Interior / boundary slope",
+          "value": "45% / 15%",
+          "sourceUrl": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-440-iq/"
+        },
+        {
+          "label": "Typical mowing / charging",
+          "value": "138 / 54 minutes",
+          "sourceUrl": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-440-iq/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.husqvarna.com/us/robotic-lawn-mowers/automower-440-iq/",
+          "title": "Automower 440 iQ US specification table",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/automower/comments/1tf9qmj/420_iq_owners_is_the_1_acre_rating_a_hard_limit/",
+          "title": "440 iQ owner describes a two-acre lawn",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A commenter identifies using a 440 iQ on two acres at home.",
+        "limitations": "Brief owner statement with no measured uptime or detail of mowing windows, terrain or mode.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/automower/comments/1tf9qmj/420_iq_owners_is_the_1_acre_rating_a_hard_limit/"
+        ]
+      },
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "mammotion-luba-2-awd-5000hx",
+      "name": "Mammotion LUBA 2 AWD 5000HX",
+      "brand": "Mammotion",
+      "model": "LUBA 2 AWD 5000HX",
+      "labels": [
+        "over-one-acre",
+        "wire-free",
+        "slopes"
+      ],
+      "summary": "A tall-cut AWD option for substantial maintained lawns. The older navigation generation remains worth comparing when its exact package and support terms make sense.",
+      "verdict": "A conditional large-lawn shortlist for taller grass, with connectivity and support questions worth asking.",
+      "fit": "Owners maintaining around an acre of taller turf where AWD is a practical requirement.",
+      "skip": "Short ornamental cuts, neglected fields, or buyers specifically requiring LiDAR.",
+      "pros": [
+        "2.2–4-inch H deck",
+        "AWD",
+        "Capacity above an acre",
+        "Wide dual-disc cutting path"
+      ],
+      "cons": [
+        "Older generation without LiDAR",
+        "Connectivity and service complaints in exact-model reports",
+        "Area storage is not mowing capacity"
+      ],
+      "sections": [
+        {
+          "heading": "Choose the height and capacity actually documented",
+          "body": "The manufacturer manual rates the 5000HX for 5,000 m², approximately 1.25 acres, with a 2.2–4-inch cutting range and a 400 mm cutting width. Its higher in-app area-storage figure is not the same as recommended mowing workload. This is the X-generation high-cut LUBA 2, not a standard-deck 5000X or a LiDAR-equipped LUBA 3. Those names represent meaningful differences in the machine you receive."
+        },
+        {
+          "heading": "An older generation needs a complete comparison",
+          "body": "The combination of AWD and a taller deck can be useful if it fits your grass and ground. Check which positioning equipment is supplied, whether optional network service covers your location and how replacement parts are handled. Compare the complete package with a newer mower. A saving is worthwhile only when the machine has the capabilities you need and a workable route to repairs during the growing season."
+        },
+        {
+          "heading": "Exact owner feedback makes support part of the choice",
+          "body": "A 5000HX owner described returning the machine after recurring connection loss and frustrating support. A separate 5000-family discussion includes an HX owner noting the time required when they avoid night operation. These are individual accounts rather than a failure-rate estimate or an argument against every older mower. They justify leaving mowing headroom and asking clear questions about returns, connectivity troubleshooting and expected repair turnaround."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Recommended mowing area",
+          "value": "5,000 m²/1.25 acres",
+          "sourceUrl": "https://fccid.io/m/943e1fb7ec454ca4ba1d8c59c33ed350765600028dac958ddcc590e97cbcb7b5.pdf"
+        },
+        {
+          "label": "Cutting height",
+          "value": "55–100 mm/2.2–4 inches",
+          "sourceUrl": "https://fccid.io/m/943e1fb7ec454ca4ba1d8c59c33ed350765600028dac958ddcc590e97cbcb7b5.pdf"
+        },
+        {
+          "label": "Cutting width",
+          "value": "400 mm/15.7 inches",
+          "sourceUrl": "https://fccid.io/m/943e1fb7ec454ca4ba1d8c59c33ed350765600028dac958ddcc590e97cbcb7b5.pdf"
+        },
+        {
+          "label": "Interior/boundary slope",
+          "value": "80%/45%manufacturer maxima",
+          "sourceUrl": "https://fccid.io/m/943e1fb7ec454ca4ba1d8c59c33ed350765600028dac958ddcc590e97cbcb7b5.pdf"
+        },
+        {
+          "label": "Navigation",
+          "value": "3D vision+RTK; no LiDAR",
+          "sourceUrl": "https://fccid.io/m/943e1fb7ec454ca4ba1d8c59c33ed350765600028dac958ddcc590e97cbcb7b5.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://support.mammotion.com/portal/en/kb/articles/luba-2-awd-x-series-user-manual-en",
+          "title": "Official LUBA 2 AWD X manual download page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://fccid.io/m/943e1fb7ec454ca4ba1d8c59c33ed350765600028dac958ddcc590e97cbcb7b5.pdf",
+          "title": "Manufacturer X-series manual reproduced in device filing",
+          "type": "manufacturer-manual",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://us.mammotion.com/blogs/news/mammotion-inavi-service",
+          "title": "Official iNavi compatibility and coverage",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/MammotionTechnology/comments/1kty93g/returned_my_luba_2_awd_hx/",
+          "title": "Exact 5000HX return account",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/mammotion/comments/1ku1msx/so_far_disappointed_in_the_luba_2_awd_5000x/",
+          "title": "5000-family mowing-window discussion with HX comment",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Exact 5000HX owner reports connection and support problems leading to return; another HX owner discusses limited daytime mowing windows.",
+        "limitations": "Individual reports with older firmware. A 5000X account is not treated as an exact-HX test, and informal technical claims were excluded.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/MammotionTechnology/comments/1kty93g/returned_my_luba_2_awd_hx/",
+          "https://www.reddit.com/r/mammotion/comments/1ku1msx/so_far_disappointed_in_the_luba_2_awd_5000x/"
+        ]
+      },
+      "evidenceGap": "Manual versions differ on some software capacities. In-app map storage must not replace the recommended 1.25-acre workload.",
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "ecovacs-goat-a3000-lidar",
+      "name": "ECOVACS GOAT A3000 LiDAR",
+      "brand": "ECOVACS",
+      "model": "GOAT A3000 LiDAR (2025 original, not PRO)",
+      "labels": [
+        "wire-free",
+        "complex-lawns"
+      ],
+      "summary": "The original LiDAR A3000 is relevant to gardens where satellite reception is troublesome. Compare its exact features and seller terms with the newer PRO before buying.",
+      "verdict": "Consider only as a clearly identified original-generation option with a worthwhile offer.",
+      "fit": "Moderate-size, maintained lawns where antenna placement is difficult and taller cutting needs fit its deck.",
+      "skip": "Over-one-acre jobs, extreme terrain or buyers specifically wanting the PRO's integrated trimmer.",
+      "pros": [
+        "No RTK station",
+        "LiDAR and camera navigation",
+        "33 cm dual-disc cutting width",
+        "Relatively quick stated recharge"
+      ],
+      "cons": [
+        "Older generation",
+        "Does not include PRO integrated string trimmer",
+        "Owner-reported missed strips and transit tracks"
+      ],
+      "sections": [
+        {
+          "heading": "The generation distinction matters",
+          "body": "This is the original A3000 LiDAR, rather than the later LiDAR PRO. The official US listing rates it for three-quarters of an acre, with a 33 cm cutting width and 1.2–3.6-inch deck range. LiDAR removes the need to place a satellite reference station. That is the useful reason to consider it, especially if the garden's layout makes an antenna installation awkward."
+        },
+        {
+          "heading": "Compare a complete, usable purchase",
+          "body": "Ask which replacement blades, battery service and charging components are available for this generation. An older model can be a reasonable buy when the offer and support are clear, but a confusing title is not a bargain. Check the box contents against the exact model, and do not assume a photograph of a newer trimmer-equipped mower describes the machine being shipped."
+        },
+        {
+          "heading": "A good idea can still leave grass to finish",
+          "body": "The original-model owner in the linked thread liked navigation and cutting, while describing skipped strips, tracks across finished sections and disappointing edging. The same author later upgraded to the PRO; those later comments concern a different machine. Read the two generations separately. Their experience suggests inspecting whole-lawn coverage and borders carefully instead of judging the machine by its nicest-looking central stripe."
+        }
+      ],
+      "facts": [
+        {
+          "label": "US advertised mowing area",
+          "value": "3/4 acre",
+          "sourceUrl": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar"
+        },
+        {
+          "label": "Cutting width",
+          "value": "12.99 inches / 33 cm",
+          "sourceUrl": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar"
+        },
+        {
+          "label": "Cutting height",
+          "value": "1.2–3.6 inches",
+          "sourceUrl": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar"
+        },
+        {
+          "label": "Stated recharge",
+          "value": "45 ± 5 minutes",
+          "sourceUrl": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar",
+          "title": "Original GOAT A3000 LiDAR US specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/automower/comments/1lgbzfr/love_85_of_my_goat_a3000heres_what_needs_fixed/",
+          "title": "Owner's original A3000 account and later PRO update",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "The original-model portion reports good navigation and cut quality alongside missed strips, unsatisfactory edging and transit marks.",
+        "limitations": "The thread spans two generations; the 2026 PRO update was not used as original-model evidence. Initial account covers only a few weeks.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/automower/comments/1lgbzfr/love_85_of_my_goat_a3000heres_what_needs_fixed/"
+        ]
+      },
+      "availabilityNote": "Original generation remains listed; verify exact listing, seller and included equipment.",
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "ecovacs-goat-a3000-lidar-pro",
+      "name": "ECOVACS GOAT A3000 LiDAR PRO",
+      "brand": "ECOVACS",
+      "model": "GOAT A3000 LiDAR PRO (2026)",
+      "labels": [
+        "wire-free",
+        "complex-lawns"
+      ],
+      "summary": "The PRO adds a built-in string trimmer to a LiDAR mowing platform. It is appealing for borders, but owner accounts make a careful garden trial essential.",
+      "verdict": "A conditional shortlist for antenna-free mowing; verify traction and edges during the return window.",
+      "fit": "Maintained lawns where LiDAR setup and integrated border trimming address real needs.",
+      "skip": "Owners needing a four-inch cut or expecting guaranteed zero manual edge work.",
+      "pros": [
+        "LiDAR navigation without an RTK station",
+        "Integrated string trimmer",
+        "33 cm cutting path",
+        "Electric height adjustment"
+      ],
+      "cons": [
+        "Rear-drive traction limitations in reports",
+        "Trimmer adds consumables and noise",
+        "Mixed exact-model ownership reports",
+        "Official page contains inconsistent slope prose"
+      ],
+      "sections": [
+        {
+          "heading": "The edge feature is the point",
+          "body": "The PRO's string trimmer is its clearest distinction from the original A3000 LiDAR. It retains a 33 cm mowing path and offers approximately 1.18–3.54-inch cutting height. The useful question is whether its edge setup fits your borders. A hedge, flat paving and a raised curb are different jobs, and the near-zero-edge marketing claim should not become a promise about every garden."
+        },
+        {
+          "heading": "Check mowing and trimming separately",
+          "body": "Watch how it turns, where it travels back to the dock and whether the trimmer leaves the border at an acceptable height. Include the troublesome corner rather than testing only a flat open patch. Account for trimmer consumables, cleaning and the noise during edge work. An automated border tool saves effort only when the layout lets it reach those borders consistently."
+        },
+        {
+          "heading": "The owner evidence is mixed",
+          "body": "An exact-model owner returned the machine after repeated stoppages and wheel digging on St. Augustine. In the same discussion, another owner described generally good results on zoysia with occasional trouble near flower beds. Those are useful contrasts in individual experiences, not a grass-type compatibility test. Buy with clear return terms and make your own lawn's complete mowing cycle the deciding evidence."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Cutting height",
+          "value": "1.18–3.54 inches / 30–90 mm",
+          "sourceUrl": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar-pro"
+        },
+        {
+          "label": "Cutting width",
+          "value": "33 cm",
+          "sourceUrl": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar-pro"
+        },
+        {
+          "label": "Battery and stated recharge",
+          "value": "7.5 Ah; 70 minutes",
+          "sourceUrl": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar-pro"
+        },
+        {
+          "label": "Interior / boundary slope",
+          "value": "Specification table: 50% / 20%; promotional paragraph elsewhere says 15°",
+          "sourceUrl": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar-pro"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.ecovacs.com/us/shop/goat-robotic-lawn-mower/goat-a3000-lidar-pro",
+          "title": "2026 GOAT A3000 LiDAR PRO US specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/roboticLawnmowers/comments/1uxb84k/ecovacs_a3000_lidar_pro_i_finally_broke_down_and/",
+          "title": "Exact PRO owner return and counterexample discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/roboticLawnmowers/comments/1tr6r1l/ecovacs_goat_a3000_lidar_pro_review_works_well/",
+          "title": "PRO review by a Reddit account labelled Brand Affiliate",
+          "type": "community-affiliated",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "An exact-model return account describes repeated stoppages and wheel digging; another owner reports a largely successful zoysia installation.",
+        "limitations": "Self-reported accounts with different lawns. A separate favourable Reddit review has a Brand Affiliate label and was given lower weight.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/roboticLawnmowers/comments/1uxb84k/ecovacs_a3000_lidar_pro_i_finally_broke_down_and/"
+        ]
+      },
+      "evidenceGap": "US product page mixes unit labels and conflicting slope statements. Do not publish capacity or slope guarantees beyond qualified source facts without exact manual confirmation.",
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "worx-landroid-vision-cloud-wr320",
+      "name": "Worx Landroid Vision Cloud WR320",
+      "brand": "Worx",
+      "model": "WR320 (US; not WR320.1)",
+      "labels": [
+        "small-yards",
+        "wire-free",
+        "complex-lawns"
+      ],
+      "summary": "The half-acre Vision Cloud model moves Worx's proposition to cloud RTK and cameras. It is a different purchase from the wired WR155 and accessory-equipped WR320.1.",
+      "verdict": "A wireless shortlist for an appropriate half-acre lawn after checking coverage and base-model equipment.",
+      "fit": "Owners with a workable cloud-positioning installation and frequent moderate lawn maintenance.",
+      "skip": "Buyers expecting perimeter-wire operation or a supplied Cut-to-Zero attachment on the base WR320.",
+      "pros": [
+        "No perimeter-wire installation",
+        "Half-acre capacity",
+        "Electric height adjustment",
+        "Manufacturer provides exact variant manual"
+      ],
+      "cons": [
+        "Cloud coverage and connections matter",
+        "Cut-to-Zero module not standard on WR320",
+        "Owner-reported return-to-dock trouble",
+        "Newer platform needs ongoing software support"
+      ],
+      "sections": [
+        {
+          "heading": "Compare the base model honestly",
+          "body": "The WR320 manual rates it for half an acre, with an 8.7-inch cutting diameter and electrically adjusted heights from about 1.57 to 3.54 inches. The table specifically distinguishes WR320 from WR320.1: the base machine does not include the Cut-to-Zero module. Its camera and cloud-RTK approach also differs from the older wired Landroid. Confirm the complete variant instead of borrowing attractive features from a neighbouring model name."
+        },
+        {
+          "heading": "Cloud navigation still needs an installation plan",
+          "body": "Check coverage before buying and identify a suitable dock position and safe routes between mowing areas. The lack of perimeter cable changes the setup work rather than removing it. Keep the grass in a maintenance condition and inspect awkward corners during the trial. A mower that cuts the central area well still needs to get back to charge without repeated carrying, particularly when you are away from home."
+        },
+        {
+          "heading": "A real owner raises the right return-route question",
+          "body": "An exact WR320 owner described several successful months followed by failures to return to the dock when low on battery or as light changed. Another inspected thread includes a WR320 owner initially happy with cutting but later discussing a missed section. These are software- and site-dependent anecdotes, not a verdict on every machine. They make repeated complete mowing-and-docking cycles a useful acceptance check on your own lawn."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Rated area",
+          "value": "1/2 acre",
+          "sourceUrl": "https://www.worx.com/media/wysiwyg/pdp-pages/manuals/Manual-WR320.pdf"
+        },
+        {
+          "label": "Cutting height",
+          "value": "40–90 mm/about 1.57–3.54 inches; electric adjustment",
+          "sourceUrl": "https://www.worx.com/media/wysiwyg/pdp-pages/manuals/Manual-WR320.pdf"
+        },
+        {
+          "label": "Cutting diameter",
+          "value": "8.7 inches/22 cm",
+          "sourceUrl": "https://www.worx.com/media/wysiwyg/pdp-pages/manuals/Manual-WR320.pdf"
+        },
+        {
+          "label": "Base-model edging module",
+          "value": "WR320: Cut-to-Zero not supplied; WR320.1 differs",
+          "sourceUrl": "https://www.worx.com/media/wysiwyg/pdp-pages/manuals/Manual-WR320.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.worx.com/media/wysiwyg/pdp-pages/manuals/Manual-WR320.pdf",
+          "title": "Official WR310/WR320 variant operator manual",
+          "type": "manual",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.worx.com/landroid-vision-cloud-1-2-acre-1.html",
+          "title": "Vision Cloud family navigation description; page describes .1 configuration",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/worxlandroid/comments/1uu1f9h/vision_cloud_just_gives_up_going_home/",
+          "title": "Exact WR320 return-to-dock owner report",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/worxlandroid/comments/1uepnm6/worx_landroid_ai_cloud_vision_fwd_fails_to_cut/",
+          "title": "Discussion with exact WR320 owner comments",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "An exact WR320 owner reports docking failures after earlier success; another describes initially good mowing and a later missed section.",
+        "limitations": "Individual cases and mixed family thread. Only explicitly identified WR320 comments are used; WR344 behaviour is not transferred.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/worxlandroid/comments/1uu1f9h/vision_cloud_just_gives_up_going_home/",
+          "https://www.reddit.com/r/worxlandroid/comments/1uepnm6/worx_landroid_ai_cloud_vision_fwd_fails_to_cut/"
+        ]
+      },
+      "evidenceGap": "Current product landing page describes WR320.1; standard WR320 specifications and accessory inclusion are taken from the official variant manual.",
+      "reviewMethod": "This is a research review based on manufacturer documents and linked owner reports. Bush Smarts has not run this mower on a test lawn.",
+      "checkedAt": "2026-10-13"
+    }
+  ],
+  "guides": [
+    {
+      "id": "best-robot-mowers-yards-over-one-acre",
+      "title": "Best robot mowers for yards over 1 acre",
+      "description": "Five researched options for substantial lawns, with exact deck variants, area ratings and terrain limits that decide the purchase.",
+      "label": "over-one-acre",
+      "productIds": [
+        "segway-navimow-x350n",
+        "segway-navimow-x390n",
+        "mammotion-luba-3-awd-5000",
+        "husqvarna-automower-440-iq",
+        "mammotion-luba-2-awd-5000hx"
+      ],
+      "intro": "A big lawn is a workload, not just a number on a property listing. Start with the area of actual grass, then account for the hours you will let the robot run and the routes it must take. Our shortlist includes mowers whose published capacities extend above an acre, with qualifications kept visible. A machine rated for 1.25 acres leaves little spare room on a difficult 1.2-acre lawn. Buying the right size means giving it enough time to maintain the grass through the busy growing season.",
+      "selectionMethod": "We compared current US manufacturer specifications, including regional model suffixes and mode-specific area ratings, then read identifiable owner discussions for practical concerns. These are editorial shortlists based on research; we have not conducted hands-on comparative testing. Capacity ratings are manufacturer claims under stated conditions, not measured Bush Smarts results. Retailer prices, ratings and images require a separately matched live catalog record.",
+      "sections": [
+        {
+          "heading": "Match each pick to its actual job",
+          "body": "The X350N is worth examining for open turf around an acre, with the X390N offering substantially more published capacity. The standard LUBA 3 5000 suits mixed terrain when its shorter deck fits the grass. The older LUBA 2 5000HX supplies a taller deck with AWD and a different navigation generation. The 440iQ is the large conventional Automower candidate for systematic mowing. Read each full review before deciding which combination matches the complete job."
+        },
+        {
+          "heading": "Do not hide the capacity conditions",
+          "body": "Husqvarna's current table rates the 440iQ for two acres systematic and one acre irregular. Establish that the larger-capacity mode fits the installation before choosing it above an acre. For the LUBA 2 5000HX, higher map-storage capacity does not replace the manual's recommended mowing area. Regional model suffixes also matter: Segway's US N models have different deck and area specifications from European E versions."
+        },
+        {
+          "heading": "Leave room for weather and maintenance",
+          "body": "A tightly scheduled machine at its limit has fewer opportunities to recover from rain, a blocked path or a missed run. Draw the full mowing route and check the narrowest passage before ordering. Keep a conventional mower or a practical service plan available during the transition. Ask how replacement batteries, blades and repairs are handled. Choose enough headroom for frequent maintenance cuts rather than sizing around an optimistic catch-up session."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does a two-acre property need a two-acre mower?",
+          "answer": "Measure actual mowing area. The house, driveway, patio and beds do not need cutting. Then leave operating headroom for the layout and your schedule; do not reduce the requirement using unverified online claims that a mower can exceed its rating."
+        },
+        {
+          "question": "Can an AWD mower replace a field mower?",
+          "answer": "Treat these as lawn-maintenance candidates. Traction does not establish the ability to clear neglected long growth, hidden objects or rough paddocks. Check the exact manual and intended grass condition before adding a field to the job."
+        },
+        {
+          "question": "Can a larger stored map justify a smaller mower?",
+          "answer": "No. Map-storage capacity and recommended mowing workload describe different things. Use the manufacturer's intended area and practical mowing window, not unverified claims that a machine can cover more merely because the app stores the map."
+        }
+      ],
+      "pickReasons": {
+        "segway-navimow-x350n": "For open lawns around an acre",
+        "segway-navimow-x390n": "For greater maintained lawn area",
+        "mammotion-luba-3-awd-5000": "For mixed terrain and shorter turf",
+        "husqvarna-automower-440-iq": "For systematic mowing with local support",
+        "mammotion-luba-2-awd-5000hx": "For taller turf with AWD"
+      }
+    },
+    {
+      "id": "best-robot-mowers-small-yards",
+      "title": "Best robot mowers for small yards",
+      "description": "Seven practical smaller-lawn choices, covering LiDAR, network RTK and dealer-supported satellite installations.",
+      "label": "small-yards",
+      "productIds": [
+        "segway-navimow-i105n",
+        "segway-navimow-i210-awd",
+        "mammotion-yuka-mini-2-1000h",
+        "mammotion-luba-mini-2-awd-1500h",
+        "husqvarna-automower-410-iq",
+        "segway-navimow-i215-lidar",
+        "worx-landroid-vision-cloud-wr320"
+      ],
+      "intro": "Small lawns can contain a surprising amount of bother. A narrow side passage, a raised curb and a gate that stays shut can be harder work than a large open rectangle. The right robot should fit the mowing area, grass height and route between patches. Our shortlist runs from compact satellite models to LiDAR machines and a physical-wire alternative. The best choice is the one whose setup suits your garden and whose ongoing chores you are willing to do.",
+      "selectionMethod": "Products were selected from inspected US manufacturer pages and manuals for their small-to-medium lawn role, with owner accounts used to identify setup and maintenance questions. We compare suitability rather than publish invented test scores. Exact model suffixes matter: US Mammotion LiDAR models and tall-cut decks can differ substantially from similarly named European products.",
+      "sections": [
+        {
+          "heading": "Choose a size without guessing",
+          "body": "The i105N fits a genuinely compact lawn; the i210 AWD adds traction within a quarter-acre role. The i215 LiDAR is worth comparing when an antenna-free small-garden setup matters. YUKA mini 2 1000H supplies another LiDAR approach, and LUBA mini 2 1500H adds AWD with a taller H deck. The 410iQ offers a modest dealer-supported installation, and WR320 extends the wireless shortlist to a half-acre Worx configuration."
+        },
+        {
+          "heading": "Pick navigation around the garden",
+          "body": "Satellite and network-RTK systems need a workable positioning installation, so check coverage and assess the side of the house before buying. LiDAR avoids a local reference antenna on the specified models, while still needing a usable map and visible surroundings. The WR320 uses cameras and cloud RTK, not the physical perimeter-wire approach of older Landroid models. Every system still needs safe routes, sensible borders and a suitable charging location."
+        },
+        {
+          "heading": "Height and borders decide more than size",
+          "body": "Write down the height you actually maintain. A high-cut H version can be unsuitable for short ornamental turf, while a lower deck ceiling can disappoint someone keeping taller grass. Confirm the exact regional deck and any supplied height-conversion equipment. Inspect how the mower reaches each edge. Flush paving differs from a raised curb or fence. Budget manual trimming where access is limited and test the awkward areas before keeping the machine."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is a robot worth buying for a tiny lawn?",
+          "answer": "Compare saved mowing time with setup, cleaning and edge work. If the lawn takes ten minutes with a small mower but has many difficult borders, automation may offer less benefit than it would on a simple larger patch."
+        },
+        {
+          "question": "Can it get through a closed garden gate?",
+          "answer": "A mapped route does not open a gate. Arrange access, use an explicitly compatible gate system if available, or plan to carry the mower. Confirm safe transitions and access before treating separate lawns as one automatic job."
+        },
+        {
+          "question": "Should I always buy the biggest capacity available?",
+          "answer": "Buy useful headroom, then consider navigation, traction, deck height and service. A larger capacity number does not cure a badly placed antenna, steep slippery edge or unreachable mowing area."
+        }
+      ],
+      "pickReasons": {
+        "segway-navimow-i105n": "For a genuinely compact lawn",
+        "segway-navimow-i210-awd": "For small-lawn AWD",
+        "mammotion-yuka-mini-2-1000h": "For LiDAR without an antenna",
+        "mammotion-luba-mini-2-awd-1500h": "For smaller slopes and taller turf",
+        "husqvarna-automower-410-iq": "For a modest supported installation",
+        "segway-navimow-i215-lidar": "For smaller LiDAR lawns",
+        "worx-landroid-vision-cloud-wr320": "For half-acre cloud-RTK and vision"
+      }
+    },
+    {
+      "id": "best-robot-mowers-slopes-rough-yards",
+      "title": "Best robot mowers for slopes and rough yards",
+      "description": "Five AWD options worth researching when traction matters, with honest limits around wet grass, turning and steep boundaries.",
+      "label": "slopes",
+      "productIds": [
+        "mammotion-luba-3-awd-5000",
+        "mammotion-luba-3-awd-3000",
+        "mammotion-luba-mini-2-awd-1500h",
+        "mammotion-luba-2-awd-5000hx",
+        "segway-navimow-i210-awd"
+      ],
+      "intro": "A hill asks more of a robot than an acreage chart does. It must climb, turn, stop and return without getting stranded or damaging the grass. Our slope shortlist concentrates on AWD machines and keeps deck-height and capacity differences visible. A large climbing claim is a useful filter, but it does not establish how a mower will behave on a wet boundary, loose soil or a badly rutted turn. Survey those exact places before spending.",
+      "selectionMethod": "We inspected manufacturer traction and slope claims, separated interior and boundary limits where documented, and read owners' descriptions of turning, grip and rescue work. The ranking reflects suitability for different workloads, not a measured hill-climbing comparison. Slope percentages and degrees are distinct units; all published maxima remain manufacturer figures.",
+      "sections": [
+        {
+          "heading": "Size the machine for the lawn and the hills",
+          "body": "Standard LUBA 3 5000 and 3000 configurations provide different area capacities with a shorter deck range. The older 5000HX is a taller-cut LUBA 2 alternative with a different navigation system. LUBA mini 2 1500H serves smaller lawns through US LiDAR and cameras. The i210 AWD adds a compact quarter-acre choice for more modest slopes. Compare deck height and manufacturer limits alongside AWD, rather than treating traction as the only requirement."
+        },
+        {
+          "heading": "Measure the place where it has to turn",
+          "body": "Interior climbing and boundary operation can carry different limits. A slope ending in a level turning strip is easier to plan than one ending beside a road, pond or sharp drop. Mark loose ground, exposed roots and runoff paths on the drawing. Assess the steep boundary and return route. Do not extrapolate an interior maximum to an edge, and do not treat percent grade as degrees."
+        },
+        {
+          "heading": "AWD still needs a workable surface",
+          "body": "Owner reports include capable hill mowing as well as wheel digging and worn turning spots. They describe individual lawns rather than a controlled traction comparison. Watch repeated turns during the initial trial, preserve sensible no-go areas and repair troublesome ground. Choose a machine with support you can actually use. A mower that climbs an impressive hill but repeatedly damages the same corner has not solved the whole job."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is an 80% slope the same as 80 degrees?",
+          "answer": "No. Percent slope is rise divided by horizontal run, multiplied by 100. An 80% grade is approximately 38.7 degrees. Keep the units consistent and read the exact model's interior and boundary limits."
+        },
+        {
+          "question": "Does AWD guarantee it can mow wet hills?",
+          "answer": "No. Traction depends on the surface, grass, turning direction and layout. Treat a maximum slope claim as a manufacturer limit under its conditions, and evaluate actual operation conservatively within the manual."
+        },
+        {
+          "question": "Which configurations fit taller grass?",
+          "answer": "The LUBA 2 5000HX and LUBA mini 2 1500H offer taller H decks. The standard LUBA 3 5000 and 3000 reviewed here have a lower ceiling. Check the exact model's deck range, including the i210 AWD's limits, before deciding; area capacity does not determine cutting height."
+        }
+      ],
+      "pickReasons": {
+        "mammotion-luba-3-awd-5000": "For a larger standard-height AWD lawn",
+        "mammotion-luba-3-awd-3000": "For a medium standard-height AWD workload",
+        "mammotion-luba-mini-2-awd-1500h": "For a smaller tall-cut LiDAR garden",
+        "mammotion-luba-2-awd-5000hx": "For an older tall-cut AWD option",
+        "segway-navimow-i210-awd": "For smaller lawns with moderate slopes"
+      }
+    },
+    {
+      "id": "best-robot-mowers-shaded-complex-lawns",
+      "title": "Best robot mowers for shaded and complex lawns",
+      "description": "Seven alternatives for lawns with trees, awkward routes or difficult satellite installations, using several wireless navigation approaches.",
+      "label": "complex-lawns",
+      "productIds": [
+        "mammotion-luba-mini-2-awd-1500h",
+        "mammotion-yuka-mini-2-1000h",
+        "mammotion-luba-3-awd-3000",
+        "ecovacs-goat-a3000-lidar-pro",
+        "ecovacs-goat-a3000-lidar",
+        "worx-landroid-vision-cloud-wr320",
+        "segway-navimow-i215-lidar"
+      ],
+      "intro": "Trees change the questions a robot-mower buyer needs answered. The mower must know where it is and still reach grass around trunks, beds and narrow passages. This shortlist combines LiDAR candidates with a cloud-RTK and vision option. Navigation is one part of the purchase: grass height, access between lawns and the return route still matter. Inspect those details rather than assuming a particular sensor guarantees complete coverage beneath every tree.",
+      "selectionMethod": "We compared inspected manufacturer navigation descriptions and exact regional models, then read ownership accounts for mapping, missed patches, boundaries and recovery work. LiDAR is a useful reason to shortlist a mower, not a guarantee of perfect coverage. We have not run comparative shade tests. Community observations remain attributed anecdotes and do not override the manufacturer's installation requirements.",
+      "sections": [
+        {
+          "heading": "Choose the setup your garden can support",
+          "body": "The US LUBA mini 2 1500H offers LiDAR with AWD; YUKA mini 2 1000H and i215 LiDAR offer other compact antenna-free approaches. The standard LUBA 3 3000 combines several navigation systems for a medium workload. ECOVACS' A3000 generations avoid a local RTK station, with the PRO adding a string trimmer. Worx WR320 uses camera and cloud-RTK navigation, so coverage and connectivity still belong in the installation check."
+        },
+        {
+          "heading": "Treat narrow routes as their own job",
+          "body": "Map the side passages, stepping stones and transitions before deciding a mower suits the lawn. A navigation system cannot solve a closed gate, a step or a drop onto a driveway. Plan how it reaches every area and returns to charge. Roots and fallen branches deserve attention: the trees that prompted the purchase may also leave obstacles that need clearing before a scheduled run."
+        },
+        {
+          "heading": "Judge the edges and missed patches",
+          "body": "Inspect beneath hedges and around beds after several runs. Obstacle avoidance can leave patches that need attention, and a border feature may work differently on flush paving than beside a curb. Read the original A3000 and PRO separately because their equipment differs. Check exact seller model names and local support, then use clear return terms to establish whether the complete lawn can be maintained reliably."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Do LiDAR mowers need an RTK antenna?",
+          "answer": "The exact US LiDAR mini models and ECOVACS candidates listed here avoid a local RTK antenna. The LUBA 3 combines systems and has model- and service-specific options. Confirm the exact regional configuration rather than relying on the family name."
+        },
+        {
+          "question": "Does cloud RTK remove every coverage concern?",
+          "answer": "No. It can remove a local reference-antenna installation where the service is supported, but coverage and connectivity still matter. Verify the specific manufacturer's installation requirements before choosing the dock and buying the mower."
+        },
+        {
+          "question": "Can a robot mow beneath every tree?",
+          "answer": "Navigation and physical access are separate questions. Exposed roots, low branches, fallen debris and tight turns can prevent usable mowing even if the mower can locate itself. Assess the full route and keep a plan for the parts it cannot reach."
+        }
+      ],
+      "pickReasons": {
+        "mammotion-luba-mini-2-awd-1500h": "For smaller LiDAR lawns needing AWD",
+        "mammotion-yuka-mini-2-1000h": "For compact antenna-free gardens",
+        "mammotion-luba-3-awd-3000": "For a medium multi-sensor workload",
+        "ecovacs-goat-a3000-lidar-pro": "For LiDAR with an integrated trimmer",
+        "ecovacs-goat-a3000-lidar": "For a clearly matched original-generation offer",
+        "worx-landroid-vision-cloud-wr320": "For a cloud-RTK and camera installation",
+        "segway-navimow-i215-lidar": "For compact LiDAR and vision"
+      }
+    }
+  ],
+  "researchLimitations": [
+    "Amazon catalog, prices, ratings and images were not used to create editorial judgments; commerce matching is separate.",
+    "Community samples are selected, self-reported accounts. They cannot establish reliability rates or a representative consensus.",
+    "Stock is variant-specific and current manufacturer pages show some Mammotion variants sold out.",
+    "Manufacturer page discrepancies are recorded per product and not silently resolved into an invented specification.",
+    "Standard LUBA 3 variants are reviewed separately from H decks. Amazon identities are matched to exact variants; other large-yard models remain manufacturer/dealer comparisons."
+  ]
+}

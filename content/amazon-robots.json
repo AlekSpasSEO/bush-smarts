@@ -1,0 +1,213 @@
+[
+  {
+    "id": "mammotion-luba-3-awd-5000",
+    "asin": "B0GWLG3D39",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "LUBA 3 5000",
+        "LUBA 3 5000-US"
+      ],
+      "titleIncludes": [
+        "LUBA 3",
+        "5000",
+        "Robot Lawn Mower"
+      ]
+    },
+    "matchNote": "Exact standard 5000 model. Review uses the manufacturer's 1–2.7-inch standard deck."
+  },
+  {
+    "id": "mammotion-luba-3-awd-3000",
+    "asin": "B0GK116TR5",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "LUBA 3 3000S"
+      ],
+      "titleIncludes": [
+        "LUBA 3",
+        "3000",
+        "1.0",
+        "2.7"
+      ]
+    },
+    "matchNote": "API model explicitly identifies 3000S; title confirms the standard 1.0–2.7-inch deck."
+  },
+  {
+    "id": "mammotion-luba-mini-2-awd-1500h",
+    "asin": "B0FCYJB4ZR",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "LUBA mini 2 1500H-1"
+      ],
+      "titleIncludes": [
+        "LUBA mini 2",
+        "1500H",
+        "LiDAR"
+      ]
+    },
+    "matchNote": "Exact US 2026 LiDAR 1500H model, distinguished from standard 1500 and earlier mini."
+  },
+  {
+    "id": "mammotion-yuka-mini-2-1000h",
+    "asin": "B0GK1PKLCD",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "YUKA mini 2 1000H"
+      ],
+      "titleIncludes": [
+        "YUKA mini 2",
+        "1000H"
+      ]
+    },
+    "matchNote": "Direct GetItems confirms exact 1000H in both model and part metadata."
+  },
+  {
+    "id": "segway-navimow-i105n",
+    "asin": "B0CX8LL2PC",
+    "expectedBrands": [
+      "NAVIMOW"
+    ],
+    "identity": {
+      "model": [
+        "i105N"
+      ],
+      "titleIncludes": [
+        "i105N",
+        "Robot Lawn Mower"
+      ]
+    },
+    "matchNote": "Exact US i105N. Other i1, i2 and regional variants are excluded."
+  },
+  {
+    "id": "segway-navimow-i210-awd",
+    "asin": "B0G8173C6Y",
+    "expectedBrands": [
+      "NAVIMOW"
+    ],
+    "identity": {
+      "model": [
+        "Segway Navimow i2 AWD",
+        "RIV001"
+      ],
+      "titleIncludes": [
+        "i210",
+        "AWD",
+        "0.25 Acre"
+      ]
+    },
+    "matchNote": "Family model metadata is generic; mandatory title tokens distinguish i210 AWD from i206 and LiDAR variants."
+  },
+  {
+    "id": "segway-navimow-i215-lidar",
+    "asin": "B0G8DDG35Z",
+    "expectedBrands": [
+      "NAVIMOW"
+    ],
+    "identity": {
+      "model": [],
+      "titleIncludes": [
+        "i215 LiDAR",
+        "0.37 Acre"
+      ]
+    },
+    "matchNote": "API omits model metadata; exact US i215 LiDAR title, brand and 0.37-acre identity are verified."
+  },
+  {
+    "id": "husqvarna-automower-410-iq",
+    "asin": "B0DTV7TR6W",
+    "expectedBrands": [
+      "Husqvarna"
+    ],
+    "identity": {
+      "model": [
+        "970727401"
+      ],
+      "titleIncludes": [
+        "410iQ",
+        "Robot Lawn Mower"
+      ]
+    },
+    "matchNote": "Exact 410iQ manufacturer article 970727401, distinguished from 420iQ and 440iQ."
+  },
+  {
+    "id": "mammotion-luba-2-awd-5000hx",
+    "asin": "B0DWRKVXD7",
+    "expectedBrands": [
+      "Mammotion"
+    ],
+    "identity": {
+      "model": [
+        "LUBA 2 AWD 5000HX"
+      ],
+      "titleIncludes": [
+        "LUBA 2",
+        "5000HX",
+        "2.2",
+        "4.0"
+      ]
+    },
+    "matchNote": "Review rewritten for the X-generation 5000HX. Recommended work area comes from the manufacturer manual."
+  },
+  {
+    "id": "ecovacs-goat-a3000-lidar",
+    "asin": "B0DRFY1BDV",
+    "expectedBrands": [
+      "ECOVACS"
+    ],
+    "identity": {
+      "model": [
+        "GOAT A3000 LiDAR"
+      ],
+      "titleIncludes": [
+        "A3000 LiDAR",
+        "45min"
+      ]
+    },
+    "matchNote": "Exact original A3000 LiDAR. Model and original-generation title features distinguish it from PRO."
+  },
+  {
+    "id": "ecovacs-goat-a3000-lidar-pro",
+    "asin": "B0GGYYQLXL",
+    "expectedBrands": [
+      "ECOVACS"
+    ],
+    "identity": {
+      "model": [
+        "GOAT A3000 LiDAR PRO"
+      ],
+      "titleIncludes": [
+        "A3000 LiDAR PRO"
+      ]
+    },
+    "matchNote": "Exact 2026 PRO model, distinguished from original A3000 and A2000."
+  },
+  {
+    "id": "worx-landroid-vision-cloud-wr320",
+    "asin": "B0GN8KK8XW",
+    "expectedBrands": [
+      "WORX"
+    ],
+    "identity": {
+      "model": [
+        "WR320"
+      ],
+      "titleIncludes": [
+        "WR320",
+        "1/2 Acre",
+        "Robot Lawn Mower"
+      ]
+    },
+    "matchNote": "Review rewritten for Vision Cloud WR320. Exact model excludes WR320.1 and wired WR155."
+  }
+]

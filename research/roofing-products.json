@@ -1,0 +1,1560 @@
+{
+  "category": {
+    "id": "roofing-products",
+    "name": "Roofing products",
+    "labels": [
+      {
+        "id": "coatings",
+        "name": "Roof coatings"
+      },
+      {
+        "id": "repair-sealants",
+        "name": "Repair sealants & tapes"
+      },
+      {
+        "id": "underlayment",
+        "name": "Underlayment"
+      },
+      {
+        "id": "panels",
+        "name": "Roofing panels"
+      },
+      {
+        "id": "ventilation-flashing",
+        "name": "Ventilation & flashing"
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "henry-887-tropi-cool",
+      "name": "Henry 887 Tropi-Cool White Silicone Roof Coating",
+      "brand": "Henry",
+      "model": "HE887",
+      "labels": [
+        "coatings"
+      ],
+      "summary": "A sensible shortlist choice for a sound, compatible low-slope roof where prolonged ponding makes an acrylic coating a poor match. The attraction is its silicone chemistry and clearly documented substrate range. Budget for the proper film thickness and matching repair materials.",
+      "verdict": "Our ponding-water shortlist pick, provided the roof passes inspection and adhesion testing.",
+      "fit": "Owners maintaining compatible metal, aged membrane or modified-bitumen roofs who can commit to a silicone coating system.",
+      "skip": "Shingle roofs, deteriorated decking and jobs where you expect to add unrelated sealants or paints later.",
+      "pros": [
+        "Manufacturer supports permanent ponding-water resistance",
+        "Wide listed substrate range",
+        "One-coat specification with thickness requirements"
+      ],
+      "cons": [
+        "Future patch materials need compatibility checking",
+        "Silicone surfaces can be very slippery",
+        "Opened material starts curing"
+      ],
+      "sections": [
+        {
+          "heading": "Why it earns a place",
+          "body": "Choose 887 for the actual roof condition, rather than the white bucket. Henry lists aged asphalt roof membranes, several aged single-ply materials, metal and concrete among acceptable substrates. That makes it a useful candidate for an outbuilding or low-slope addition with a serviceable roof. A reflectivity number alone would not settle this purchase; matching the chemistry to the existing roof and the way water drains matters more."
+        },
+        {
+          "heading": "The catch before you buy",
+          "body": "Henry excludes shingles and calls for a clean, dry substrate, defect repairs and an adhesion test. Its data sheet specifies at least 1.5 gallons per 100 square feet and 22 mils dry thickness; rough surfaces can need more material. Treat the advertised 15-minute rain-safe time as a product condition, not a reason to begin in bad weather. The listed ambient application window is 35–120°F, and the cure time varies with conditions."
+        },
+        {
+          "heading": "How we would choose",
+          "body": "We would price the coating, compatible seam repairs and preparation together. A bargain pail that leaves you short of the specified thickness is false economy. Owner discussions show both satisfied Tropi-Cool users and frustration when they add other sealants afterward. That is a useful maintenance question to raise before purchase. If inspection finds trapped moisture or an exhausted roof, spend the budget on diagnosis instead of assuming another white layer will solve it."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Chemistry",
+          "value": "100% silicone",
+          "sourceUrl": "https://www.henry.com/residential/products/residential-roof-coatings/white-roof-coatings/887-tropi-cool-100-silicone-white-roof-coating/"
+        },
+        {
+          "label": "Application temperature",
+          "value": "35–120°F ambient",
+          "sourceUrl": "https://dam.carlisle.com/asset/18bc849b-8c38-44d3-8864-0dbb0a411a69/887-Tropi-Cool-100-Silicone-White-Roof-Coating-TDS.pdf"
+        },
+        {
+          "label": "Minimum application",
+          "value": "1.5 gal/100 sq ft; 22 mils dry film",
+          "sourceUrl": "https://dam.carlisle.com/asset/18bc849b-8c38-44d3-8864-0dbb0a411a69/887-Tropi-Cool-100-Silicone-White-Roof-Coating-TDS.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.henry.com/residential/products/residential-roof-coatings/white-roof-coatings/887-tropi-cool-100-silicone-white-roof-coating/",
+          "title": "Henry 887 product details and FAQs",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://dam.carlisle.com/asset/18bc849b-8c38-44d3-8864-0dbb0a411a69/887-Tropi-Cool-100-Silicone-White-Roof-Coating-TDS.pdf",
+          "title": "Henry 887 technical data sheet",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/GoRVing/comments/12bu4ce/",
+          "title": "Tropi-Cool preparation discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/RVLiving/comments/1tdoca6/",
+          "title": "Owner report of Dicor over Tropi-Cool",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A camper owner reported good results after preparation; a separate owner described bubbling and poor adhesion after putting Dicor 501LSW over Tropi-Cool. Maintenance compatibility is the useful takeaway.",
+        "limitations": "A few anecdotal reports, with different application histories. Some comments confuse coating and sealant variants. They do not establish a failure rate.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/GoRVing/comments/12bu4ce/",
+          "https://www.reddit.com/r/RVLiving/comments/1tdoca6/"
+        ]
+      }
+    },
+    {
+      "id": "gacoroof-gr1600",
+      "name": "GacoRoof GR1600 White Silicone Roof Coating",
+      "brand": "Gaco",
+      "model": "GR1600",
+      "labels": [
+        "coatings"
+      ],
+      "summary": "A well-documented silicone alternative for compatible roofs where persistent standing water is part of the selection problem. Gaco makes the completed coverage calculation unusually clear. Its two-coat requirement means comparing gallons per finished square foot rather than the application rate on a single coat.",
+      "verdict": "A strong alternative to Henry 887 when you prefer Gaco's documented two-coat system.",
+      "fit": "Compatible existing flat or sloped roof membranes, metal roofs and outbuildings with a sound substrate.",
+      "skip": "Individual asphalt shingles, pedestrian roof decks and projects that cannot accommodate surface testing and proper preparation.",
+      "pros": [
+        "Ponding-water resistance stated by manufacturer",
+        "Detailed adhesion and coverage guidance",
+        "White variant specified for aged asphaltic roofs"
+      ],
+      "cons": [
+        "Two coats increase planning and material needs",
+        "Some substrates need primer",
+        "Not a traffic coating"
+      ],
+      "sections": [
+        {
+          "heading": "Why the coverage matters",
+          "body": "GacoRoof GR1600 belongs on the shortlist because its instructions let you compare the whole job. The FAQ explains that a finished two-coat application uses one gallon per 50 square feet; a single coat's application rate is different. That distinction is easy to miss when comparing buckets. Our preference is to compare complete material requirements, including detail repairs, rather than treat a low displayed price as evidence of better value."
+        },
+        {
+          "heading": "Check the roof underneath",
+          "body": "The GR16 data sheet excludes roofs made from individual asphalt shingles. It also specifies white GR1600 for aged asphaltic roofs, rather than transferring advice from the other colors. Gaco recommends its adhesion test kit; aged EPDM and TPO may require E5320 primer. Those qualifications are the reason this is a conditional recommendation. A silicone coating should be selected as a compatible roof system, with any uncertain substrate checked before the purchase."
+        },
+        {
+          "heading": "Our buying judgment",
+          "body": "For a garage, barn or low-slope extension, GacoRoof is worth pricing alongside 887 after the roof's condition is known. Do not infer walkability or hail protection from the silicone label. The FAQ points shoppers with walking decks toward a different product. The community material we located mentions GacoRoof as a proposed coating, but does not provide a controlled, long-term comparison of GR1600 against rivals. Our recommendation rests on documented suitability and clear planning requirements."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Variant",
+          "value": "GR1600 white, GR16 series",
+          "sourceUrl": "https://gaco.com/wp-content/uploads/2024/04/PDS-GACOROOF%E2%84%A2-GR16-SERIES-ROOF-COATING.pdf"
+        },
+        {
+          "label": "Completed two-coat coverage",
+          "value": "1 gallon per 50 sq ft",
+          "sourceUrl": "https://gaco.com/gacoroof-faqs/"
+        },
+        {
+          "label": "Shingle use",
+          "value": "Not for individual asphalt shingles",
+          "sourceUrl": "https://gaco.com/wp-content/uploads/2024/04/PDS-GACOROOF%E2%84%A2-GR16-SERIES-ROOF-COATING.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://gaco.com/product/gacoroof/",
+          "title": "GacoRoof product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://gaco.com/wp-content/uploads/2024/04/PDS-GACOROOF%E2%84%A2-GR16-SERIES-ROOF-COATING.pdf",
+          "title": "GacoRoof GR16 product data sheet",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://gaco.com/gacoroof-faqs/",
+          "title": "GacoRoof FAQ",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/nv57nq/",
+          "title": "Discussion naming GacoRoof as a proposed option",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A roofing discussion names GacoRoof as a contractor's suggested option. It is useful background on the decision, rather than proof of a successful installation.",
+        "limitations": "No model-specific long-term outcome or comparative performance established. Many other Gaco discussions concern S42, decking coatings or an unspecified Gaco product.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/nv57nq/"
+        ]
+      }
+    },
+    {
+      "id": "henry-587-dura-brite",
+      "name": "Henry 587 Dura-Brite Acrylic White Roof Coating",
+      "brand": "Henry",
+      "model": "HE587",
+      "labels": [
+        "coatings"
+      ],
+      "summary": "A narrower maintenance choice for compatible, adequately draining roofs. Its acrylic chemistry and preparation requirements make it a different buying decision from the silicone picks. This is best considered for reflectivity and routine recoating after the underlying roof and leaks have been addressed.",
+      "verdict": "Our acrylic shortlist option for compatible roofs with a dependable warm, dry work window.",
+      "fit": "Approved metal or aged asphalt-membrane roofs, including specified previously coated surfaces, where prolonged ponding is absent.",
+      "skip": "Silicone-coated roofs, shingles, rubber/PVC sheet roofs, bare plywood and roofs holding water beyond the stated tolerance.",
+      "pros": [
+        "Water cleanup before drying",
+        "Manufacturer specifies compatible recoating uses",
+        "Reflective white finish"
+      ],
+      "cons": [
+        "Only 48-hour ponding resistance stated",
+        "Two coats required",
+        "Weather window is more restrictive than 887"
+      ],
+      "sections": [
+        {
+          "heading": "Buy it for the right maintenance job",
+          "body": "Dura-Brite is worth considering when you already have a suitable roof and want a documented acrylic recoating option. Henry lists metal, aged built-up and modified-bitumen roofs, plus certain previously coated surfaces. We would use that list to narrow the purchase before comparing cost. It is tempting to regard every white roof coating as interchangeable. The better question is whether the existing membrane, old coating and drainage match this product's instructions."
+        },
+        {
+          "heading": "The important restrictions",
+          "body": "The current linked data sheet requires two coats and lists an ambient temperature of 50°F and rising. Rain or temperatures below 50°F must not be expected within 12 hours. It states ponding-water resistance up to 48 hours and excludes several surfaces, including silicone coatings, rubber or PVC sheet roofs and shingles. That makes 587 a weaker choice than the silicone options when standing water is persistent or the existing surface is uncertain."
+        },
+        {
+          "heading": "What would change our recommendation",
+          "body": "A firm substrate identification and reliable forecast would make us more comfortable recommending it. If you are buying to cure a mystery leak, stop and establish where water enters. Coating a roof also means paying for cleaning, detail repairs and enough material for both coats. Community discussions about 587 often start with the same confusion between a reflective maintenance coating and a complete leak repair. We would keep the purchase tied to the roof specification rather than those assumptions."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Chemistry",
+          "value": "100% acrylic elastomeric",
+          "sourceUrl": "https://www.henry.com/residential/products/residential-roof-coatings/white-roof-coatings/587-dura-brite-acrylic-white-roof-coating/"
+        },
+        {
+          "label": "Application temperature",
+          "value": "50°F and rising",
+          "sourceUrl": "https://dam.carlisle.com/asset/7684a959-f7d5-43a2-8712-b8f5efc27b1e/TDS-587-100-Acrylic-Dura-Brite.pdf"
+        },
+        {
+          "label": "Ponding-water qualification",
+          "value": "Resistant up to 48 hours",
+          "sourceUrl": "https://dam.carlisle.com/asset/7684a959-f7d5-43a2-8712-b8f5efc27b1e/TDS-587-100-Acrylic-Dura-Brite.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.henry.com/residential/products/residential-roof-coatings/white-roof-coatings/587-dura-brite-acrylic-white-roof-coating/",
+          "title": "Henry 587 product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://dam.carlisle.com/asset/7684a959-f7d5-43a2-8712-b8f5efc27b1e/TDS-587-100-Acrylic-Dura-Brite.pdf",
+          "title": "Henry 587 technical data sheet, linked by manufacturer",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/153kiux/",
+          "title": "Owner planning a Henry 587 roof coating job",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/1ajxc4h/",
+          "title": "Discussion of Henry acrylic coating purpose",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "The located discussions question preparation and whether a reflective acrylic coating should be treated as a waterproofing repair. They support asking better compatibility and purpose questions.",
+        "limitations": "Search-indexed discussion excerpts; full-thread fetches were unavailable. No reliable owner sample or measured temperature reduction was established.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/153kiux/",
+          "https://www.reddit.com/r/Roofing/comments/1ajxc4h/"
+        ]
+      }
+    },
+    {
+      "id": "eternabond-roofseal",
+      "name": "EternaBond RoofSeal Repair Tape",
+      "brand": "EternaBond / H.B. Fuller",
+      "model": "RoofSeal, 4 in × 50 ft",
+      "labels": [
+        "repair-sealants"
+      ],
+      "summary": "A practical repair-tape candidate for compatible seams or tears where you can prepare a clean, dry bonding area. The UV-stable backing makes it a different product from generic hardware-store tape. Its main buying constraint is compatibility with whatever is already on the roof.",
+      "verdict": "Our tape pick for defined, compatible repairs with sound material surrounding the defect.",
+      "fit": "Localized seams and tears on listed EPDM, TPO, metal, fiberglass and other manufacturer-approved surfaces.",
+      "skip": "Silicone residue, wet or dirty surfaces and repairs that conceal deteriorated material or unverified coating combinations.",
+      "pros": [
+        "UV-stable exposed backing",
+        "Several useful roll widths",
+        "No liquid curing schedule for the tape itself"
+      ],
+      "cons": [
+        "Requires clean, dry contact",
+        "Incompatible with silicone sealants/lubricants",
+        "Future inspection and coating compatibility still matter"
+      ],
+      "sections": [
+        {
+          "heading": "Where tape makes sense",
+          "body": "RoofSeal is appealing when the repair has a clear boundary and there is enough sound surface around it for a bond. The manufacturer lists several roof membranes, metal and fiberglass among compatible materials. Compared with a cartridge, tape makes the repaired area visible and provides a consistent backing. That can suit an RV seam or a defined tear better than spreading an unspecified amount of sealant over a broad area."
+        },
+        {
+          "heading": "The detail you cannot skip",
+          "body": "The technical sheet requires a clean, dry surface and pressure to activate bonding. It specifically says RoofSeal is not compatible with silicone sealants or lubricants. Its normal listed application range is 40–150°F; colder work calls for further manufacturer guidance and primer considerations. Check the actual repair area, not just the roof's original material. A roof previously treated with silicone changes this decision, even if the membrane underneath appears on the approved list."
+        },
+        {
+          "heading": "How we weigh owner feedback",
+          "body": "One owner discussion describes a coating peeling away from EternaBond tape after several rains. That does not demonstrate that RoofSeal itself failed, but it does show why layering products deserves scrutiny. We would buy this for a planned, visible repair and ask the coating manufacturer about any subsequent covering. It is less appealing as a way to hide every seam preemptively. A tidy-looking strip is still only as dependable as its contact with the surface below."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Selected format",
+          "value": "4 in × 50 ft roll",
+          "sourceUrl": "https://www.hbfuller.com/-/media/F3B379FDE2854B3892712F9C314938E2.pdf"
+        },
+        {
+          "label": "Normal ambient application range",
+          "value": "40–150°F",
+          "sourceUrl": "https://www.hbfuller.com/-/media/F3B379FDE2854B3892712F9C314938E2.pdf"
+        },
+        {
+          "label": "Important incompatibility",
+          "value": "Silicone sealants and lubricants",
+          "sourceUrl": "https://www.hbfuller.com/-/media/F3B379FDE2854B3892712F9C314938E2.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.hbfullerproducts.com/products/eternabond-roofseal",
+          "title": "H.B. Fuller RoofSeal product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.hbfuller.com/-/media/F3B379FDE2854B3892712F9C314938E2.pdf",
+          "title": "RoofSeal technical data sheet",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/GoRVing/comments/1tvun9o/",
+          "title": "Owner report of coating peeling from EternaBond tape",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A posted repair history describes a liquid coating peeling from EternaBond tape. Another commenter prefers tape for holes and tears rather than every seam.",
+        "limitations": "The exact tape SKU and coating compatibility were not independently established; this is a layering caution, not a RoofSeal failure statistic.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/GoRVing/comments/1tvun9o/"
+        ]
+      }
+    },
+    {
+      "id": "dicor-501lsw",
+      "name": "Dicor 501LSW Self-Leveling Lap Sealant",
+      "brand": "Dicor",
+      "model": "501LSW / 501LSW-1, white",
+      "labels": [
+        "repair-sealants"
+      ],
+      "summary": "A purpose-built choice for horizontal RV roof details. Its ability to flow is useful around appropriate flanges and fasteners, but it limits where the product belongs. Treat it as a secondary seal in a compatible roof assembly, and confirm the material already surrounding the repair.",
+      "verdict": "Our horizontal RV-detail pick after confirming the existing membrane and sealants.",
+      "fit": "Compatible horizontal RV roof edges, vent flanges, pipes and screw-head details.",
+      "skip": "Vertical joints, silicone-coated surfaces without written compatibility approval and jobs needing a replacement flashing.",
+      "pros": [
+        "Documented horizontal application",
+        "Listed EPDM, TPO and PVC compatibility",
+        "Flexible secondary detail seal"
+      ],
+      "cons": [
+        "Self-leveling behavior unsuitable for upright joints",
+        "Full cure takes longer than initial waterproofing",
+        "Does not replace the mechanical detail"
+      ],
+      "sections": [
+        {
+          "heading": "The right job is quite specific",
+          "body": "Dicor calls this a secondary seal for roof details, which is the most useful way to shop for it. A roof flange and fasteners need an appropriate underlying assembly; the tube adds the specified seal around those details. The 501LSW variant is white and self-leveling. That makes it a strong candidate for horizontal RV maintenance, and a poor automatic choice for a sloping wall joint simply because it says roof sealant on the label."
+        },
+        {
+          "heading": "Compatibility and timing",
+          "body": "Dicor lists compatibility with EPDM, TPO and PVC membranes and several building materials. Directions require cleaning and allowing the surface to dry. At 50–70°F, its approximate schedule distinguishes skinning at five minutes, waterproofing at four hours and a much longer curing process. Do not confuse a skinned bead with readiness for another coating. Ask about the actual membrane, prior repair material and planned coating, especially if the roof has already been treated with silicone."
+        },
+        {
+          "heading": "Our practical recommendation",
+          "body": "We would keep this on the shortlist for an RV roof inspection and maintenance job with identified materials. It is not our general-purpose answer for every shed roof. A recent owner report naming 501LSW describes poor adhesion when it was added over Tropi-Cool. That is a relevant caution about layering, rather than grounds to dismiss the product in its intended application. For vertical work, choose a separately specified non-sag sealant instead of trying to make this tube behave differently."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Orientation",
+          "value": "Self-leveling for horizontal surfaces",
+          "sourceUrl": "https://dicorproducts.com/product/self-leveling-lap-sealants/"
+        },
+        {
+          "label": "Tube size",
+          "value": "10.3 oz, white",
+          "sourceUrl": "https://dicorproducts.com/product/self-leveling-lap-sealants/"
+        },
+        {
+          "label": "Approximate waterproof time",
+          "value": "4 hours at 50–70°F; not full cure",
+          "sourceUrl": "https://dicorproducts.com/product/self-leveling-lap-sealants/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://dicorproducts.com/product/self-leveling-lap-sealants/",
+          "title": "Dicor self-leveling lap sealant specifications and directions",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://dicorproducts.com/wp-content/uploads/2025/05/DP-4044.02_2025-AMCAT-kw04292025-digital.pdf",
+          "title": "Dicor aftermarket catalog",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/RVLiving/comments/1tdoca6/",
+          "title": "501LSW over Tropi-Cool owner report",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/rvlife/comments/15q2l4s/",
+          "title": "Discussion distinguishes leveling and non-leveling sealants",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "RV discussions distinguish horizontal self-leveling work from upright joints. A model-named owner report describes trouble applying 501LSW over a silicone roof coating.",
+        "limitations": "Anecdotes do not establish widespread failure or universal membrane compatibility. The silicone-layering account has a specific installation history.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/RVLiving/comments/1tdoca6/",
+          "https://www.reddit.com/r/rvlife/comments/15q2l4s/"
+        ]
+      }
+    },
+    {
+      "id": "geocel-2300",
+      "name": "Geocel 2300 Roof Tripolymer Sealant",
+      "brand": "Geocel",
+      "model": "2300, current applicable cartridge formulation",
+      "labels": [
+        "repair-sealants"
+      ],
+      "summary": "A useful cartridge shortlist option for compatible flashing and metal-roof details, especially when the finish matters. Geocel explicitly lists coated steel and asphalt-shingle compatibility. The formulation and color deserve careful checking because the manufacturer is transitioning some part numbers.",
+      "verdict": "Our shortlist option for compatible painted-metal details where a neat, paintable repair matters.",
+      "fit": "Specified exterior roofing details on approved substrates, including listed coated steel and asphalt shingles.",
+      "skip": "Acrylic skylight glazing, polystyrene insulation and purchases that do not identify the current regional formulation.",
+      "pros": [
+        "Paintable and resealable",
+        "Listed coated-steel compatibility",
+        "Multiple finish colors"
+      ],
+      "cons": [
+        "Formulation transition complicates SKU matching",
+        "Regional sales restrictions apply",
+        "Broad use claims still need substrate confirmation"
+      ],
+      "sections": [
+        {
+          "heading": "A reason to choose it over a generic tube",
+          "body": "Geocel 2300 is worth a look when the job concerns a defined exterior roofing joint and its visible finish. The manufacturer lists asphalt shingles, coated steel including Kynar 500 finishes, concrete and vinyl among applications. Paintability and the ability to reseal with the same product are useful maintenance attributes. Our interest is that documented match to the detail, rather than a promise that one cartridge solves every leak on the property."
+        },
+        {
+          "heading": "Read the part number",
+          "body": "The current product page explains a transition to non-perchloroethylene formulas with X-suffixed part numbers for affected variants. It also lists regional sales restrictions and excludes acrylic skylight glazing and extruded polystyrene. Because the listing can contain old and new stock, match the actual cartridge to its current product data sheet. We would avoid quoting an older formula's curing or application figures as though they necessarily describe every 2300 tube available today."
+        },
+        {
+          "heading": "Where it stands in this shortlist",
+          "body": "For a compatible coated-metal detail, 2300 has a more relevant stated use than a caulk chosen only because it is clear. For skylight plastic, the exclusion makes the answer different. The community evidence we found includes a roofer identifying 2300 in a discussion about visible sealant; it does not provide a useful long-term sample. Buy by substrate and current instructions. A flexible bead also needs a properly designed joint and flashing underneath, so investigate repeated leaks before adding another layer."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Product type",
+          "value": "Single-component tripolymer roof sealant",
+          "sourceUrl": "https://www.geocelusa.com/product/geocel-2300-roof-tripolymer-sealant/"
+        },
+        {
+          "label": "Listed coated-steel finish",
+          "value": "Kynar 500 based finishes",
+          "sourceUrl": "https://www.geocelusa.com/product/geocel-2300-roof-tripolymer-sealant/"
+        },
+        {
+          "label": "SKU check",
+          "value": "Affected current formulas use X-suffixed part numbers",
+          "sourceUrl": "https://www.geocelusa.com/product/geocel-2300-roof-tripolymer-sealant/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.geocelusa.com/product/geocel-2300-roof-tripolymer-sealant/",
+          "title": "Geocel 2300 current product page and formulation notice",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.geocelusa.com/wp-content/uploads/2024/09/Geocel_-1-Step_Brochure2021.pdf",
+          "title": "Geocel roofing-sealant brochure",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/1fjsbyp/",
+          "title": "Roofing discussion identifying Geocel 2300",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A roofing commenter identified Geocel 2300 as the product they use in a discussion of visible adhesive on a new roof.",
+        "limitations": "Search-indexed excerpt; full thread unavailable. This establishes a product mention, not comparative durability or current-formula feedback.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/1fjsbyp/"
+        ]
+      }
+    },
+    {
+      "id": "sashco-through-the-roof",
+      "name": "Sashco Through the Roof Clear Sealant",
+      "brand": "Sashco",
+      "model": "Through the Roof, clear cartridge grade",
+      "labels": [
+        "repair-sealants"
+      ],
+      "summary": "A clear exterior sealant worth considering for compatible flashing and fixture details where appearance matters. Its wet-surface capability is useful, but the exclusions are just as valuable: it is not a universal choice for every coated metal, plastic or membrane.",
+      "verdict": "Our clear-detail pick when the substrate is explicitly compatible and the repair is localized.",
+      "fit": "Approved metal flashing, masonry and roof-fixture details where a clear, paintable bead is useful.",
+      "skip": "Kynar finishes, silicone, polyethylene/polypropylene and prolonged puddling or submerged repairs.",
+      "pros": [
+        "Clear finish",
+        "Manufacturer permits wet-surface application",
+        "Cartridge and brush-grade options"
+      ],
+      "cons": [
+        "Several important material exclusions",
+        "Thin EPDM may warp; testing needed",
+        "Solvent product with a curing window"
+      ],
+      "sections": [
+        {
+          "heading": "Where the clear finish helps",
+          "body": "Through the Roof earns a place for a narrow reason: some exterior details benefit from a clear bead rather than a conspicuous black patch. Sashco lists flashing, vent-pipe and masonry applications, and offers cartridge and brush grades. We would select the grade for the detail and keep the repair easy to inspect. Appearance is useful when it makes maintenance unobtrusive, but it should not distract from confirming why the joint is leaking."
+        },
+        {
+          "heading": "The compatibility line matters",
+          "body": "The linked technical sheet permits wet-surface application and lists a surface-temperature range of 0–120°F. It excludes prolonged puddling, silicone, polyethylene, polypropylene and Kynar, and warns that thin EPDM can warp. It lists about 30 minutes to tack-free and a cure that depends on temperature, humidity and thickness. Those distinctions matter more than a generic all-weather claim. In particular, do not transfer Geocel's coated-steel compatibility to this product just because both are roof sealants."
+        },
+        {
+          "heading": "How owner reports inform the choice",
+          "body": "One owner described several rain-free weeks after using Through the Roof around existing pipe details, while a cargo-trailer owner liked the application and appearance but remained uncertain about long-term results. That is useful, modest feedback. It does not establish years of durability. We would choose this for an approved localized detail and continue inspections. If the existing boot or flashing is split or poorly formed, a clear bead is not a substitute for the correct replacement component."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Selected packaging",
+          "value": "10.5 oz clear cartridge grade",
+          "sourceUrl": "https://www.sashco.com/wp-content/uploads/2020/07/TRF_TechData.pdf"
+        },
+        {
+          "label": "Application range",
+          "value": "0–120°F surface temperature",
+          "sourceUrl": "https://www.sashco.com/wp-content/uploads/2020/07/TRF_TechData.pdf"
+        },
+        {
+          "label": "Material exclusions",
+          "value": "Includes silicone and Kynar",
+          "sourceUrl": "https://www.sashco.com/wp-content/uploads/2020/07/TRF_TechData.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sashco.com/products/through-the-roof/",
+          "title": "Sashco Through the Roof product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.sashco.com/wp-content/uploads/2020/07/TRF_TechData.pdf",
+          "title": "Through the Roof technical data",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/z8kkl8/",
+          "title": "Owner follow-up after Through the Roof repair",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/cargocamper/comments/16vgm0m/",
+          "title": "Cargo trailer owner repair report",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A roof-vent repair follow-up reports no leaks after weeks of rain. A cargo-trailer report likes application and appearance while acknowledging that long-term performance remains unknown.",
+        "limitations": "Both are anecdotes with additional repair details; no controlled comparison or lasting service-life estimate.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/z8kkl8/",
+          "https://www.reddit.com/r/cargocamper/comments/16vgm0m/"
+        ]
+      }
+    },
+    {
+      "id": "grace-ice-water-shield",
+      "name": "GCP GRACE Ice & Water Shield",
+      "brand": "GCP / GRACE",
+      "model": "Original Ice & Water Shield, 36 in × 66.6 ft single roll",
+      "labels": [
+        "underlayment"
+      ],
+      "summary": "A self-adhered membrane to shortlist for vulnerable areas beneath a compatible sloped-roof covering. It belongs in a planned roof assembly, with moisture and temperature requirements considered. Its strong deck bond makes correct placement and future reroofing part of the buying decision.",
+      "verdict": "Our targeted ice-barrier shortlist pick for a specified compatible roof assembly.",
+      "fit": "Specified eaves, valleys and other vulnerable areas on a clean, dry, sound continuous deck.",
+      "skip": "Exposed finished roofing, unresolved moisture-control designs and high-temperature metal applications without manufacturer approval.",
+      "pros": [
+        "Self-adhered bond",
+        "Manufacturer documents fastener-sealing function",
+        "Split-release feature for positioning"
+      ],
+      "cons": [
+        "Air and vapor barrier needs design consideration",
+        "Aggressive adhesion complicates correction",
+        "Standard and HT versions are different products"
+      ],
+      "sections": [
+        {
+          "heading": "Its job is under the roof",
+          "body": "Original Ice & Water Shield is a different purchase from a mechanically fastened synthetic sheet. Its adhesive bond and fastener-sealing purpose make it worth considering in specified leak-prone areas beneath the final covering. We would start with the roof design and the required barrier location, then select the roll. Paying for full-deck coverage by default can distract from the actual question: where the assembly needs this type of membrane and how moisture will dry."
+        },
+        {
+          "heading": "The design qualifications",
+          "body": "GCP's technical information calls for a sound continuous deck that is clean and dry, and fair-weather application with the air, deck and membrane at least 40°F. The membrane is an air and vapor barrier, so ventilation and insulation matter. The original version is not automatically a substitute for HT beneath hot metal. Some metal and climate combinations need a different membrane. It must be covered with a suitable final roof, rather than left as the finished weather surface."
+        },
+        {
+          "heading": "What the community adds",
+          "body": "Roofing discussions show praise for the product alongside concern about how firmly it stays attached during later reroofing. Opinions differ about whether a premium membrane is worth the upgrade for a particular climate. We would take that as a reason to request an itemized specification, not a popularity vote. Confirm whether the proposal concerns original Ice & Water Shield or HT, exactly where it is going, and what the manufacturer permits when an existing membrane remains underneath."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Selected roll",
+          "value": "36 in × 66.6 ft; 200 sq ft gross",
+          "sourceUrl": "https://gcpat.com.br/pt-br/solutions/products/grace-ice-and-water-shield-roofing-underlayment/grace-ice-water-shield"
+        },
+        {
+          "label": "Type",
+          "value": "Self-adhered rubberized-asphalt membrane with film backing",
+          "sourceUrl": "https://gcpat.com/sites/gcpat.com/files/pdf/current/resource/GCPAT_grace_ice_water_shield_us_5226_1773984986.pdf"
+        },
+        {
+          "label": "Application minimum",
+          "value": "40°F for air, deck and membrane",
+          "sourceUrl": "https://gcpat.com.br/pt-br/solutions/products/grace-ice-and-water-shield-roofing-underlayment/grace-ice-water-shield"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://gcpat.com/sites/gcpat.com/files/pdf/current/resource/GCPAT_grace_ice_water_shield_us_5226_1773984986.pdf",
+          "title": "GRACE original US data sheet, search-indexed",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://gcpat.com.br/pt-br/solutions/products/grace-ice-and-water-shield-roofing-underlayment/grace-ice-water-shield",
+          "title": "GCP original Ice & Water Shield technical page, archived regional copy",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://beta.gcpat.com/sites/gcpat.com/files/pdf/current/resource/GCPAT_tl_0009_fastener_sealability_technical_letter_us_63446.pdf",
+          "title": "GCP technical letter on fastener sealability",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/1tria8s/",
+          "title": "Discussion of original GRACE upgrade value",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/1jhnx7h/",
+          "title": "Reroofing and adhesion discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Discussion praises GRACE while disagreeing over upgrade value; a separate thread highlights persistent adhesion to plywood during reroofing.",
+        "limitations": "Installers are not independently verified. Product variants can be ambiguous. No comparative leak-rate study was found. US PDF is search-indexed; direct fetch was unavailable.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/1tria8s/",
+          "https://www.reddit.com/r/Roofing/comments/1jhnx7h/"
+        ]
+      }
+    },
+    {
+      "id": "dupont-tyvek-protec-200",
+      "name": "DuPont Tyvek Protec 200 Roof Underlayment",
+      "brand": "DuPont / Tyvek",
+      "model": "Protec 200, 48 in × 250 ft roll",
+      "labels": [
+        "underlayment"
+      ],
+      "summary": "A documented synthetic field-underlayment option for compatible sloped roof assemblies. Its four-layer construction and embossed surface are practical reasons to compare it with another specified sheet. This is the roofing Protec 200 product, so do not substitute ordinary Tyvek wall wrap or a different Protec grade.",
+      "verdict": "Our field-sheet shortlist choice when Protec 200 matches the roof covering and moisture-control plan.",
+      "fit": "Specified asphalt, metal, cedar, tile or slate assemblies within the current installation requirements.",
+      "skip": "A permanent exposed roof, a self-adhered ice-barrier detail or a project using wall wrap as a roofing substitute.",
+      "pros": [
+        "Manufacturer documents several roof-covering uses",
+        "Standard large roll format",
+        "Distinct roofing product with supporting instructions"
+      ],
+      "cons": [
+        "Vapor-barrier behavior needs design attention",
+        "Traction is conditional",
+        "Lower slopes require different coverage"
+      ],
+      "sections": [
+        {
+          "heading": "Choose the roofing version",
+          "body": "Tyvek is a familiar name, but Protec 200 is a particular roofing product. DuPont describes an embossed four-layer underlayment with a woven reinforcement and deck-grip coating. We would shortlist it when the covering specification allows it and the complete material quote makes sense. A familiar wall-wrap roll from another project is not an equivalent purchase. The product name and grade belong on the quote so the supplier and installer are discussing the same sheet."
+        },
+        {
+          "heading": "Check the assembly and schedule",
+          "body": "The manufacturer lists a 48-inch by 250-foot roll and use on slopes of at least 2:12. Its brochure lists several supported coverings and a six-month exposure limit for this grade. It also says Protec is a vapor barrier, needs a prepared dry deck and requires the specified fastening and overlap details. The exposure allowance should not be read as a permanent roofing design. Moisture below the decking and the planned final covering remain part of selection."
+        },
+        {
+          "heading": "Our buying judgment",
+          "body": "We would compare the installed coverage, appropriate fasteners and any separate leak barriers rather than the gross roll area alone. DuPont's walkability claim is a manufacturer claim; we have not compared traction ourselves and would not use it to justify risky roof access. A construction discussion specifically distinguishes Protec 200 from HomeWrap beneath a metal roof. That is a useful identity check, but it does not establish long-term performance. For a correctly specified roof, the product is a credible field-sheet option."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Roll dimensions",
+          "value": "48 in × 250 ft; gross area excludes laps",
+          "sourceUrl": "https://www.dupont.com/content/dam/dupont/amer/us/en/performance-building-solutions/public/documents/en/tyvek-protec-200.pdf"
+        },
+        {
+          "label": "Product type",
+          "value": "Four-layer synthetic roof underlayment",
+          "sourceUrl": "https://www.dupont.com/products/tyvek-protec-200.html"
+        },
+        {
+          "label": "Minimum slope",
+          "value": "2:12, with specific coverage requirements",
+          "sourceUrl": "https://www.dupont.com/content/dam/dupont/amer/us/en/performance-building-solutions/public/documents/en/tyvek-protec-200.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.dupont.com/products/tyvek-protec-200.html",
+          "title": "DuPont Protec 200 product specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.dupont.com/content/dam/dupont/amer/us/en/performance-building-solutions/public/documents/en/tyvek-protec-200.pdf",
+          "title": "DuPont Protec 200 product information sheet",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.dupont.com/content/dam/dupont/amer/us/en/performance-building-solutions/public/documents/en/tyvek-protec-200-brochure-43-d100909-enna.pdf",
+          "title": "DuPont Protec 200 brochure and installation requirements",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Construction/comments/1lnuery/",
+          "title": "Construction discussion distinguishes Protec roofing from HomeWrap",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A construction discussion distinguishes the roofing Protec 200 product from Tyvek HomeWrap in a questioned metal-roof assembly.",
+        "limitations": "A product-identity discussion, not a verified Protec 200 roof-performance review. We found no useful measured long-term owner comparison.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Construction/comments/1lnuery/"
+        ]
+      }
+    },
+    {
+      "id": "titanium-udl25",
+      "name": "Titanium UDL25 Synthetic Roof Underlayment",
+      "brand": "Titanium / Owens Corning",
+      "model": "UDL25, 48 in × 250 ft roll",
+      "labels": [
+        "underlayment"
+      ],
+      "summary": "A mechanically fastened synthetic field sheet worth considering for a compatible shingle assembly. Exact UDL25 identification matters because Titanium sells several distinct underlayments. Its current installation instructions provide a more useful decision basis than an older brochure's exposure claims.",
+      "verdict": "Our alternative field-sheet shortlist choice when the current UDL25 instructions suit the specified roof.",
+      "fit": "Supported asphalt, metal or composite shingle assemblies with a sound dry deck and proper ventilation.",
+      "skip": "An unverified panel or tile assembly, an exposed finished roof or treating UDL25 as the self-adhered PSU30 product.",
+      "pros": [
+        "Current model-specific instructions",
+        "Published standard roll dimensions",
+        "Established manufacturer technical support"
+      ],
+      "cons": [
+        "Not interchangeable with other Titanium grades",
+        "Current instructions require covering within 90 days",
+        "Vapor-barrier behavior needs ventilation planning"
+      ],
+      "sections": [
+        {
+          "heading": "Identify UDL25 rather than the family",
+          "body": "UDL25 makes sense when the proposed roof calls for this exact mechanically attached field sheet. Titanium's name appears on several products with different roles, so a generic Titanium allowance is insufficient. We would ask for the complete model and covering specification. InterWrap is the original manufacturer behind the brand; Owens Corning's acquisition announcement identifies Titanium in that portfolio. That relationship explains a legacy InterWrap listing without turning an unrelated generic underlayment into the reviewed product."
+        },
+        {
+          "heading": "Use the current instructions",
+          "body": "The March 2025 UDL25 instructions list use beneath asphalt, metal and composite shingles and require primary roofing within 90 days. They describe the sheet as an air, water and vapor barrier above a properly ventilated space. A clean, dry, structurally sound deck and specified fastening are required; staples are excluded. Older material describing a longer exposure period should not override those instructions. Likewise, a larger Titanium grade's stated covering range should not be transferred to UDL25."
+        },
+        {
+          "heading": "Our recommendation in practice",
+          "body": "We would price the 48-inch by 250-foot roll with its required fasteners and overlap loss, then compare it with Protec 200 in the actual approved assembly. A Reddit quote-comparison thread names UDL25 but supplies no long-term installation outcome. That is useful evidence of the specification question, rather than a product score. The worthwhile purchase is a clearly identified sheet installed on schedule beneath the right covering. If a supplier proposes a substitute, compare the complete requirements before accepting a similar-looking roll."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Roll dimensions",
+          "value": "48 in × 250 ft; gross area excludes laps",
+          "sourceUrl": "https://architect-en.owenscorninglibrary.ca/128/"
+        },
+        {
+          "label": "Current covering deadline",
+          "value": "90 days in March 2025 instructions",
+          "sourceUrl": "https://dcpd6wotaa0mb.cloudfront.net/mdms/dms/Roofing/10027764/10027764-Titanium-UDL25-Installation-Instructions.pdf?v=1750686922000"
+        },
+        {
+          "label": "Current specified coverings",
+          "value": "Asphalt, metal and composite shingles",
+          "sourceUrl": "https://dcpd6wotaa0mb.cloudfront.net/mdms/dms/Roofing/10027764/10027764-Titanium-UDL25-Installation-Instructions.pdf?v=1750686922000"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.owenscorning.com/en-us/roofing/titanium",
+          "title": "Owens Corning Titanium product family",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://architect-en.owenscorninglibrary.ca/128/",
+          "title": "Owens Corning product guide, UDL25 roll specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://dcpd6wotaa0mb.cloudfront.net/mdms/dms/Roofing/10027764/10027764-Titanium-UDL25-Installation-Instructions.pdf?v=1750686922000",
+          "title": "Owens Corning UDL25 March 2025 installation instructions",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://newsroom.owenscorning.com/all-news-releases/news-details/2016/Owens-Corning-Completes-Acquisition-of-Synthetic-Roofing-Underlayment-Manufacturer/default.aspx",
+          "title": "Owens Corning announcement identifies InterWrap's Titanium brand",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/crs23r/",
+          "title": "Roof quote discussion names Titanium UDL25",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A quote-comparison discussion names Titanium UDL25 and asks how it compares with a different roof system.",
+        "limitations": "A buying question rather than a completed-installation report. Broader Titanium comments often concern UDL30, UDL50 or PSU30; those outcomes are not assigned to UDL25.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/crs23r/"
+        ]
+      }
+    },
+    {
+      "id": "palram-suntuf-diy",
+      "name": "Palram SUNTUF Corrugated Polycarbonate Panels",
+      "brand": "Palram",
+      "model": "SUNTUF DIY, clear corrugated panels",
+      "labels": [
+        "panels"
+      ],
+      "summary": "A useful daylighting option for a greenhouse, potting shelter or appropriate backyard cover. The material choice is about light as much as weather: clear panels suit growing and working spaces differently from opaque storage sheds. Budget for the matching fasteners, closures and flashing.",
+      "verdict": "Our daylight-panel shortlist choice for a suitably designed backyard cover or greenhouse.",
+      "fit": "Projects that deliberately need daylight and have support spacing, roof pitch and fastening designed for the selected panel.",
+      "skip": "A walkable roof, improvised unsupported spans or enclosed spaces where heat and condensation have not been considered.",
+      "pros": [
+        "Clear and shading variants available",
+        "Manufacturer supplies matched accessories and instructions",
+        "Lightweight polycarbonate format"
+      ],
+      "cons": [
+        "Movement allowance and fasteners matter",
+        "Clear roofing changes heat and privacy",
+        "Closures and flashing add to cost"
+      ],
+      "sections": [
+        {
+          "heading": "Daylight is the reason to buy",
+          "body": "SUNTUF is appealing for a potting area, greenhouse or backyard shelter where daylight serves a purpose. Palram also offers solid and shaded variants, so choose the optical finish with the project in mind. A clear roof over stored tools is a different decision from a clear roof over seedlings. We would choose the light level first, then compare the full roof cost with an opaque covering rather than purchase a clear panel only because it looks simple."
+        },
+        {
+          "heading": "The panel needs a supporting system",
+          "body": "Palram's guidance calls for recommended screws and predrilled clearance to permit thermal movement; it advises against nails. That makes the fastening detail part of the product selection, not an afterthought. Use the selected panel's instructions for support spacing, loads, pitch and compatible accessory materials. Polycarbonate panels must not be treated as a walking surface. Add the relevant closures, wall connection and edge details to the shopping list before comparing a per-panel price."
+        },
+        {
+          "heading": "What owners draw attention to",
+          "body": "SUNTUF discussions ask about the number of fasteners, purlin spacing and expensive flashing accessories. Another patio-cover owner reports water dripping from the middle of panels, with comments discussing condensation. These are useful design questions, but they do not tell us a universal leak rate. We would inspect the support and ventilation plan before blaming the sheet or applying sealant. For a light-filled shelter designed around the material, it is a sensible shortlist choice; for an insulated workshop, investigate the complete envelope instead."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Material",
+          "value": "Corrugated polycarbonate",
+          "sourceUrl": "https://www.palram.com/us/product/suntuf-diy-polycarbonate-corrugated-sheets/"
+        },
+        {
+          "label": "Finish reviewed",
+          "value": "Clear SUNTUF DIY; verify selected listing length and profile",
+          "sourceUrl": "https://www.palram.com/us/product/suntuf-diy-polycarbonate-corrugated-sheets/"
+        },
+        {
+          "label": "Fastener requirement",
+          "value": "Recommended screws with thermal-movement clearance; no nails",
+          "sourceUrl": "https://www.palram.com/us/faq/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.palram.com/us/product/suntuf-diy-polycarbonate-corrugated-sheets/",
+          "title": "Palram SUNTUF DIY product and technical resources",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.palram.com/us/faq/",
+          "title": "Palram fastening and material FAQs",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=I55YdKp0Dps",
+          "title": "Palram Americas official corrugated-panel installation overview",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/1fypbed/",
+          "title": "SUNTUF fastener and support planning discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/10ug47u/",
+          "title": "SUNTUF patio-cover water/condensation discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Owner discussions raise support spacing, fastener quantity and accessory cost. A patio-cover report describes mid-panel drips and possible condensation.",
+        "limitations": "Different panel sizes and support designs; comments cannot distinguish every leak from condensation. No verified comparative impact or lifespan testing.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/1fypbed/",
+          "https://www.reddit.com/r/Roofing/comments/10ug47u/"
+        ]
+      }
+    },
+    {
+      "id": "ondura-premium-9",
+      "name": "ONDURA Premium Series 9 Roofing Panel",
+      "brand": "ONDURA / Onduline",
+      "model": "Premium Series 9 corrugation panel",
+      "labels": [
+        "panels"
+      ],
+      "summary": "An opaque corrugated alternative for auxiliary buildings when the exact assembly fits the project. Its light weight and matched components are attractive, but older ONDURA owner accounts vary widely. We would compare a complete Premium 9 assembly with metal before choosing it for valuable storage.",
+      "verdict": "A conditional alternative for a specified auxiliary-building roof, with a more cautious recommendation than the other panel pick.",
+      "fit": "Auxiliary buildings with a support and slope design matching the current Premium 9 instructions.",
+      "skip": "An improvised low-slope cover, direct foot traffic or a purchase relying on unqualified lifetime and wind-speed promises.",
+      "pros": [
+        "Opaque panel for storage buildings",
+        "No metal edges or rusting panel surface",
+        "Matching ridge caps and fasteners"
+      ],
+      "cons": [
+        "Legacy community reports are mixed",
+        "Specific support and slope conditions",
+        "Local full-size panel availability may be limited"
+      ],
+      "sections": [
+        {
+          "heading": "The appeal is straightforward",
+          "body": "Premium 9 offers an opaque corrugated roof option for an auxiliary building without making daylight part of the design. The official sheet describes bitumen reinforced with cellulosic fibers, and publishes panel dimensions and net coverage. We would consider it for a modest outbuilding when transport, handling and available components suit the project. The comparison should include the entire roof, rather than assume that a manageable-looking sheet automatically makes a cheaper or simpler assembly."
+        },
+        {
+          "heading": "Read the current assembly requirements",
+          "body": "The technical sheet lists a 79 by 34.5-inch panel, 13-pound weight and about 15.9 square feet of net coverage. It sets different slope and support conditions, with decking recommended for maximum performance and heavy snow. The installation guide says not to stand directly on the corrugations or pressure-clean the panels. Verify the current manual against your roof design and region, rather than treating a published wind test as a blanket guarantee for any shed."
+        },
+        {
+          "heading": "Why our recommendation is cautious",
+          "body": "Older ONDURA discussions include both long-running shed installations and reports of sagging, flaking or leaking. Most do not establish that the sheets were the current Premium 9 version or that the assembly followed its requirements. We cannot transfer those accounts into a measured failure rate. They do justify asking more questions before buying. For a roof protecting expensive tools, compare a fully specified metal option as well and choose based on the supported assembly, maintenance expectations and local supply."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Panel dimensions",
+          "value": "79 × 34.5 in",
+          "sourceUrl": "https://us.onduline.com/sites/onduline_us/files/2021-04/tds-ondura-ps-9-na-v01.pdf"
+        },
+        {
+          "label": "Net coverage",
+          "value": "Approximately 15.9 sq ft per panel",
+          "sourceUrl": "https://us.onduline.com/sites/onduline_us/files/2021-04/tds-ondura-ps-9-na-v01.pdf"
+        },
+        {
+          "label": "Panel weight",
+          "value": "13 lb",
+          "sourceUrl": "https://us.onduline.com/sites/onduline_us/files/2021-04/tds-ondura-ps-9-na-v01.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tuftex-ondura.com/products/ondura-premium-series-9/",
+          "title": "ONDURA Premium 9 current product page",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://us.onduline.com/sites/onduline_us/files/2021-04/tds-ondura-ps-9-na-v01.pdf",
+          "title": "Premium 9 technical data sheet",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://tuftex-ondura.com/wp-content/uploads/2024/11/Ondura-Premium-9-Installation-Guide.pdf",
+          "title": "Premium 9 installation guide",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/14863bl/",
+          "title": "Mixed ONDURA owner reports",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Carpentry/comments/10toz5c/",
+          "title": "Legacy ONDURA cabin-roof discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Older ONDURA users report sharply different outcomes: some long-running shed roofs, alongside sagging, flaking and leaks in other structures.",
+        "limitations": "Mostly legacy or unspecified ONDURA sheets, not verified Premium 9 installations. Climate, deck support and fastening differ, so the reports do not establish a Premium 9 failure rate.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/14863bl/",
+          "https://www.reddit.com/r/Carpentry/comments/10toz5c/"
+        ]
+      }
+    },
+    {
+      "id": "lomanco-bib-12",
+      "name": "Lomanco BIB-12 Whirlybird Turbine Vent",
+      "brand": "Lomanco",
+      "model": "BIB-12, internally braced 12 in turbine",
+      "labels": [
+        "ventilation-flashing"
+      ],
+      "summary": "A passive turbine option for a roof with a properly designed intake and exhaust plan. Its visible moving head appeals to owners who want a mechanical vent without wiring. Choose the exact roof-compatible model and size; a spinning turbine alone does not prove adequate ventilation.",
+      "verdict": "Our turbine shortlist option when the roof's ventilation design specifically favors a 12-inch wind-driven vent.",
+      "fit": "A compatible roof with adequate intake, an approved exhaust layout and a correctly specified BIB-12 installation.",
+      "skip": "A sealed or unvented roof design, mixed exhaust systems without design approval or a promised measured room-temperature reduction.",
+      "pros": [
+        "No electrical connection",
+        "Documented roof-pitch adjustment",
+        "Established manufacturer model information"
+      ],
+      "cons": [
+        "Performance depends on conditions and intake",
+        "Moving component and roof penetration need inspection",
+        "Other Whirlybird sizes are different models"
+      ],
+      "sections": [
+        {
+          "heading": "Choose the ventilation plan first",
+          "body": "BIB-12 is worth considering where a turbine fits the roof's exhaust strategy. A buyer can see it rotate, which is satisfying, but rotation is not a measurement of whether the whole roof space receives enough fresh air. We would select the required intake and exhaust capacity first, then choose the device. That is more useful than assuming one vent can compensate for blocked eaves, poor air sealing or a roof that was designed without a vented attic."
+        },
+        {
+          "heading": "What the model information tells you",
+          "body": "Lomanco identifies BIB-12 as an aluminum, internally braced 12-inch Whirlybird with a 20-by-20-inch base and a variable-pitch design up to 12:12. The manufacturer also sells externally braced, larger and tile-specific versions. Match the exact model to the roof and approval documents. A manufacturer's wind test describes a tested product and installation conditions; it should not become an assurance that every field installation will survive the same weather."
+        },
+        {
+          "heading": "How we weigh the reports",
+          "body": "Whirlybird discussions include praise for Lomanco's design and warranty service, plus a roofer reporting more wind-related replacements of turbines than other vent types. Other owners ask about slow rotation. Those mixed reports support a conditional recommendation. We would buy the correct model for a designed system and plan normal inspections. We would not use forum enthusiasm to promise a cooler living room or ignore intake requirements, especially when the roof shape could favor another exhaust layout."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Type",
+          "value": "12 in internally braced aluminum turbine",
+          "sourceUrl": "https://www.lomanco.com/vents/whirlybirds/"
+        },
+        {
+          "label": "Base size",
+          "value": "20 × 20 in",
+          "sourceUrl": "https://www.lomanco.com/vents/whirlybirds/"
+        },
+        {
+          "label": "Pitch adjustment",
+          "value": "Up to 12:12",
+          "sourceUrl": "https://www.lomanco.com/vents/whirlybirds/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.lomanco.com/vents/whirlybirds/",
+          "title": "Lomanco Whirlybird models and specifications",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://media.lomancovents.com/all_access/sales_literature/lo196_en_1011web.pdf",
+          "title": "Lomanco product catalog",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/1k32ovq/",
+          "title": "Mixed Lomanco Whirlybird trade discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/1u3ntwk/",
+          "title": "Lomanco owner question about slow rotation",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A Lomanco discussion praises the design while a roofer reports replacing more wind-damaged turbines than other vents. An owner separately asks about a slow-spinning Whirlybird.",
+        "limitations": "Whirlybird-family evidence; the posts do not verify BIB-12 versus other sizes or bracing variants. No measured airflow or room-temperature comparison.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/1k32ovq/",
+          "https://www.reddit.com/r/Roofing/comments/1u3ntwk/"
+        ]
+      }
+    },
+    {
+      "id": "oatey-retro-master-flash-14751",
+      "name": "Oatey Retro Master Flash 14751",
+      "brand": "Oatey",
+      "model": "14751, 1/2–4 in EPDM retrofit flashing",
+      "labels": [
+        "ventilation-flashing"
+      ],
+      "summary": "A specialized flashing for an existing pipe on a profiled metal roof when a conventional boot cannot slide over the top. The wrap-around purpose is its main advantage. It still needs the correct pipe size, temperature rating, compatible base detail and installation.",
+      "verdict": "Our retrofit metal-roof pipe-flashing shortlist choice when an obstruction prevents a slide-over boot.",
+      "fit": "An existing compatible pipe penetration on a profiled metal roof that requires wrap-around access.",
+      "skip": "Asphalt-shingle roofs, unspecified hot flues or buying without checking pipe outside diameter and selected variant.",
+      "pros": [
+        "Retrofit access around existing obstructions",
+        "Moldable aluminum base",
+        "Clearly identified size variant"
+      ],
+      "cons": [
+        "Specialized rather than universal flashing",
+        "Seam and base detailing matter",
+        "Community reports often concern standard Master Flash instead"
+      ],
+      "sections": [
+        {
+          "heading": "The problem it is made to solve",
+          "body": "Retro Master Flash is appealing when something above an existing pipe prevents fitting a conventional boot from the top. Oatey describes the product for continuous pipes and obstructions on profiled roofs. That is a genuine selection advantage: it addresses access, rather than asking you to dismantle another component to fit the wrong style. We would choose a retrofit flashing only after confirming that the existing roof and pipe are suited to this product family."
+        },
+        {
+          "heading": "Check this exact version",
+          "body": "Oatey's 14751 page identifies an EPDM flashing for half-inch through four-inch pipe sizes with an eight-inch soft aluminum base. The family FAQ specifies Master Flash products for engineered metal-roof applications, excludes their use on shingle roofs and gives a 212°F continuous rating. A roof pipe is not automatically a cool plumbing vent. Verify the actual outside diameter, pipe use and temperature against the current instructions before matching an online listing."
+        },
+        {
+          "heading": "Our practical verdict",
+          "body": "This deserves a place in a planned outbuilding roof's repair basket when retrofit access is the reason for the purchase. It does not belong in a shopping cart as a generic rubber cover for any leak. The community discussions we found concern Master Flash boots generally and describe sizing and pipe-interface problems; they do not prove the performance of Retro 14751. For a new unobstructed penetration, price the appropriate standard style as well instead of paying for a retrofit feature you do not need."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Part number / UPC",
+          "value": "14751 / 750405147519",
+          "sourceUrl": "https://www.oatey.com/products/P_750405147526/oatey-retro-master-flash-roof-flashings?upc=750405147519"
+        },
+        {
+          "label": "Listed pipe range",
+          "value": "1/2–4 in; verify actual pipe diameter",
+          "sourceUrl": "https://www.oatey.com/products/P_750405147526/oatey-retro-master-flash-roof-flashings?upc=750405147519"
+        },
+        {
+          "label": "Base",
+          "value": "8 × 8 in soft aluminum",
+          "sourceUrl": "https://www.oatey.com/products/P_750405147526/oatey-retro-master-flash-roof-flashings?upc=750405147519"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.oatey.com/products/P_750405147526/oatey-retro-master-flash-roof-flashings?upc=750405147519",
+          "title": "Oatey Retro Master Flash 14751 exact variant",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.oatey.com/products/flashings",
+          "title": "Oatey flashing compatibility and temperature FAQ",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.oatey.com/sites/default/files/2023-02/LCS911M_Oatey2023ProdCat_020123_LR.pdf",
+          "title": "Oatey product catalog",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/hudrqq/",
+          "title": "Standard Master Flash pipe-seal discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "A standard Master Flash owner report describes a pipe-interface seal problem. It highlights the need to verify sizing and installation rather than merely buy a recognized boot brand.",
+        "limitations": "Family-level evidence about a standard boot, not Retro 14751. Search-indexed excerpt; no long-term exact-SKU outcome established.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/hudrqq/"
+        ]
+      }
+    },
+    {
+      "id": "gaf-cobra-snowcountry-advanced",
+      "name": "GAF Cobra SnowCountry Advanced Ridge Vent",
+      "brand": "GAF",
+      "model": "Cobra SnowCountry Advanced, 11.5 in width",
+      "labels": [
+        "ventilation-flashing"
+      ],
+      "summary": "A ridge-exhaust option to shortlist for a compatible shingle roof in a snow-prone climate. Its filter, external baffles and published vent area make comparison possible. The purchase still depends on balanced intake and a roof shape with a usable ridge.",
+      "verdict": "Our ridge-vent shortlist choice for a compatible vented shingle roof with adequate intake.",
+      "fit": "Specified shingle roof assemblies with a usable ridge, matched cap-shingle width and balanced intake.",
+      "skip": "A shed without a designed vented cavity, incompatible roof pitch or mixing exhaust styles without design approval.",
+      "pros": [
+        "Published net free vent area",
+        "Filter intended to resist snow and debris entry",
+        "Two cap-shingle width options"
+      ],
+      "cons": [
+        "Needs balanced intake",
+        "Roof pitch and cap width must match",
+        "Advanced is not every product carrying the Cobra name"
+      ],
+      "sections": [
+        {
+          "heading": "Buy the exact ridge vent",
+          "body": "SnowCountry Advanced makes sense when a vented roof assembly needs exhaust at the ridge and snow infiltration is part of the choice. GAF sells several Cobra products, so the family name alone is not an adequate listing match. The Advanced model's filter and external baffles are the features to compare. We would ask for the precise product on a contractor quote rather than accept a general ridge-vent allowance that could cover a different style."
+        },
+        {
+          "heading": "The system around it matters",
+          "body": "GAF publishes 18 square inches of net free vent area per linear foot and a 3:12–16:12 pitch range. The 11.5-inch version suits 12-inch cap shingles; another width suits narrower caps. The instructions require balanced intake and caution against mixing other exhaust types in the same vented attic. Those are assembly conditions, not optional accessories. A long ridge vent over an attic with blocked intake cannot be evaluated as though the vent is operating in the designed system."
+        },
+        {
+          "heading": "How we would select it",
+          "body": "We would choose it when the roof shape, climate and intake calculations support this exact product. For a simple tool shed, first decide whether there is a vented roof cavity at all; a ridge vent is not automatically the correct way to ventilate the occupied interior. Community posts frequently discuss SnowCountry's installation and appearance but do not always distinguish Advanced from the standard version. We use them to identify questions about cap profile and installation quality, not to manufacture a product score."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Vent area",
+          "value": "18 sq in NFVA per linear ft",
+          "sourceUrl": "https://www.gaf.com/en-us/document-library/documents/data-sheets/cobra-snowcountry-advanced-premium-exhaust-vent-for-roof-ridge-sell-sheet-rescb152.pdf"
+        },
+        {
+          "label": "Roof pitch",
+          "value": "3:12–16:12",
+          "sourceUrl": "https://www.gaf.com/en-us/document-library/documents/data-sheets/cobra-snowcountry-advanced-premium-exhaust-vent-for-roof-ridge-sell-sheet-rescb152.pdf"
+        },
+        {
+          "label": "Selected width",
+          "value": "11.5 in for 12 in ridge cap shingles",
+          "sourceUrl": "https://www.gaf.com/en-us/document-library/documents/data-sheets/cobra-snowcountry-advanced-premium-exhaust-vent-for-roof-ridge-sell-sheet-rescb152.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/attic-vents-other-ventilation/cobra-snowcountry-advanced-premium-exhaust-vent-for-roof-ridge",
+          "title": "GAF Cobra SnowCountry Advanced product details",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/cobra-snowcountry-advanced-premium-exhaust-vent-for-roof-ridge-sell-sheet-rescb152.pdf",
+          "title": "SnowCountry Advanced sell sheet",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.gaf.com/en-us/document-library/documents/installation-instructions-%26-guides/cobra-plastic-ridge-vents-installation-instructions-trilingual.pdf",
+          "title": "GAF plastic ridge-vent installation instructions",
+          "type": "manufacturer",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/16wzrrf/",
+          "title": "Owner comparing rolled ridge vent with SnowCountry",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.reddit.com/r/Roofing/comments/12yz4f3/",
+          "title": "SnowCountry installation appearance discussion",
+          "type": "community",
+          "checkedAt": "2026-10-13"
+        }
+      ],
+      "community": {
+        "summary": "Owners ask about replacing compressed rolled vents with SnowCountry and whether the installed cap profile looks right. Those are practical installation questions.",
+        "limitations": "SnowCountry-family mentions often omit Advanced; no exact-model long-term airflow, snow-entry or energy-saving comparison established.",
+        "sourceUrls": [
+          "https://www.reddit.com/r/Roofing/comments/16wzrrf/",
+          "https://www.reddit.com/r/Roofing/comments/12yz4f3/"
+        ]
+      }
+    }
+  ],
+  "guides": [
+    {
+      "id": "best-roof-coatings-for-garages-outbuildings",
+      "title": "Best roof coatings for garages and outbuildings",
+      "description": "Three researched coating options for sound existing roofs, chosen by substrate, drainage and maintenance requirements.",
+      "label": "coatings",
+      "productIds": [
+        "henry-887-tropi-cool",
+        "gacoroof-gr1600",
+        "henry-587-dura-brite"
+      ],
+      "intro": "A roof coating is a maintenance decision before it is a paint choice. Identify the existing roof, check its condition and drainage, then buy a compatible system. Our shortlist has two silicone options for qualifying roofs with ponding-water requirements and an acrylic option for compatible roofs that drain properly. None is a recommendation to coat shingles, rotten decking or an unidentified leak. The best purchase is the one that fits the actual roof and its next repair.",
+      "selectionMethod": "We compared manufacturer substrate lists, coating chemistry, completed coverage, weather windows and repair requirements. Community reports helped identify maintenance questions; they did not supply a numerical rating. These are researched recommendations, not hands-on coating tests.",
+      "sections": [
+        {
+          "heading": "Quick picks by roof condition",
+          "body": "Henry 887 is our first candidate for a compatible roof where the documented one-coat silicone specification suits the job. GacoRoof GR1600 is the alternative when its two-coat system and adhesion guidance fit better. Henry 587 is the acrylic option for a listed substrate with adequate drainage and a warm, dry forecast. Compare the complete quantity and repair materials needed for each system. The number of gallons in a bucket is not an installed-cost comparison."
+        },
+        {
+          "heading": "Identify the surface before the chemistry",
+          "body": "Metal, modified bitumen, EPDM and an old coating are different purchase conditions. Match the actual exposed surface to the manufacturer's list, and use the prescribed adhesion check where applicable. Previous repairs matter too: adding a new coating can affect what will bond during later maintenance. If the roof holds water, investigate drainage and condition rather than assuming ponding resistance solves every underlying problem."
+        },
+        {
+          "heading": "What the owner discussions tell us",
+          "body": "Tropi-Cool accounts include satisfied owners and trouble after adding a different sealant on top. Gaco discussions often concern another Gaco formulation, so we did not import those stories into a GR1600 score. Questions about Henry 587 show confusion about reflective maintenance and leak repair. The useful lesson is to plan the whole compatible system and keep records of what was applied. No community thread can diagnose the condition of your roof."
+        },
+        {
+          "heading": "What to include in the quote",
+          "body": "Ask for substrate identification, repair scope, surface preparation, actual finished coverage and the product names at penetrations and seams. Check whether the coating's warranty covers material only and what installation conditions it requires. If the roof already needs replacement, a coating budget may be better spent on that work. For a serviceable outbuilding roof, documented material quantities and a realistic weather window make the shortlist useful."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can I roll these coatings over asphalt shingles?",
+          "answer": "Henry excludes shingles for both listed coatings; GacoRoof's GR16 sheet also excludes roofs made from individual asphalt shingles. Choose a roof assembly or repair specifically approved for the covering."
+        },
+        {
+          "question": "Is silicone always better than acrylic?",
+          "answer": "The correct choice depends on the existing substrate, drainage, weather window and future maintenance. The silicone products have documented ponding-water resistance; Henry 587 has a different set of uses and restrictions."
+        },
+        {
+          "question": "Will white coating guarantee a cooler workshop?",
+          "answer": "No fixed temperature or bill reduction is established for your building. Reflectivity is one factor; insulation, ventilation, climate and the original roof also affect the result."
+        }
+      ]
+    },
+    {
+      "id": "best-roof-sealants-tapes-for-small-repairs",
+      "title": "Best roof sealants and tapes for vents, seams and small repairs",
+      "description": "Four different repair products with clear distinctions between tape, horizontal RV details and compatible exterior joints.",
+      "label": "repair-sealants",
+      "productIds": [
+        "eternabond-roofseal",
+        "dicor-501lsw",
+        "geocel-2300",
+        "sashco-through-the-roof"
+      ],
+      "intro": "Buy the repair product for the detail in front of you. A clean membrane tear, a horizontal RV vent flange and a coated-metal joint need different answers. This shortlist makes those differences explicit. RoofSeal is the tape candidate, Dicor 501LSW is the horizontal RV-detail option, Geocel 2300 is worth considering for specified coated-metal work, and Through the Roof is a clear-sealant candidate on approved surfaces. Repeated leaking should also prompt a check of the flashing and material underneath.",
+      "selectionMethod": "We compared intended use, orientation, material compatibility and manufacturer exclusions. We read community repair accounts as individual examples. No leak-rate score or hands-on test result is claimed, and the products are not interchangeable.",
+      "sections": [
+        {
+          "heading": "Choose by detail",
+          "body": "For a defined compatible membrane tear or seam, start with RoofSeal's bonding requirements. For a horizontal RV flange, consider 501LSW after identifying the membrane and previous sealants. For an approved coated-steel detail, Geocel's stated substrate compatibility is relevant. Through the Roof can suit a clear repair on listed materials, but its Kynar exclusion makes it a different choice. A familiar brand does not override the substrate list."
+        },
+        {
+          "heading": "The old repair changes the answer",
+          "body": "Look at what will contact the new product: an old sealant, a coating, plastic glazing, bare metal or membrane. Silicone is a particularly important compatibility question in this shortlist. RoofSeal's sheet excludes silicone sealants and lubricants, while a Dicor-over-Tropi-Cool owner report shows the practical consequences of assuming products will bond in any order. Obtain manufacturer guidance before layering a different chemistry over a previous repair."
+        },
+        {
+          "heading": "Drying is not the same as curing",
+          "body": "Initial skinning, rain resistance and full cure describe different milestones. Choose a product whose schedule suits the weather and any planned covering. RoofSeal needs a dry bonding surface. Dicor is intended to flow on horizontal details. Through the Roof permits wet-surface work on compatible substrates but still has curing and material restrictions. Follow the selected SKU's current directions, especially while Geocel is changing affected formulations."
+        },
+        {
+          "heading": "When a tube is the wrong purchase",
+          "body": "A failed pipe boot, damaged flashing or rotten support needs the appropriate component or repair scope. Another bead can hide the issue without correcting the detail. We would buy sealants for a defined maintenance task and inspect the result afterward, rather than use a broad coating or tape to conceal every joint. Exact material identification is worth more than a generic promise of permanent leak protection."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Which product is best for a vertical RV joint?",
+          "answer": "Dicor 501LSW is self-leveling for horizontal surfaces. Select a separately specified non-sag product with compatibility for the actual upright joint."
+        },
+        {
+          "question": "Can I put repair tape over silicone?",
+          "answer": "The RoofSeal technical sheet explicitly excludes silicone sealants and lubricants. Check the exposed surface and obtain product-specific guidance before any mixed-material repair."
+        },
+        {
+          "question": "Can clear sealant replace a damaged roof flashing?",
+          "answer": "It is not a substitute for a correctly selected and formed flashing. Diagnose the detail and choose replacement components where needed."
+        }
+      ]
+    },
+    {
+      "id": "best-roof-underlayments-for-sheds",
+      "title": "Best roof underlayments for sheds and shingle-roof projects",
+      "description": "A self-adhered ice-barrier candidate and two researched synthetic field sheets, selected for their role in a compatible roof assembly.",
+      "label": "underlayment",
+      "productIds": [
+        "grace-ice-water-shield",
+        "dupont-tyvek-protec-200",
+        "titanium-udl25"
+      ],
+      "intro": "Underlayment shopping gets easier when you distinguish the field sheet from the barrier needed in vulnerable areas. Original GRACE Ice & Water Shield is our targeted self-adhered membrane candidate. Tyvek Protec 200 and Titanium UDL25 are synthetic field-sheet options in compatible roof assemblies. These are different components, so the shortlist is organized by job. Start with your roof covering, slope and local design requirements, then calculate the material you can actually install after overlaps.",
+      "selectionMethod": "We reviewed manufacturer role, covering compatibility, application conditions, coverage and exposure limits. Community discussion supplied practical questions about adhesion and project delays. We did not test water resistance, traction or long-term durability ourselves.",
+      "sections": [
+        {
+          "heading": "Quick picks by role",
+          "body": "Choose original GRACE Ice & Water Shield where its self-adhered barrier role and temperature limits suit the assembly. Protec 200 is our field-sheet candidate when DuPont's listed covering and moisture requirements fit. UDL25 is the alternative for the compatible shingle uses in its current instructions. A synthetic roll is not automatically an ice barrier, and an adhesive membrane is not automatically needed over every inch of decking."
+        },
+        {
+          "heading": "Match the exact product and covering",
+          "body": "Original GRACE and its HT sibling are distinct products. Tyvek Protec 200 is a roofing underlayment, rather than ordinary HomeWrap. Titanium UDL25 is a mechanically attached sheet; PSU30 is a different self-adhered product. The current UDL25 instructions name asphalt, metal and composite shingles, so do not broaden that into approval for every tile or standing-seam assembly. Match the covering manufacturer and current installation requirements as a complete system."
+        },
+        {
+          "heading": "Exposure allowances need current instructions",
+          "body": "UDL25's current March 2025 instructions require primary roofing within 90 days, despite older material describing a longer window. Protec 200's brochure lists six months, but it still requires a suitable final covering and the specified deck and fastening conditions. Neither sheet is a finished exposed roof. Confirm delivery dates and how the structure will be protected during work. The relevant number is the selected product's current requirement, rather than an old advertisement."
+        },
+        {
+          "heading": "Compare the complete purchase",
+          "body": "Gross roll area excludes losses to laps and details. Add the required fasteners, separate leak barriers and flashing, then compare total cost. On a small shed, leftover material and local availability can change value. Both field sheets require attention to vapor movement and ventilation. Community quote discussions show why the exact model belongs on a proposal; they do not establish that one brand will prevent every leak."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is original GRACE Ice & Water Shield the same as HT?",
+          "answer": "No. HT is a separate product for specified higher-temperature applications. Confirm the exact product with the roof-covering and membrane manufacturers, especially beneath metal."
+        },
+        {
+          "question": "Can I leave synthetic underlayment exposed as the roof?",
+          "answer": "These are secondary layers beneath a specified final covering. Follow the current exposure and fastening requirements; they do not supply a permanent exposed-roof design."
+        },
+        {
+          "question": "Does a self-adhered membrane solve ice dams?",
+          "answer": "It addresses water intrusion in a specified assembly. The roof's insulation, ventilation and design still need to address conditions that create ice dams and condensation."
+        }
+      ]
+    },
+    {
+      "id": "best-shed-roofing-panels-accessories",
+      "title": "Best roofing panels and accessories for backyard sheds",
+      "description": "Daylight and opaque panel candidates, plus purpose-specific vent and flashing options for a planned outbuilding roof.",
+      "label": "panels",
+      "productIds": [
+        "palram-suntuf-diy",
+        "ondura-premium-9",
+        "lomanco-bib-12",
+        "oatey-retro-master-flash-14751",
+        "gaf-cobra-snowcountry-advanced"
+      ],
+      "intro": "A shed roof is a set of compatible decisions. SUNTUF is our daylight-panel candidate, while Premium 9 is an opaque auxiliary-building alternative with a more cautious recommendation. The remaining picks address separate details: a wind turbine, a retrofit pipe flashing and a shingle-roof ridge vent. These five products are a planning shortlist, not a bundle to install together. Decide what the shed stores, how much light it needs and which roof assembly will carry the local loads.",
+      "selectionMethod": "We compared manufacturer use, material, support and compatibility requirements. Owner reports helped identify questions about condensation, accessory cost and legacy panel durability. Products with different roles are selected by purpose rather than ranked as substitutes.",
+      "sections": [
+        {
+          "heading": "Choose light or shade deliberately",
+          "body": "Clear SUNTUF can serve a potting shelter or greenhouse, but it also changes heat, privacy and condensation questions. A shaded or opaque finish may suit another structure. Premium 9 offers an opaque corrugated alternative for auxiliary buildings. Older ONDURA stories are mixed and rarely prove the current variant, so we would compare a fully specified metal-roof quote before choosing it for storage of valuable equipment."
+        },
+        {
+          "heading": "Price the complete panel roof",
+          "body": "Sheets need the supporting layout, correct fasteners, closures and perimeter details required by their own manuals. SUNTUF guidance allows for thermal movement; ONDURA's support and slope conditions vary with the assembly. Include matching accessories before deciding which panel costs less. Regional full-size stock and shipping can matter more than an online price for a similarly named but different sheet."
+        },
+        {
+          "heading": "Ventilation is an assembly decision",
+          "body": "The Lomanco turbine and GAF ridge vent are alternatives for different approved exhaust designs, rather than automatic additions to the same roof. Ridge exhaust needs a usable ridge and sufficient intake; its shingle-over configuration belongs to a compatible roof covering. An open shelter or an unvented roof cavity needs a different analysis. Choose the design first, then the device and size."
+        },
+        {
+          "heading": "Match pipe flashing to the covering",
+          "body": "Oatey Retro 14751 solves a specific access problem around an existing pipe on a profiled metal roof. It is not an asphalt-shingle flashing or a generic cover for a hot flue. Check the actual pipe diameter, use, temperature and surrounding roof detail before buying. A shed without that penetration has no reason to purchase it. Complete roofing decisions are often this ordinary: one correct component for each actual detail."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can these panels be walked on during maintenance?",
+          "answer": "Do not treat SUNTUF or ONDURA corrugations as a walking surface. Follow each manufacturer's access and installation requirements and use an appropriate work plan."
+        },
+        {
+          "question": "Should I install both a turbine and a ridge vent?",
+          "answer": "Only follow an approved ventilation design. GAF's ridge-vent instructions caution against mixing other exhaust types in the same vented attic."
+        },
+        {
+          "question": "Do I need a ridge vent for every shed?",
+          "answer": "No. First establish whether the shed has a vented roof cavity and what intake/exhaust plan is appropriate. A product label cannot supply that design."
+        },
+        {
+          "question": "Will any corrugated roof accessory fit?",
+          "answer": "Profiles and material requirements vary. Match closure strips, fasteners and flashing to the exact panel system and instructions."
+        }
+      ]
+    }
+  ],
+  "researchNotes": [
+    "These are researched product assessments, not hands-on tests. Manufacturer information checked October 13, 2026. Community reports are qualitative examples; identity, installation, substrate, and long-term outcomes are not independently verified.",
+    "Roof material compatibility, local design requirements and substrate condition decide suitability. None of these products repairs deteriorated structural decking or establishes a complete roof assembly by itself.",
+    "Oatey 14051 was removed from the initial roster because retailer and legacy manufacturer sizes conflict and one retailer marks its part number discontinued. Oatey Retro Master Flash 14751 has an exact current manufacturer variant page.",
+    "GRACE US technical PDFs were visible in search results but direct retrieval failed. The original membrane's detailed requirements were cross-checked against an accessible official regional technical page carrying North American product dimensions and limitations. Its dated approvals were not presented as current certifications.",
+    "Roofing best lists are shortlist-by-purpose buying guides, rather than experimentally established rankings. Full-size panels and many roofing-system components may be easier to source through a local building supplier than Amazon.",
+    "Two field-underlayment picks were researched afresh as DuPont Tyvek Protec 200 and Titanium UDL25 to match legitimate authenticated catalog products. All former FeltBuster and ProArmor guide references were replaced. Current UDL25 instructions are used over older brochures where exposure periods differ.",
+    "Oatey Retro 14751 remains reviewed without an accepted Amazon match. The broader 14049 candidate has conflicting manufacturer lower sizing limits, and Morris-branded 14751 is not the reviewed Oatey variant."
+  ]
+}

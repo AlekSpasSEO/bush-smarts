@@ -1,0 +1,11 @@
+{
+  "name": "bush-smarts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/validate.mjs",
+    "refresh:amazon": "node scripts/refresh-amazon.mjs",
+    "preview": "node scripts/preview.mjs"
+  }
+}
