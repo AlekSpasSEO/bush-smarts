@@ -1,0 +1,6 @@
+{
+  "amazon": {
+    "enabled": false,
+    "reason": "Paused at the owner's request. Do not enable or call the Amazon API until the owner explicitly asks to resume."
+  }
+}

@@ -2,6 +2,8 @@ import {readFile} from 'node:fs/promises';
 export const resources=['itemInfo.title','itemInfo.byLineInfo','itemInfo.features','itemInfo.manufactureInfo','itemInfo.productInfo','images.primary.large','images.variants.large','offersV2.listings.price','offersV2.listings.availability','offersV2.listings.merchantInfo','offersV2.listings.isBuyBoxWinner'];
 function csvRow(line){let cell='',quoted=false;const row=[];for(let i=0;i<line.length;i++){const c=line[i];if(c==='"'){if(quoted&&line[i+1]==='"'){cell+='"';i++;}else quoted=!quoted;}else if(c===','&&!quoted){row.push(cell);cell='';}else cell+=c;}row.push(cell);return row;}
 export async function createAmazonClient({credentialsPath,partnerTag='coffeedant03-20',marketplace='www.amazon.com'}={}){
+ const integrations=JSON.parse(await readFile(new URL('../content/integrations.json',import.meta.url),'utf8'));
+ if(integrations.amazon?.enabled!==true)throw Error('Amazon API access is paused by the owner. Resume only after explicit authorization.');
  let credentials={};
  if(credentialsPath){const lines=(await readFile(credentialsPath,'utf8')).replace(/^\uFEFF/,'').split(/\r?\n/).filter(Boolean);if(lines.length<2)throw Error('Credential CSV has no data row');const values=csvRow(lines[1]);credentials=Object.fromEntries(csvRow(lines[0]).map((h,i)=>[h,values[i]]));}
  const id=process.env.AMAZON_CREATORS_CREDENTIAL_ID||credentials['Credential Id'];

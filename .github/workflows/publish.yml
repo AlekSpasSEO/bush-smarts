@@ -3,8 +3,6 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-  schedule:
-    - cron: '23 */6 * * *'
 permissions:
   contents: read
   pages: write
@@ -21,13 +19,6 @@ jobs:
         with:
           node-version: 22
       - uses: actions/configure-pages@v5
-      - name: Fetch verified Amazon catalog data
-        env:
-          AMAZON_CREATORS_CREDENTIAL_ID: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_ID }}
-          AMAZON_CREATORS_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_SECRET }}
-          AMAZON_CREATORS_CREDENTIAL_VERSION: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_VERSION }}
-          AMAZON_ASSOCIATE_TAG: coffeedant03-20
-        run: npm run refresh:amazon
       - run: npm run build
       - run: npm run check
       - uses: actions/upload-pages-artifact@v3

@@ -26,6 +26,8 @@ Open http://127.0.0.1:4320/bush-smarts/. scripts/build.mjs creates dist/ from th
 
 ## Amazon US integration
 
+**Paused at the owner's request (October 17, 2026).** Do not call the Amazon API or re-enable it until the owner explicitly asks to resume. content/integrations.json disables client creation before credential reads or network requests. Publishing makes no Amazon calls and emits an empty retail snapshot, even when a previous local snapshot exists. Credentials remain stored for a possible future resumption.
+
 The Amazon Creators API supplies exact-matched product listings, linked image URLs, availability, and offers. content/amazon-matches.json contains editorial ASIN mappings with brand and model checks. Similar accessories, conflicting brands, and uncertain variants are rejected. Unmatched reviews keep their manufacturer links.
 
 Use environment variables AMAZON_CREATORS_CREDENTIAL_ID, AMAZON_CREATORS_CREDENTIAL_SECRET, and AMAZON_CREATORS_CREDENTIAL_VERSION, or a local credential CSV:
@@ -41,7 +43,7 @@ The API response tested for this account did not supply customer review text or 
 
 ## Publishing
 
-.github/workflows/publish.yml fetches a fresh Amazon snapshot, builds and validates the site, then deploys the dist/ artifact to GitHub Pages. It runs on pushes to main, manual dispatch, and every six hours. Repository secrets use the three credential environment variable names above. Set Pages publishing source to GitHub Actions.
+.github/workflows/publish.yml builds and validates the editorial site, then deploys the dist/ artifact to GitHub Pages. It runs on pushes to main and manual dispatch. Scheduled refreshes and the Amazon fetch step are removed while API access is paused. Set Pages publishing source to GitHub Actions.
 
 ## Editorial approach
 
