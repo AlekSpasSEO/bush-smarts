@@ -26,9 +26,9 @@ Open http://127.0.0.1:4320/bush-smarts/. scripts/build.mjs creates dist/ from th
 
 ## Amazon US integration
 
-**Paused at the owner's request (October 17, 2026).** Do not call the Amazon API or re-enable it until the owner explicitly asks to resume. content/integrations.json disables client creation before credential reads or network requests. Publishing makes no Amazon calls and emits an empty retail snapshot, even when a previous local snapshot exists. Credentials remain stored for a possible future resumption.
+**Live Amazon data remains paused.** Catalog requests were still denied (`AssociateNotEligible`) in the November 17, 2026 access check. Keep refresh jobs disabled until product access is restored. `content/integrations.json` blocks client creation before credential reads or network requests. Publishing makes no Amazon calls and emits an empty retail snapshot, even when a previous local snapshot exists.
 
-The Amazon Creators API supplies exact-matched product listings, linked image URLs, availability, and offers. content/amazon-matches.json contains editorial ASIN mappings with brand and model checks. Similar accessories, conflicting brands, and uncertain variants are rejected. Unmatched reviews keep their manufacturer links.
+`content/amazon-matches.json` contains the verified ASIN mappings with brand and model checks. Reviews and guides use these mappings for plain, tagged Amazon links independently of API data. Products without a verified ASIN link to manufacturer details or documentation. The optional Amazon Creators API provides images and offers only when enabled and the snapshot is fresh.
 
 Use environment variables AMAZON_CREATORS_CREDENTIAL_ID, AMAZON_CREATORS_CREDENTIAL_SECRET, and AMAZON_CREATORS_CREDENTIAL_VERSION, or a local credential CSV:
 
